@@ -17,6 +17,7 @@ Example 2:
 Input: [4,1,2,1,2]
 Output: 4
 """
+
 #Solution 1:
 class Solution(object):
 
@@ -38,6 +39,6 @@ class Solution(object):
             if nums.count(i) == 1:
                 n.append(i)
 
-        return n.pop()
+        return n
 
 
