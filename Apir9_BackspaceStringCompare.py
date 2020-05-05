@@ -34,25 +34,20 @@ Can you solve it in O(N) time and O(1) space?
 """
 
 def backspaceCompare(S,T):
-    S = list(S)
-    T = list(T)
-    out_S = []
-    out_T = []
-    for i, _ in enumerate(S):
-        if _ == '#':
-            out_S.remove(out_S[i - 1])
-
-        else:
-            out_S.append(_)
-    for j, _ in enumerate(T):
-        if _ == '#':
-            out_T.remove(out_T[j - 1])
-
-        else:
-            out_T.append(_)
-    if str(out_S) & str(out_T) == 1:
+    out_S = subbackspace(S)
+    out_T = subbackspace(T)
+    #sot = sorted(out_S)
+    if out_S == out_T:
         return True
     else:
         return False
-
-print(backspaceCompare("ab#c","ad#c"))
+def subbackspace(S):
+    ans = []
+    for c in S:
+        if c != '#':
+            ans.append(c)
+        elif ans:
+            ans.pop()
+    out_S ="".join(ans)
+    return out_S
+print(backspaceCompare("abc#","bac#"))

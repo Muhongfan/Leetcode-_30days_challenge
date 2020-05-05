@@ -12,3 +12,22 @@ Return 3, which is the length of the path [4,2,1,3] or [5,2,1,3].
 
 Note: The length of path between two nodes is represented by the number of edges between them.
 """
+
+
+def diameterOfBinaryTree(self, root):
+    """
+    :type root: TreeNode
+    :rtype: int
+    """
+    self.ans = 0
+
+    def depth(root):
+        if root == None:
+            return 0
+        left = depth(root.left)
+        right = depth(root.right)
+        self.ans = max(self.ans, left + right)
+        return max(left, right) + 1
+
+    depth(root)
+    return self.ans

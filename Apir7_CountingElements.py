@@ -32,6 +32,8 @@ Constraints:
 0 <= arr[i] <= 1000
 """
 
+# x AC
+
 def countElements(arr):
     dup = []
     count = 0
