@@ -15,6 +15,9 @@ Note:
 n does not exceed 1690.
 
 """
+'''
+It is the multiple of 2,3,5
+'''
 
 print(2%2)
 def nthUglyNumber(n):
@@ -38,24 +41,22 @@ def nthUglyNumber(n):
 
 def thUglyNumber(n):
 
-    L2 = 1
-    L3 = 1
-    L5 = 1
-    li = []
+    L2 = 0
+    L3 = 0
+    L5 = 0
+    out = []
 
-    li.append(1)
-    out = li.copy()
-    while len(out) -1 < n:
-        li.append(min(L2 * 2, min(L3 * 3, L5 * 5)))
-        out = sorted(set(li), key=li.index)
-        if out[-1] == L2 *2:
+    out.append(1)
+    while len(out) < n:
+        while out[-1] >= out[L2] *2:
             L2 += 1
-        if out[-1] == L3 *3:
+        while out[-1] >= out[L3] *3:
             L3 += 1
-        if out[-1] == L5 *5:
+        while out[-1] >= out[L5] *5:
             L5 += 1
-    print(li)
+        out.append(min(out[L2] * 2, out[L3] *3, out[L5] *5))
+        out = sorted(set(out), key=out.index)
     print(out)
     return out[-1]
 
-print(nthUglyNumber(10))
+print(thUglyNumber(11))
