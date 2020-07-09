@@ -22,6 +22,9 @@ The above arrows point to positions where the corresponding bits are different.
 
 
 """
+'''
+Binary number and how to compute binary ones
+'''
 import math
 
 def hammingDistance(x, y):

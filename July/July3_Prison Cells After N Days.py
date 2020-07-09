@@ -42,7 +42,9 @@ cells[i] is in {0, 1}
 1 <= N <= 10^9
 
 """
-
+'''
+Find the logic of the problem
+'''
 
 def prisonAfterNDays(cells, N):
     """

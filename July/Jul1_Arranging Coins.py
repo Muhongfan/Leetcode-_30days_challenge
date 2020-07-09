@@ -49,6 +49,9 @@ def arrangeCoins(n):
 print(arrangeCoins(3))
 
 # demo solution
+'''
+Find the logic of the problem
+'''
 import math
 def arrangecoins(N):
-    return math.floor((-1 + math.sqrt(1 + 8 * n)) / 2)
+    return math.floor((-1 + math.sqrt(1 + 8 * N)) / 2)
