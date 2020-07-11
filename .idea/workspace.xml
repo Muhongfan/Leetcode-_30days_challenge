@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="998bba8e-bd0b-4ffc-ae6f-29237594be4d" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/July/Jul9_Maximum Width of Binary Tree.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/July/Jul1_Arranging Coins.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/Jul1_Arranging Coins.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/July/Jul2_Binary Tree Level Order Traversal II.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/Jul2_Binary Tree Level Order Traversal II.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/July/Jul5_Hamming Distance.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/Jul5_Hamming Distance.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/July/Jul6_Plus One.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/Jul6_Plus One.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/July/July3_Prison Cells After N Days.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/July3_Prison Cells After N Days.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/July/Tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/Tree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/July/Jul 8_3 SUMS.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/Jul8_3 SUMS.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/July/July3_Prison Cells After N Days.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/Jul3_Prison Cells After N Days.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -43,7 +40,7 @@
       <file leaf-file-name="Jul1_Arranging Coins.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/July/Jul1_Arranging Coins.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
+            <state relative-caret-position="780">
               <caret line="52" column="29" selection-start-line="52" selection-start-column="29" selection-end-line="52" selection-end-column="29" />
             </state>
           </provider>
@@ -52,8 +49,8 @@
       <file leaf-file-name="Jul4_Ugly Number II.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/July/Jul4_Ugly Number II.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
-              <caret line="18" column="27" lean-forward="true" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+            <state relative-caret-position="270">
+              <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -61,7 +58,7 @@
       <file leaf-file-name="Jul5_Hamming Distance.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/July/Jul5_Hamming Distance.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
+            <state relative-caret-position="435">
               <caret line="29" column="26" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
             </state>
           </provider>
@@ -79,38 +76,46 @@
       <file leaf-file-name="Tree.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/July/Tree.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="163">
-              <caret line="79" column="37" lean-forward="true" selection-start-line="79" selection-start-column="37" selection-end-line="79" selection-end-column="37" />
+            <state relative-caret-position="1185">
+              <caret line="79" column="37" selection-start-line="79" selection-start-column="37" selection-end-line="79" selection-end-column="37" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Jul6_Plus One.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Jul6_Plus One.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/July/Jul6_Plus One.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="355">
-              <caret line="41" column="24" lean-forward="true" selection-start-line="41" selection-start-column="24" selection-end-line="41" selection-end-column="24" />
+            <state relative-caret-position="645">
+              <caret line="43" selection-start-line="43" selection-end-line="43" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="July3_Prison Cells After N Days.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/July/July3_Prison Cells After N Days.py">
+      <file leaf-file-name="Jul8_3 SUMS.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/July/Jul8_3 SUMS.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="111">
-              <caret line="41" column="14" lean-forward="true" selection-start-line="41" selection-start-column="14" selection-end-line="41" selection-end-column="14" />
+            <state relative-caret-position="56">
+              <caret line="36" column="28" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Jun3_Two City Scheduling  Solution.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/June/Jun3_Two City Scheduling  Solution.py">
-          <provider selected="true" editor-type-id="text-editor" />
+      <file leaf-file-name="Jul9_Maximum Width of Binary Tree.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/July/Jul9_Maximum Width of Binary Tree.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="206">
+              <caret line="71" column="16" lean-forward="true" selection-start-line="71" selection-start-column="16" selection-end-line="71" selection-end-column="16" />
+            </state>
+          </provider>
         </entry>
       </file>
-      <file leaf-file-name="May3_Ransom Note.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/May/May3_Ransom Note.py">
-          <provider selected="true" editor-type-id="text-editor" />
+      <file leaf-file-name="Jul3_Prison Cells After N Days.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/July/Jul3_Prison Cells After N Days.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="615">
+              <caret line="41" column="14" selection-start-line="41" selection-start-column="14" selection-end-line="41" selection-end-column="14" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file leaf-file-name="_pydev_execfile.py" pinned="false" current-in-tab="false">
@@ -167,6 +172,8 @@
         <option value="$PROJECT_DIR$/July/Jul5_Hamming Distance.py" />
         <option value="$PROJECT_DIR$/July/July3_Prison Cells After N Days.py" />
         <option value="$PROJECT_DIR$/July/Jul6_Plus One.py" />
+        <option value="$PROJECT_DIR$/July/Jul 8_3 SUMS.py" />
+        <option value="$PROJECT_DIR$/July/Jul9_Maximum Width of Binary Tree.py" />
       </list>
     </option>
   </component>
@@ -180,8 +187,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="110" />
-    <option name="y" value="26" />
+    <option name="x" value="54" />
+    <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="702" />
   </component>
@@ -191,6 +198,17 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Leetcode_30_challenge" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Leetcode_30_challenge" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope">
         <subPane subId="Project Files">
           <expand>
@@ -217,17 +235,6 @@
               <item name="Root" type="cbb8eebc:String" user="Root" />
               <item name="Leetcode_30_challenge" type="cbb8eebc:String" user="Leetcode_30_challenge" />
               <item name="May" type="cbb8eebc:String" user="May" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Leetcode_30_challenge" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Leetcode_30_challenge" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -386,7 +393,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="110" y="26" width="1280" height="702" extended-state="0" />
+    <frame x="0" y="23" width="1280" height="702" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -395,8 +402,8 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.3298969" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3281787" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.30756015" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16720517" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.30756015" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1720517" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -427,57 +434,57 @@
           <option name="timeStamp" value="79" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url />
+          <url>file://$PROJECT_DIR$/July/Jul3_Prison Cells After N Days.py</url>
           <line>58</line>
           <option name="timeStamp" value="80" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url />
+          <url>file://$PROJECT_DIR$/July/Jul4_Ugly Number II.py</url>
           <line>59</line>
           <option name="timeStamp" value="89" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url />
+          <url>file://$PROJECT_DIR$/July/Jul4_Ugly Number II.py</url>
           <line>49</line>
           <option name="timeStamp" value="93" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url />
+          <url>file://$PROJECT_DIR$/July/Jul4_Ugly Number II.py</url>
           <line>56</line>
           <option name="timeStamp" value="94" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url />
+          <url>file://$PROJECT_DIR$/July/Jul4_Ugly Number II.py</url>
           <line>52</line>
           <option name="timeStamp" value="95" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url />
+          <url>file://$PROJECT_DIR$/July/Jul5_Hamming Distance.py</url>
           <line>33</line>
           <option name="timeStamp" value="107" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url />
+          <url>file://$PROJECT_DIR$/July/Jul5_Hamming Distance.py</url>
           <line>34</line>
           <option name="timeStamp" value="108" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url />
+          <url>file://$PROJECT_DIR$/July/Jul6_Plus One.py</url>
           <line>29</line>
           <option name="timeStamp" value="112" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url />
+          <url>file://$PROJECT_DIR$/July/Jul6_Plus One.py</url>
           <line>30</line>
           <option name="timeStamp" value="113" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url />
+          <url>file://$PROJECT_DIR$/July/Jul6_Plus One.py</url>
           <line>31</line>
           <option name="timeStamp" value="114" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url />
+          <url>file://$PROJECT_DIR$/July/Jul6_Plus One.py</url>
           <line>32</line>
           <option name="timeStamp" value="115" />
         </line-breakpoint>
@@ -560,14 +567,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/July/Tree.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="163">
-          <caret line="79" column="37" lean-forward="true" selection-start-line="79" selection-start-column="37" selection-end-line="79" selection-end-column="37" />
+        <state relative-caret-position="1185">
+          <caret line="79" column="37" selection-start-line="79" selection-start-column="37" selection-end-line="79" selection-end-column="37" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/July/Jul1_Arranging Coins.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
+        <state relative-caret-position="780">
           <caret line="52" column="29" selection-start-line="52" selection-start-column="29" selection-end-line="52" selection-end-column="29" />
         </state>
       </provider>
@@ -581,35 +588,43 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/July/Jul4_Ugly Number II.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="18" column="27" lean-forward="true" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+        <state relative-caret-position="270">
+          <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/July/Jul5_Hamming Distance.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
+        <state relative-caret-position="435">
           <caret line="29" column="26" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/July/July3_Prison Cells After N Days.py">
+    <entry file="file://$PROJECT_DIR$/July/Jul3_Prison Cells After N Days.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="111">
-          <caret line="41" column="14" lean-forward="true" selection-start-line="41" selection-start-column="14" selection-end-line="41" selection-end-column="14" />
+        <state relative-caret-position="615">
+          <caret line="41" column="14" selection-start-line="41" selection-start-column="14" selection-end-line="41" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/June/Jun3_Two City Scheduling  Solution.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/May/May3_Ransom Note.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/July/Jul6_Plus One.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="355">
-          <caret line="41" column="24" lean-forward="true" selection-start-line="41" selection-start-column="24" selection-end-line="41" selection-end-column="24" />
+        <state relative-caret-position="645">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/July/Jul8_3 SUMS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="36" column="28" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/July/Jul9_Maximum Width of Binary Tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="71" column="16" lean-forward="true" selection-start-line="71" selection-start-column="16" selection-end-line="71" selection-end-column="16" />
         </state>
       </provider>
     </entry>
