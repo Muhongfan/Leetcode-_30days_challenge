@@ -27,6 +27,7 @@ def subsets(nums):
         final += [item + [num] for item in final]
     return final
 
+# DFS 搜索方法
 def subsets2(nums):
     final = []
     def dfs(path, index):
@@ -36,3 +37,4 @@ def subsets2(nums):
     dfs([], 0)
     return final
 
+print(subsets([1,2,3]))
