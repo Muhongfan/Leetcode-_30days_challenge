@@ -58,33 +58,58 @@ if __name__ == "__main__":
     t.add(9)
     t.breadth_travel()
 
-class TreeNode(object):
-    def __init__(self, val=0, left=None, right=None):
-        self.val = val
-        self.left = left
-        self.right = right
-    def levelOrder(root):
-        """
-        :type root: TreeNode
-        :rtype: List[List[int]]
-        """
-        res = []
-        tmp = [[root]]
-        if root == None:
-            return res
-        while tmp != []:
-            s = tmp.pop(0)
-            tmp1 = []
-            tmp2 = []
-            for i in range(len(s)):
-                tmp1.append(s[i].val)
-                if s[i].left != None:
-                    tmp2.append(s[i].left)
-                if s[i].right != None:
-                    tmp2.append(s[i].right)
-            if tmp2 != []:
-                tmp.append(tmp2)
-            res.append(tmp1)
-        return res
 
-print(levelOrder([3,9,20,0,0,15,7]))
+class Node:
+    def __init__(self, value=None, left=None, right=None):
+        self.value = value
+        self.left = left  # 左子树
+        self.right = right  # 右子树
+
+
+def preTraverse(root):
+    '''
+    前序遍历
+    '''
+    if root == None:
+        return
+    print(root.value)
+    preTraverse(root.left)
+    preTraverse(root.right)
+
+
+def midTraverse(root):
+    '''
+    中序遍历
+    '''
+    if root == None:
+        return
+    midTraverse(root.left)
+    print(root.value)
+    midTraverse(root.right)
+
+
+def afterTraverse(root):
+    '''
+    后序遍历
+    '''
+    if root == None:
+        return
+    afterTraverse(root.left)
+    afterTraverse(root.right)
+    print(root.value)
+
+
+if __name__ == '__main__':
+    root = Node('D', Node('B', Node('A'), Node('C')), Node('E', right=Node('G', Node('F'))))
+    print('前序遍历：')
+    preTraverse(root)
+    print('\n')
+    print('中序遍历：')
+    midTraverse(root)
+    print('\n')
+    print('后序遍历：')
+    afterTraverse(root)
+    print('\n')
+
+
+

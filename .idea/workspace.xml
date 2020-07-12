@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="998bba8e-bd0b-4ffc-ae6f-29237594be4d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/July/Jul9_Maximum Width of Binary Tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/July/Jul10_Flatten a Multilevel Doubly Linked List.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/July/Jul 8_3 SUMS.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/Jul8_3 SUMS.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/July/July3_Prison Cells After N Days.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/Jul3_Prison Cells After N Days.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/July/Jul9_Maximum Width of Binary Tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/Jul9_Maximum Width of Binary Tree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/July/Tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/Tree.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -24,7 +24,7 @@
     <SUITE FILE_PATH="coverage/Leetcode_30_challenge$HappyNumber_Apir2.coverage" NAME="HappyNumber_Apir2 Coverage Results" MODIFIED="1586621659846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode_30_challenge$July3_Prison_Cells_After_N_Days.coverage" NAME="July3_Prison Cells After N Days Coverage Results" MODIFIED="1593835167994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/July" />
     <SUITE FILE_PATH="coverage/Leetcode_30_challenge$Tree.coverage" NAME="Tree Coverage Results" MODIFIED="1593994233069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/July" />
-    <SUITE FILE_PATH="coverage/Leetcode_30_challenge$Jul6_Plus_One.coverage" NAME="Jul6_Plus One Coverage Results" MODIFIED="1594139810516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/July" />
+    <SUITE FILE_PATH="coverage/Leetcode_30_challenge$Jul6_Plus_One.coverage" NAME="Jul6_Plus One Coverage Results" MODIFIED="1594433273938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/July" />
     <SUITE FILE_PATH="coverage/Leetcode_30_challenge$GroupAnagrams_Apir6.coverage" NAME="GroupAnagrams_Apir6 Coverage Results" MODIFIED="1587843499886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode_30_challenge$BackspaceStringCompare_Apir9.coverage" NAME="BackspaceStringCompare_Apir9 Coverage Results" MODIFIED="1588282851730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode_30_challenge$Apir10_MinStack.coverage" NAME="Apir10_MinStack Coverage Results" MODIFIED="1588288512748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -33,6 +33,7 @@
     <SUITE FILE_PATH="coverage/Leetcode_30_challenge$Apir12_ContiguousArray.coverage" NAME="Apir12_ContiguousArray Coverage Results" MODIFIED="1588296465818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode_30_challenge$Jul4_Ugly_Number_II.coverage" NAME="Jul4_Ugly Number II Coverage Results" MODIFIED="1593962582635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/July" />
     <SUITE FILE_PATH="coverage/Leetcode_30_challenge$Jul5_Hamming_Distance.coverage" NAME="Jul5_Hamming Distance Coverage Results" MODIFIED="1593970812323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/July" />
+    <SUITE FILE_PATH="coverage/Leetcode_30_challenge$Jul9_Maximum_Width_of_Binary_Tree.coverage" NAME="Jul9_Maximum Width of Binary Tree Coverage Results" MODIFIED="1594433284182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/July" />
     <SUITE FILE_PATH="coverage/Leetcode_30_challenge$Jul1_Arranging_Coins.coverage" NAME="Jul1_Arranging Coins Coverage Results" MODIFIED="1593837454719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/July" />
   </component>
   <component name="FileEditorManager">
@@ -76,8 +77,8 @@
       <file leaf-file-name="Tree.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/July/Tree.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1185">
-              <caret line="79" column="37" selection-start-line="79" selection-start-column="37" selection-end-line="79" selection-end-column="37" />
+            <state relative-caret-position="765">
+              <caret line="51" column="12" lean-forward="true" selection-start-line="51" selection-start-column="12" selection-end-line="51" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -100,11 +101,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Jul9_Maximum Width of Binary Tree.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Jul9_Maximum Width of Binary Tree.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/July/Jul9_Maximum Width of Binary Tree.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="206">
-              <caret line="71" column="16" lean-forward="true" selection-start-line="71" selection-start-column="16" selection-end-line="71" selection-end-column="16" />
+            <state relative-caret-position="546">
+              <caret line="76" column="52" lean-forward="true" selection-start-line="76" selection-start-column="52" selection-end-line="76" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Jul10_Flatten a Multilevel Doubly Linked List.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/July/Jul10_Flatten a Multilevel Doubly Linked List.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="248">
+              <caret line="94" column="11" lean-forward="true" selection-start-line="94" selection-start-column="11" selection-end-line="94" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -114,15 +124,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="615">
               <caret line="41" column="14" selection-start-line="41" selection-start-column="14" selection-end-line="41" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_pydev_execfile.py" pinned="false" current-in-tab="false">
-        <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
@@ -166,7 +167,6 @@
         <option value="$PROJECT_DIR$/June/Jun3_Two City Scheduling  Solution.py" />
         <option value="$PROJECT_DIR$/May/May3_Ransom Note.py" />
         <option value="$PROJECT_DIR$/July/Jul4_Ugly Number II.py" />
-        <option value="$PROJECT_DIR$/July/Tree.py" />
         <option value="$PROJECT_DIR$/July/Jul1_Arranging Coins.py" />
         <option value="$PROJECT_DIR$/July/Jul2_Binary Tree Level Order Traversal II.py" />
         <option value="$PROJECT_DIR$/July/Jul5_Hamming Distance.py" />
@@ -174,6 +174,8 @@
         <option value="$PROJECT_DIR$/July/Jul6_Plus One.py" />
         <option value="$PROJECT_DIR$/July/Jul 8_3 SUMS.py" />
         <option value="$PROJECT_DIR$/July/Jul9_Maximum Width of Binary Tree.py" />
+        <option value="$PROJECT_DIR$/July/Tree.py" />
+        <option value="$PROJECT_DIR$/July/Jul10_Flatten a Multilevel Doubly Linked List.py" />
       </list>
     </option>
   </component>
@@ -266,7 +268,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Jul6_Plus One">
+  <component name="RunManager" selected="Python.Jul9_Maximum Width of Binary Tree">
     <configuration name="Jul2_Binary Tree Level Order Traversal II" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode_30_challenge" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -281,25 +283,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/July/Jul2_Binary Tree Level Order Traversal II.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="Jul4_Ugly Number II" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Leetcode_30_challenge" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/July" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/July/Jul4_Ugly Number II.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -343,6 +326,25 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="Jul9_Maximum Width of Binary Tree" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Leetcode_30_challenge" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/July" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/July/Jul9_Maximum Width of Binary Tree.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="Tree" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode_30_challenge" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -363,19 +365,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.Jul4_Ugly Number II" />
       <item itemvalue="Python.Jul5_Hamming Distance" />
       <item itemvalue="Python.Jul2_Binary Tree Level Order Traversal II" />
       <item itemvalue="Python.Tree" />
       <item itemvalue="Python.Jul6_Plus One" />
+      <item itemvalue="Python.Jul9_Maximum Width of Binary Tree" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Jul9_Maximum Width of Binary Tree" />
         <item itemvalue="Python.Jul6_Plus One" />
         <item itemvalue="Python.Tree" />
         <item itemvalue="Python.Jul2_Binary Tree Level Order Traversal II" />
         <item itemvalue="Python.Jul5_Hamming Distance" />
-        <item itemvalue="Python.Jul4_Ugly Number II" />
       </list>
     </recent_temporary>
   </component>
@@ -401,8 +403,8 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.3298969" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3281787" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.30756015" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3281787" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.30756015" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1720517" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
@@ -493,7 +495,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Apir2_HappyNumber.py" />
     <entry file="file://$PROJECT_DIR$/Apir3_Maximum Subarray.py" />
     <entry file="file://$PROJECT_DIR$/Apir8_MiddleoftheLinkedList.py" />
     <entry file="file://$PROJECT_DIR$/Apir9_BackspaceStringCompare.py" />
@@ -565,13 +566,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/July/Tree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1185">
-          <caret line="79" column="37" selection-start-line="79" selection-start-column="37" selection-end-line="79" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/July/Jul1_Arranging Coins.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="780">
@@ -623,8 +617,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/July/Jul9_Maximum Width of Binary Tree.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="71" column="16" lean-forward="true" selection-start-line="71" selection-start-column="16" selection-end-line="71" selection-end-column="16" />
+        <state relative-caret-position="546">
+          <caret line="76" column="52" lean-forward="true" selection-start-line="76" selection-start-column="52" selection-end-line="76" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/July/Tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="51" column="12" lean-forward="true" selection-start-line="51" selection-start-column="12" selection-end-line="51" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/July/Jul10_Flatten a Multilevel Doubly Linked List.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="94" column="11" lean-forward="true" selection-start-line="94" selection-start-column="11" selection-end-line="94" selection-end-column="11" />
         </state>
       </provider>
     </entry>
