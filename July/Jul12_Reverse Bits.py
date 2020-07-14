@@ -25,8 +25,20 @@ Follow up:
 
 If this function is called many times, how would you optimize it?
 """
+from xlwings import xrange
 
-
+#输入->2进制字符串->翻转->扩充到32位->无符号整数
 def reverseBits(self, n: int) -> int:
     b = bin(n)[:1:-1]
     return int(b + '0' * (32 - len(b)), 2)
+#低位高位取值->逆序排列->翻转
+def reverseBits2( n):
+    """
+    :type n: int
+    :rtype: int
+    """
+    res = 0
+    for i in xrange(32):
+        res <<= 1
+        res |= ((n >> i) & 1)
+    return res
