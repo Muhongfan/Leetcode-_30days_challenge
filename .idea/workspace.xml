@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="998bba8e-bd0b-4ffc-ae6f-29237594be4d" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/July/Jul13_Same Tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/Jul13_Same Tree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/July/Jul14_Angle Between Hands of a Clock.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/Jul14_Angle Between Hands of a Clock.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,6 +14,7 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Leetcode_30_challenge$Apir1.coverage" NAME="Apir1 Coverage Results" MODIFIED="1586199711743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Leetcode_30_challenge$Jul15_Reverse_Words_in_a_String.coverage" NAME="Jul15_Reverse Words in a String Coverage Results" MODIFIED="1594864125604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/July" />
     <SUITE FILE_PATH="coverage/Leetcode_30_challenge$CountingElements_Apir7.coverage" NAME="CountingElements_Apir7 Coverage Results" MODIFIED="1587847482353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode_30_challenge$BestTimetoBuyandSellStock2_Apir5.coverage" NAME="BestTimetoBuyandSellStock2_Apir5 Coverage Results" MODIFIED="1587782251569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode_30_challenge$ContiguousArray_Apir13.coverage" NAME="ContiguousArray_Apir13 Coverage Results" MODIFIED="1586831926914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -55,15 +56,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Jul8_3 SUMS.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/July/Jul8_3 SUMS.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="36" column="28" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Jul9_Maximum Width of Binary Tree.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/July/Jul9_Maximum Width of Binary Tree.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -85,17 +77,26 @@
       <file leaf-file-name="Jul12_Reverse Bits.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/July/Jul12_Reverse Bits.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="146">
+            <state relative-caret-position="540">
               <caret line="36" column="16" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Jul13_Same Tree.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Jul13_Same Tree.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/July/Jul13_Same Tree.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="116">
               <caret line="42" column="15" selection-start-line="42" selection-start-column="15" selection-end-line="42" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Jul14_Angle Between Hands of a Clock.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/July/Jul14_Angle Between Hands of a Clock.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="281">
+              <caret line="66" column="52" lean-forward="true" selection-start-line="66" selection-start-column="52" selection-end-line="66" selection-end-column="52" />
             </state>
           </provider>
         </entry>
@@ -180,6 +181,7 @@
         <option value="$PROJECT_DIR$/July/Jul11_Subsets.py" />
         <option value="$PROJECT_DIR$/July/Jul12_Reverse Bits.py" />
         <option value="$PROJECT_DIR$/July/Jul13_Same Tree.py" />
+        <option value="$PROJECT_DIR$/July/Jul14_Angle Between Hands of a Clock.py" />
       </list>
     </option>
   </component>
@@ -266,7 +268,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Jul11_Subsets">
+  <component name="RunManager" selected="Python.Jul15_Reverse Words in a String">
     <configuration name="Jul11_Subsets" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode_30_challenge" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -286,7 +288,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Jul2_Binary Tree Level Order Traversal II" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Jul15_Reverse Words in a String" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode_30_challenge" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -299,7 +301,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/July/Jul2_Binary Tree Level Order Traversal II.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/July/Jul15_Reverse Words in a String.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -363,19 +365,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.Jul2_Binary Tree Level Order Traversal II" />
       <item itemvalue="Python.Tree" />
       <item itemvalue="Python.Jul6_Plus One" />
       <item itemvalue="Python.Jul9_Maximum Width of Binary Tree" />
       <item itemvalue="Python.Jul11_Subsets" />
+      <item itemvalue="Python.Jul15_Reverse Words in a String" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Jul15_Reverse Words in a String" />
         <item itemvalue="Python.Jul11_Subsets" />
         <item itemvalue="Python.Jul9_Maximum Width of Binary Tree" />
         <item itemvalue="Python.Jul6_Plus One" />
         <item itemvalue="Python.Tree" />
-        <item itemvalue="Python.Jul2_Binary Tree Level Order Traversal II" />
       </list>
     </recent_temporary>
   </component>
@@ -394,6 +396,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="702" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -402,7 +405,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.3298969" />
       <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.30756015" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17447495" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17689823" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -492,7 +495,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Apir15_ProductofArrayExceptSelf.py" />
     <entry file="file://$PROJECT_DIR$/Apir7_CountingElements.py" />
     <entry file="file://$PROJECT_DIR$/Apir1_SingleNumber.py" />
     <entry file="file://$PROJECT_DIR$/Apir7_CountingElements.py" />
@@ -651,7 +653,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/July/Jul12_Reverse Bits.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
+        <state relative-caret-position="540">
           <caret line="36" column="16" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
         </state>
       </provider>
@@ -660,6 +662,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="116">
           <caret line="42" column="15" selection-start-line="42" selection-start-column="15" selection-end-line="42" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/July/Jul14_Angle Between Hands of a Clock.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="66" column="52" lean-forward="true" selection-start-line="66" selection-start-column="52" selection-end-line="66" selection-end-column="52" />
         </state>
       </provider>
     </entry>
