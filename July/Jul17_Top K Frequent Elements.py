@@ -45,3 +45,28 @@ def topKFrequent2(nums,k):
     k_freq2 = [num[0] for num in sorted_nums[:k]]
     return k_freq2
 print(topKFrequent2([1,1,1,2,2,3],2))
+
+#demo
+def topKFrequent(nums, k):
+    """
+    :type nums: List[int]
+    :type k: int
+    :rtype: List[int]
+    """
+
+    d = {}
+    output = []
+
+    for i in nums:
+        if i in d:
+            d[i] += 1
+        else:
+            d[i] = 1
+
+    dmap = sorted(d, key=d.get)
+    f_dmap = dmap[::-1]
+
+    for i in range(k):
+        output.append(f_dmap[i])
+
+    return output
