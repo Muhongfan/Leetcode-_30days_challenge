@@ -26,4 +26,5 @@ def addBinary(a, b):
     b = int(b, 2)
     result = bin(a + b)
     return result[2:]
+    # return str(result).replace("0b",'')
 print(addBinary("11","1"))
