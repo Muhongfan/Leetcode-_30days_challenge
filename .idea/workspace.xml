@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="998bba8e-bd0b-4ffc-ae6f-29237594be4d" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/July/Jul19_Add Binary" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/July/Jul18_Course Schedule II.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/Jul18_Course Schedule II.py" afterDir="false" />
     </list>
@@ -22,6 +23,7 @@
     <SUITE FILE_PATH="coverage/Leetcode_30_challenge$Jul5_Hamming_Distance.coverage" NAME="Jul5_Hamming Distance Coverage Results" MODIFIED="1593970812323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/July" />
     <SUITE FILE_PATH="coverage/Leetcode_30_challenge$Jul9_Maximum_Width_of_Binary_Tree.coverage" NAME="Jul9_Maximum Width of Binary Tree Coverage Results" MODIFIED="1594433284182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/July" />
     <SUITE FILE_PATH="coverage/Leetcode_30_challenge$Jul1_Arranging_Coins.coverage" NAME="Jul1_Arranging Coins Coverage Results" MODIFIED="1593837454719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/July" />
+    <SUITE FILE_PATH="coverage/Leetcode_30_challenge$Jul19_Add_Binary.coverage" NAME="Jul19_Add Binary Coverage Results" MODIFIED="1595210277853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/July" />
     <SUITE FILE_PATH="coverage/Leetcode_30_challenge$Apir1.coverage" NAME="Apir1 Coverage Results" MODIFIED="1586199711743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode_30_challenge$Jul15_Reverse_Words_in_a_String.coverage" NAME="Jul15_Reverse Words in a String Coverage Results" MODIFIED="1594864125604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/July" />
     <SUITE FILE_PATH="coverage/Leetcode_30_challenge$CountingElements_Apir7.coverage" NAME="CountingElements_Apir7 Coverage Results" MODIFIED="1587847482353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -50,11 +52,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Jul18_Course Schedule II.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Jul18_Course Schedule II.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/July/Jul18_Course Schedule II.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-155">
-              <caret line="37" column="28" lean-forward="true" selection-start-line="37" selection-start-column="28" selection-end-line="37" selection-end-column="28" />
+            <state relative-caret-position="105">
+              <caret line="51" column="26" selection-start-line="51" selection-start-column="26" selection-end-line="51" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Jul19_Add Binary" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/July/Jul19_Add Binary">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="282">
+              <caret line="23" column="14" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -71,7 +82,7 @@
       <file leaf-file-name="Jul15_Reverse Words in a String.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/July/Jul15_Reverse Words in a String.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="37">
+            <state relative-caret-position="315">
               <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
             </state>
           </provider>
@@ -135,6 +146,7 @@
         <option value="$PROJECT_DIR$/July/Jul16_pow(x,n).py" />
         <option value="$PROJECT_DIR$/July/Jul17_Top K Frequent Elements.py" />
         <option value="$PROJECT_DIR$/July/Jul18_Course Schedule II.py" />
+        <option value="$PROJECT_DIR$/July/Jul19_Add Binary" />
       </list>
     </option>
   </component>
@@ -158,17 +170,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Leetcode_30_challenge" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Leetcode_30_challenge" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="Scope">
         <subPane subId="Project Files">
           <expand>
@@ -180,6 +181,17 @@
               <item name="Root" type="cbb8eebc:String" user="Root" />
               <item name="Leetcode_30_challenge" type="cbb8eebc:String" user="Leetcode_30_challenge" />
               <item name="July" type="cbb8eebc:String" user="July" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Leetcode_30_challenge" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Leetcode_30_challenge" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -211,26 +223,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Jul18_Course Schedule II">
-    <configuration name="Jul11_Subsets" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Leetcode_30_challenge" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/July" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/July/Jul11_Subsets.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.Jul19_Add Binary">
     <configuration name="Jul15_Reverse Words in a String" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode_30_challenge" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -307,20 +300,39 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="Jul19_Add Binary" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Leetcode_30_challenge" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/July" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/July/Jul19_Add Binary" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list>
-      <item itemvalue="Python.Jul11_Subsets" />
       <item itemvalue="Python.Jul15_Reverse Words in a String" />
       <item itemvalue="Python.Jul16_pow(x,n)" />
       <item itemvalue="Python.Jul17_Top K Frequent Elements" />
       <item itemvalue="Python.Jul18_Course Schedule II" />
+      <item itemvalue="Python.Jul19_Add Binary" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Jul19_Add Binary" />
         <item itemvalue="Python.Jul18_Course Schedule II" />
         <item itemvalue="Python.Jul17_Top K Frequent Elements" />
         <item itemvalue="Python.Jul16_pow(x,n)" />
         <item itemvalue="Python.Jul15_Reverse Words in a String" />
-        <item itemvalue="Python.Jul11_Subsets" />
       </list>
     </recent_temporary>
   </component>
@@ -339,15 +351,16 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="702" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.3298969" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3281787" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.30756015" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18174475" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3281787" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.30756015" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18416801" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -378,67 +391,67 @@
           <option name="timeStamp" value="79" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/July/Jul3_Prison Cells After N Days.py</url>
+          <url />
           <line>58</line>
           <option name="timeStamp" value="80" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/July/Jul4_Ugly Number II.py</url>
+          <url />
           <line>59</line>
           <option name="timeStamp" value="89" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/July/Jul4_Ugly Number II.py</url>
+          <url />
           <line>49</line>
           <option name="timeStamp" value="93" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/July/Jul4_Ugly Number II.py</url>
+          <url />
           <line>56</line>
           <option name="timeStamp" value="94" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/July/Jul4_Ugly Number II.py</url>
+          <url />
           <line>52</line>
           <option name="timeStamp" value="95" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/July/Jul5_Hamming Distance.py</url>
+          <url />
           <line>33</line>
           <option name="timeStamp" value="107" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/July/Jul5_Hamming Distance.py</url>
+          <url />
           <line>34</line>
           <option name="timeStamp" value="108" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/July/Jul6_Plus One.py</url>
+          <url />
           <line>29</line>
           <option name="timeStamp" value="112" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/July/Jul6_Plus One.py</url>
+          <url />
           <line>30</line>
           <option name="timeStamp" value="113" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/July/Jul6_Plus One.py</url>
+          <url />
           <line>31</line>
           <option name="timeStamp" value="114" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/July/Jul6_Plus One.py</url>
+          <url />
           <line>32</line>
           <option name="timeStamp" value="115" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/July/Jul17_Top K Frequent Elements.py</url>
+          <url />
           <line>45</line>
           <option name="timeStamp" value="121" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/July/Jul17_Top K Frequent Elements.py</url>
+          <url />
           <line>44</line>
           <option name="timeStamp" value="122" />
         </line-breakpoint>
@@ -447,7 +460,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Apir9_BackspaceStringCompare.py" />
     <entry file="file://$PROJECT_DIR$/Apir1_SingleNumber.py" />
     <entry file="file://$PROJECT_DIR$/Apir2_HappyNumber.py" />
     <entry file="file://$PROJECT_DIR$/Apir3_Maximum Subarray.py" />
@@ -622,7 +634,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/July/Jul15_Reverse Words in a String.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="37">
+        <state relative-caret-position="315">
           <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
         </state>
       </provider>
@@ -643,8 +655,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/July/Jul18_Course Schedule II.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-155">
-          <caret line="37" column="28" lean-forward="true" selection-start-line="37" selection-start-column="28" selection-end-line="37" selection-end-column="28" />
+        <state relative-caret-position="105">
+          <caret line="51" column="26" selection-start-line="51" selection-start-column="26" selection-end-line="51" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/July/Jul19_Add Binary">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="23" column="14" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
         </state>
       </provider>
     </entry>
