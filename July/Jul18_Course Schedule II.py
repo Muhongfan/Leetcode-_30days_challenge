@@ -29,7 +29,7 @@ def findOrder(numCourses, prerequisites):
 
 print(findOrder(2,[[1,0]]))
 
-#demo
+#demo sulo
 def findOrder(numCourses, prerequisites):
 
     status = [0] * numCourses
@@ -59,7 +59,7 @@ def findOrder(numCourses, prerequisites):
                 return []
     return stack[::-1]
 
-
+#demo solu
 def findOrder(numCourses, prerequisites):
     how_many_pre_req = [0] * numCourses
     other_course = [[] for _ in range(n)]
@@ -75,3 +75,34 @@ def findOrder(numCourses, prerequisites):
     if len(dfs) == numCourses:
         return dfs
     return []
+
+#demo solu
+def findOrder(numCourses, prerequisites):
+
+    adjlist = defaultdict(list)
+
+    indegree = {}
+
+    for dst, src in prerequisites:
+        adjlist[src].append(dst)
+
+        indegree[dst] = indegree.get(dst, 0) + 1
+
+    ziq = deque([k for k in range(numCourses) if k not in indegree])
+    t = []
+
+    while ziq:
+        v = ziq.popleft()
+        t.append(v)
+
+        if v in adjlist:
+            for i in adjlist[v]:
+                indegree[i] -= 1
+
+                if indegree[i] == 0:
+                    ziq.append(i)
+
+    if len(t) == numCourses:
+        return t
+    else:
+        return []
