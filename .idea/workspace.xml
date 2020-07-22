@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="998bba8e-bd0b-4ffc-ae6f-29237594be4d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/July/Jul19_Add Binary" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/July/Jul20_ Remove Linked List Elements.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/July/Jul18_Course Schedule II.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/Jul18_Course Schedule II.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,6 +17,7 @@
     <SUITE FILE_PATH="coverage/Leetcode_30_challenge$July3_Prison_Cells_After_N_Days.coverage" NAME="July3_Prison Cells After N Days Coverage Results" MODIFIED="1593835167994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/July" />
     <SUITE FILE_PATH="coverage/Leetcode_30_challenge$Tree.coverage" NAME="Tree Coverage Results" MODIFIED="1593994233069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/July" />
     <SUITE FILE_PATH="coverage/Leetcode_30_challenge$Jul18_Course_Schedule_II.coverage" NAME="Jul18_Course Schedule II Coverage Results" MODIFIED="1595126539420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/July" />
+    <SUITE FILE_PATH="coverage/Leetcode_30_challenge$Jul20__Remove_Linked_List_Elements.coverage" NAME="Jul20_ Remove Linked List Elements Coverage Results" MODIFIED="1595296335363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/July" />
     <SUITE FILE_PATH="coverage/Leetcode_30_challenge$Jul2_Binary_Tree_Level_Order_Traversal_II.coverage" NAME="Jul2_Binary Tree Level Order Traversal II Coverage Results" MODIFIED="1593992907174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/July" />
     <SUITE FILE_PATH="coverage/Leetcode_30_challenge$Jul4_Ugly_Number_II.coverage" NAME="Jul4_Ugly Number II Coverage Results" MODIFIED="1593962582635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/July" />
     <SUITE FILE_PATH="coverage/Leetcode_30_challenge$Jul5_Hamming_Distance.coverage" NAME="Jul5_Hamming Distance Coverage Results" MODIFIED="1593970812323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/July" />
@@ -61,11 +61,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Jul19_Add Binary" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Jul19_Add Binary" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/July/Jul19_Add Binary">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="282">
-              <caret line="23" column="14" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
+            <state relative-caret-position="161">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Jul20_ Remove Linked List Elements.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/July/Jul20_ Remove Linked List Elements.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="194">
+              <caret line="36" column="21" lean-forward="true" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -147,6 +156,7 @@
         <option value="$PROJECT_DIR$/July/Jul17_Top K Frequent Elements.py" />
         <option value="$PROJECT_DIR$/July/Jul18_Course Schedule II.py" />
         <option value="$PROJECT_DIR$/July/Jul19_Add Binary" />
+        <option value="$PROJECT_DIR$/July/Jul20_ Remove Linked List Elements.py" />
       </list>
     </option>
   </component>
@@ -160,6 +170,7 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
+    <option name="x" value="460" />
     <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="702" />
@@ -180,7 +191,22 @@
             <path>
               <item name="Root" type="cbb8eebc:String" user="Root" />
               <item name="Leetcode_30_challenge" type="cbb8eebc:String" user="Leetcode_30_challenge" />
+              <item name="Apir" type="cbb8eebc:String" user="Apir" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="Leetcode_30_challenge" type="cbb8eebc:String" user="Leetcode_30_challenge" />
               <item name="July" type="cbb8eebc:String" user="July" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="Leetcode_30_challenge" type="cbb8eebc:String" user="Leetcode_30_challenge" />
+              <item name="June" type="cbb8eebc:String" user="June" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="Leetcode_30_challenge" type="cbb8eebc:String" user="Leetcode_30_challenge" />
+              <item name="May" type="cbb8eebc:String" user="May" />
             </path>
           </expand>
           <select />
@@ -223,26 +249,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Jul19_Add Binary">
-    <configuration name="Jul15_Reverse Words in a String" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Leetcode_30_challenge" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/July" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/July/Jul15_Reverse Words in a String.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.Jul20_ Remove Linked List Elements">
     <configuration name="Jul16_pow(x,n)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode_30_challenge" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -319,20 +326,39 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="Jul20_ Remove Linked List Elements" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Leetcode_30_challenge" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/July" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/July/Jul20_ Remove Linked List Elements.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list>
-      <item itemvalue="Python.Jul15_Reverse Words in a String" />
       <item itemvalue="Python.Jul16_pow(x,n)" />
       <item itemvalue="Python.Jul17_Top K Frequent Elements" />
       <item itemvalue="Python.Jul18_Course Schedule II" />
       <item itemvalue="Python.Jul19_Add Binary" />
+      <item itemvalue="Python.Jul20_ Remove Linked List Elements" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Jul20_ Remove Linked List Elements" />
         <item itemvalue="Python.Jul19_Add Binary" />
         <item itemvalue="Python.Jul18_Course Schedule II" />
         <item itemvalue="Python.Jul17_Top K Frequent Elements" />
         <item itemvalue="Python.Jul16_pow(x,n)" />
-        <item itemvalue="Python.Jul15_Reverse Words in a String" />
       </list>
     </recent_temporary>
   </component>
@@ -350,7 +376,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="702" extended-state="0" />
+    <frame x="398" y="53" width="1280" height="702" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -460,7 +486,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Apir1_SingleNumber.py" />
     <entry file="file://$PROJECT_DIR$/Apir2_HappyNumber.py" />
     <entry file="file://$PROJECT_DIR$/Apir3_Maximum Subarray.py" />
     <entry file="file://$PROJECT_DIR$/Apir4_RemoveZeros.py" />
@@ -662,8 +687,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/July/Jul19_Add Binary">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="23" column="14" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
+        <state relative-caret-position="161">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/July/Jul20_ Remove Linked List Elements.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="36" column="21" lean-forward="true" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
         </state>
       </provider>
     </entry>
