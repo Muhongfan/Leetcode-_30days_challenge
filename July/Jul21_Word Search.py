@@ -51,3 +51,4 @@ def existRecu(board, word, cur, i, j, visited):
 
 print(exist([["A","B","C","E"],["S","F","C","S"],["A","D","E","E"]],"ABCCED"))
 print(exist([["A","B","C","E"],["S","F","C","S"],["A","D","E","E"]],"SEE"))
+print(exist([["A","B","C","E"],["S","F","C","S"],["A","D","E","E"]],"ABCB"))
