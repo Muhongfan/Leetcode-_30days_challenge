@@ -19,6 +19,7 @@ return its zigzag level order traversal as:
 #SOLU 1
 # reverse the list in the odd level - see previous binary tree
 
+#SOLU2 Recursion
 def preorder(self, root, level, res):
     if root:
         if len(res) < level + 1: res.append([])
