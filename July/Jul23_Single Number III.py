@@ -30,3 +30,19 @@ def singleNumber(nums):
     return [a, b]
 
 print(singleNumber([1,2,1,3,2,5]))
+
+
+
+def sinNumber(nums):
+    res = []
+    dic = {}
+    for ele in nums:
+        if ele not in dic:
+            dic[ele] = 1
+        else:
+            dic[ele] += 1
+    for ele in dic:
+        if dic[ele] == 1:
+            res.append(ele)
+
+    return res
