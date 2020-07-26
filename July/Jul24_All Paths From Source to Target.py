@@ -56,3 +56,22 @@ def allPathsSourceTargetdemo(graph):
     res = []
     dfs(0, [0])
     return res
+
+#demo Solu2
+def allPathsSourceTargetdemo2(graph):
+    """
+    :type graph: List[List[int]]
+    :rtype: List[List[int]]
+    """
+    ans, end = [], len(graph) - 1
+
+    def dfs(node, path):
+        if node == end:
+            ans.append(path)
+            return
+
+        for child in graph[node]:
+            dfs(child, path + [child])
+
+    dfs(0, [0])
+    return ans
