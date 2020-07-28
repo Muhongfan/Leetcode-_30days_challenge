@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="998bba8e-bd0b-4ffc-ae6f-29237594be4d" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/July/Jul27_Construct Binary Tree from Inorder and Postorder Traversal.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/July/Jul20_ Remove Linked List Elements.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/Jul20_Remove Linked List Elements.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/July/Jul26_Add Digits.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/Jul26_Add Digits.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,6 +15,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Leetcode_30_challenge$Jul27_Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal.coverage" NAME="Jul27_Construct Binary Tree from Inorder and Postorder Traversal Coverage Results" MODIFIED="1595903159560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/July" />
     <SUITE FILE_PATH="coverage/Leetcode_30_challenge$RemoveZeros_Apir4.coverage" NAME="RemoveZeros_Apir4 Coverage Results" MODIFIED="1587772372206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode_30_challenge$July3_Prison_Cells_After_N_Days.coverage" NAME="July3_Prison Cells After N Days Coverage Results" MODIFIED="1593835167994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/July" />
     <SUITE FILE_PATH="coverage/Leetcode_30_challenge$Jul26_Add_Digits.coverage" NAME="Jul26_Add Digits Coverage Results" MODIFIED="1595816742715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/July" />
@@ -49,11 +52,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Jul26_Add Digits.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Jul26_Add Digits.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/July/Jul26_Add Digits.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="35" column="4" selection-start-line="35" selection-start-column="4" selection-end-line="39" selection-end-column="18" />
+            <state relative-caret-position="232">
+              <caret line="30" column="9" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Jul27_Construct Binary Tree from Inorder and Postorder Traversal.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/July/Jul27_Construct Binary Tree from Inorder and Postorder Traversal.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="36" column="37" lean-forward="true" selection-start-line="36" selection-start-column="37" selection-end-line="36" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -61,8 +73,8 @@
       <file leaf-file-name="Jul15_Reverse Words in a String.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/July/Jul15_Reverse Words in a String.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="237">
-              <caret line="35" column="36" lean-forward="true" selection-start-line="35" selection-start-column="11" selection-end-line="35" selection-end-column="36" />
+            <state relative-caret-position="525">
+              <caret line="35" column="36" selection-start-line="35" selection-start-column="11" selection-end-line="35" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -82,7 +94,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Apir1.py" />
         <option value="$PROJECT_DIR$/HappyNumber_Apir2.py" />
         <option value="$PROJECT_DIR$/ContiguousArray_Apir13.py" />
         <option value="$PROJECT_DIR$/Maximum Subarray_Apir3.py" />
@@ -133,6 +144,7 @@
         <option value="$PROJECT_DIR$/July/Jul24_All Paths From Source to Target.py" />
         <option value="$PROJECT_DIR$/July/Jul25_Find Minimum in Rotated Sorted Array II.py" />
         <option value="$PROJECT_DIR$/July/Jul26_Add Digits.py" />
+        <option value="$PROJECT_DIR$/July/Jul27_Construct Binary Tree from Inorder and Postorder Traversal.py" />
       </list>
     </option>
   </component>
@@ -220,26 +232,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Jul26_Add Digits">
-    <configuration name="Jul22_Binary Tree Zigzag Level Order Traversal" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Leetcode_30_challenge" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/July/Jul22_Binary Tree Zigzag Level Order Traversal.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.Jul27_Construct Binary Tree from Inorder and Postorder Traversal">
     <configuration name="Jul23_Single Number III" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode_30_challenge" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -316,20 +309,39 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="Jul27_Construct Binary Tree from Inorder and Postorder Traversal" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Leetcode_30_challenge" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/July" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/July/Jul27_Construct Binary Tree from Inorder and Postorder Traversal.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list>
-      <item itemvalue="Python.Jul22_Binary Tree Zigzag Level Order Traversal" />
       <item itemvalue="Python.Jul23_Single Number III" />
       <item itemvalue="Python.Jul24_All Paths From Source to Target" />
       <item itemvalue="Python.Jul25_Find Minimum in Rotated Sorted Array II" />
       <item itemvalue="Python.Jul26_Add Digits" />
+      <item itemvalue="Python.Jul27_Construct Binary Tree from Inorder and Postorder Traversal" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Jul27_Construct Binary Tree from Inorder and Postorder Traversal" />
         <item itemvalue="Python.Jul26_Add Digits" />
         <item itemvalue="Python.Jul25_Find Minimum in Rotated Sorted Array II" />
         <item itemvalue="Python.Jul24_All Paths From Source to Target" />
         <item itemvalue="Python.Jul23_Single Number III" />
-        <item itemvalue="Python.Jul22_Binary Tree Zigzag Level Order Traversal" />
       </list>
     </recent_temporary>
   </component>
@@ -353,17 +365,17 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.328152" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.3298969" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.328152" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3074266" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20113085" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20436187" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39723662" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39723662" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -464,25 +476,39 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/July/Jul26_Add Digits.py</url>
-          <line>35</line>
+          <line>36</line>
           <option name="timeStamp" value="125" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/July/Jul26_Add Digits.py</url>
-          <line>37</line>
+          <line>38</line>
           <option name="timeStamp" value="127" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/July/Jul26_Add Digits.py</url>
-          <line>39</line>
+          <line>40</line>
           <option name="timeStamp" value="128" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/July/Jul27_Construct Binary Tree from Inorder and Postorder Traversal.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="129" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/July/Jul27_Construct Binary Tree from Inorder and Postorder Traversal.py</url>
+          <line>38</line>
+          <option name="timeStamp" value="130" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/July/Jul27_Construct Binary Tree from Inorder and Postorder Traversal.py</url>
+          <line>39</line>
+          <option name="timeStamp" value="131" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="129" />
+      <option name="time" value="132" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Apir2_HappyNumber.py" />
     <entry file="file://$PROJECT_DIR$/Apir3_Maximum Subarray.py" />
     <entry file="file://$PROJECT_DIR$/Apir1_SingleNumber.py" />
     <entry file="file://$PROJECT_DIR$/Apir2_HappyNumber.py" />
@@ -528,13 +554,6 @@
     <entry file="file://$PROJECT_DIR$/Apir3_Maximum Subarray.py" />
     <entry file="file://$PROJECT_DIR$/Apir2_HappyNumber.py" />
     <entry file="file://$PROJECT_DIR$/Apir1_SingleNumber.py" />
-    <entry file="file://$PROJECT_DIR$/July/Jul2_Binary Tree Level Order Traversal II.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="11" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/July/Jul4_Ugly Number II.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -668,7 +687,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/July/Jul20_ Remove Linked List Elements.py">
+    <entry file="file://$PROJECT_DIR$/July/Jul20_Remove Linked List Elements.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-98">
           <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
@@ -719,15 +738,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/July/Jul15_Reverse Words in a String.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
-          <caret line="35" column="36" lean-forward="true" selection-start-line="35" selection-start-column="11" selection-end-line="35" selection-end-column="36" />
+        <state relative-caret-position="525">
+          <caret line="35" column="36" selection-start-line="35" selection-start-column="11" selection-end-line="35" selection-end-column="36" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/July/Jul26_Add Digits.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="35" column="4" selection-start-line="35" selection-start-column="4" selection-end-line="39" selection-end-column="18" />
+        <state relative-caret-position="232">
+          <caret line="30" column="9" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/July/Jul2_Binary Tree Level Order Traversal II.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-156">
+          <caret line="19" column="11" lean-forward="true" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/July/Jul27_Construct Binary Tree from Inorder and Postorder Traversal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="36" column="37" lean-forward="true" selection-start-line="36" selection-start-column="37" selection-end-line="36" selection-end-column="37" />
         </state>
       </provider>
     </entry>
