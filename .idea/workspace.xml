@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="998bba8e-bd0b-4ffc-ae6f-29237594be4d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/July/Jul27_Construct Binary Tree from Inorder and Postorder Traversal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/July/Jul28_Task Scheduler.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/July/Jul20_ Remove Linked List Elements.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/Jul20_Remove Linked List Elements.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/July/Jul26_Add Digits.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/Jul26_Add Digits.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/July/Jul27_Construct Binary Tree from Inorder and Postorder Traversal.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/Jul27_Construct Binary Tree from Inorder and Postorder Traversal.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -39,6 +38,7 @@
     <SUITE FILE_PATH="coverage/Leetcode_30_challenge$Jul17_Top_K_Frequent_Elements.coverage" NAME="Jul17_Top K Frequent Elements Coverage Results" MODIFIED="1595044352170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/July" />
     <SUITE FILE_PATH="coverage/Leetcode_30_challenge$HappyNumber_Apir2.coverage" NAME="HappyNumber_Apir2 Coverage Results" MODIFIED="1586621659846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode_30_challenge$Jul23_Single_Number_III.coverage" NAME="Jul23_Single Number III Coverage Results" MODIFIED="1595644129822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Leetcode_30_challenge$Jul28_Task_Scheduler.coverage" NAME="Jul28_Task Scheduler Coverage Results" MODIFIED="1595957692989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/July" />
     <SUITE FILE_PATH="coverage/Leetcode_30_challenge$Jul6_Plus_One.coverage" NAME="Jul6_Plus One Coverage Results" MODIFIED="1594433273938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/July" />
     <SUITE FILE_PATH="coverage/Leetcode_30_challenge$Jul22_Binary_Tree_Zigzag_Level_Order_Traversal.coverage" NAME="Jul22_Binary Tree Zigzag Level Order Traversal Coverage Results" MODIFIED="1595466742146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode_30_challenge$GroupAnagrams_Apir6.coverage" NAME="GroupAnagrams_Apir6 Coverage Results" MODIFIED="1587843499886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -61,11 +61,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Jul27_Construct Binary Tree from Inorder and Postorder Traversal.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Jul27_Construct Binary Tree from Inorder and Postorder Traversal.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/July/Jul27_Construct Binary Tree from Inorder and Postorder Traversal.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="36" column="37" lean-forward="true" selection-start-line="36" selection-start-column="37" selection-end-line="36" selection-end-column="37" />
+            <state relative-caret-position="84">
+              <caret line="49" column="28" lean-forward="true" selection-start-line="49" selection-start-column="28" selection-end-line="49" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Jul28_Task Scheduler.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/July/Jul28_Task Scheduler.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
             </state>
           </provider>
         </entry>
@@ -94,7 +103,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/HappyNumber_Apir2.py" />
         <option value="$PROJECT_DIR$/ContiguousArray_Apir13.py" />
         <option value="$PROJECT_DIR$/Maximum Subarray_Apir3.py" />
         <option value="$PROJECT_DIR$/RemoveZeros_Apir4.py" />
@@ -145,6 +153,7 @@
         <option value="$PROJECT_DIR$/July/Jul25_Find Minimum in Rotated Sorted Array II.py" />
         <option value="$PROJECT_DIR$/July/Jul26_Add Digits.py" />
         <option value="$PROJECT_DIR$/July/Jul27_Construct Binary Tree from Inorder and Postorder Traversal.py" />
+        <option value="$PROJECT_DIR$/July/Jul28_Task Scheduler.py" />
       </list>
     </option>
   </component>
@@ -232,26 +241,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Jul27_Construct Binary Tree from Inorder and Postorder Traversal">
-    <configuration name="Jul23_Single Number III" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Leetcode_30_challenge" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/July/Jul23_Single Number III.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.Jul28_Task Scheduler">
     <configuration name="Jul24_All Paths From Source to Target" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode_30_challenge" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -328,20 +318,39 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="Jul28_Task Scheduler" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Leetcode_30_challenge" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/July" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/July/Jul28_Task Scheduler.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list>
-      <item itemvalue="Python.Jul23_Single Number III" />
       <item itemvalue="Python.Jul24_All Paths From Source to Target" />
       <item itemvalue="Python.Jul25_Find Minimum in Rotated Sorted Array II" />
       <item itemvalue="Python.Jul26_Add Digits" />
       <item itemvalue="Python.Jul27_Construct Binary Tree from Inorder and Postorder Traversal" />
+      <item itemvalue="Python.Jul28_Task Scheduler" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Jul28_Task Scheduler" />
         <item itemvalue="Python.Jul27_Construct Binary Tree from Inorder and Postorder Traversal" />
         <item itemvalue="Python.Jul26_Add Digits" />
         <item itemvalue="Python.Jul25_Find Minimum in Rotated Sorted Array II" />
         <item itemvalue="Python.Jul24_All Paths From Source to Target" />
-        <item itemvalue="Python.Jul23_Single Number III" />
       </list>
     </recent_temporary>
   </component>
@@ -504,12 +513,16 @@
           <line>39</line>
           <option name="timeStamp" value="131" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/July/Jul28_Task Scheduler.py</url>
+          <line>56</line>
+          <option name="timeStamp" value="132" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="132" />
+      <option name="time" value="133" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Apir3_Maximum Subarray.py" />
     <entry file="file://$PROJECT_DIR$/Apir1_SingleNumber.py" />
     <entry file="file://$PROJECT_DIR$/Apir2_HappyNumber.py" />
     <entry file="file://$PROJECT_DIR$/Apir3_Maximum Subarray.py" />
@@ -759,8 +772,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/July/Jul27_Construct Binary Tree from Inorder and Postorder Traversal.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="36" column="37" lean-forward="true" selection-start-line="36" selection-start-column="37" selection-end-line="36" selection-end-column="37" />
+        <state relative-caret-position="84">
+          <caret line="49" column="28" lean-forward="true" selection-start-line="49" selection-start-column="28" selection-end-line="49" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/July/Jul28_Task Scheduler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
         </state>
       </provider>
     </entry>
