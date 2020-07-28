@@ -23,7 +23,7 @@ def addDigits(num):
         return 9
     else:
         return num % 9
-print(addDigits(38))
+#print(addDigits(38))
 # 归纳
 def addDigits2(num):
     if num == 0:
@@ -31,7 +31,8 @@ def addDigits2(num):
     else:
         return 1 + (num - 1) % 9
 
-
+#设一个数是abcde，则abcde = a * 10000 + b * 1000 + c * 100 + d * 10 + e,
+# 将这个式子拆一下得到(a + b + c + d + e) + (a * 9999 + b * 999 + c * 99 + d * 9)
 def add(num):
     if num == 0:
         return 0
@@ -39,4 +40,5 @@ def add(num):
         return 9
     return num % 9
 
+print(add(38))
 
