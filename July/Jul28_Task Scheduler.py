@@ -56,11 +56,29 @@ def leastInterval(tasks, n):
     # if the rest letters are very long
     return max(res, len(tasks))
 
-print(leastInterval(["A","A","A","B","B","B"], 0))
-print(leastInterval(["A","A","A","B","B","B"], 2))
+#print(leastInterval(["A","A","A","B","B","B"], 0))
+#print(leastInterval(["A","A","A","B","B","B"], 2))
 array = [0,1,2,2,3,4,4,4,5,6]
 print(Counter(array))
-# most_common找到出现次数最多的元素
+# most_common - to find the most frequent ones
 print(Counter(array).most_common(1)[0][0])
 #Counter({4: 3, 2: 2, 0: 1, 1: 1, 3: 1, 5: 1, 6: 1})
 #4
+
+#
+def leastInterval2(tasks, n):
+    frequencies = [0] * 26
+    for t in tasks:
+        #ord() 函数是 chr() 函数（对于8位的ASCII字符串）或 unichr() 函数（对于Unicode对象）的配对函数，
+        #它以一个字符（长度为1的字符串）作为参数，返回对应的 ASCII 数值，或者 Unicode 数值
+        frequencies[ord(t) - ord('A')] += 1
+    frequencies.sort()
+    f_max = frequencies.pop()
+    idle_time = (f_max - 1) * n
+    while frequencies and idle_time > 0:
+        idle_time -= min(f_max - 1, frequencies.pop())
+    idle_time = max(0, idle_time)
+    return idle_time + len(tasks)
+
+
+print(leastInterval2(["A","A","A","A","A","A","B","C","D","E","F","G"], 2))
