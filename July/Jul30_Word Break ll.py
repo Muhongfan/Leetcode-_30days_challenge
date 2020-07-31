@@ -69,3 +69,30 @@ class Solution(object):
 
 solu = Solution()
 print(solu.wordBreak("catsanddog",["cat","cats","and","sand","dog"]))
+
+
+def wordBreak(self, s, wordDict):
+    """
+    :type s: str
+    :type wordDict: List[str]
+    :rtype: List[str]
+    """
+    n = len(s)
+    if not n:
+        return []
+    dp = [[] for _ in range(n)]
+    letters1 = set(c for c in s)
+    letters2 = set(c for word in wordDict for c in word)
+    if not letters2.issuperset(letters1):
+        return []
+    dic = set(wordDict)
+    for i in range(0, n):
+        for j in range(0, i + 1):
+            cur_word = s[j:i + 1]
+            if cur_word in dic:
+                if j == 0:
+                    dp[i].append(cur_word)
+                else:
+                    for sentence in dp[j - 1]:
+                        dp[i].append(sentence + ' ' + cur_word)
+    return dp[n - 1]
