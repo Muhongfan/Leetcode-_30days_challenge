@@ -25,3 +25,22 @@ def maxProfit(prices):
         hold = max(hold, (prev_sell if i >= 2 else 0) - prices[i])
         prev_sell = temp
     return curr_sell
+
+def maxProfit(self, prices):
+        """
+        :type prices: List[int]
+        :rtype: int
+        """
+        if len(prices) == 0:
+            return 0
+        have0_stay = 0
+        have1_stay = -prices[0]
+        have0_buy = -prices[0]
+        have1_sell = 0
+        for i in range(1, len(prices)):
+            have1_stay = max(have1_stay, have0_buy)
+            have0_buy = have0_stay - prices[i]
+            have0_stay = max(have0_stay, have1_sell)
+            have1_sell = have1_stay + prices[i]
+
+        return max(have0_stay, have1_sell)

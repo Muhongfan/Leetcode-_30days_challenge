@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="998bba8e-bd0b-4ffc-ae6f-29237594be4d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/July/Jul29_Best Time to Buy and Sell Stock with Cooldown.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/July/Jul28_Task Scheduler.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/Jul28_Task Scheduler.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/July/Jul29_Best Time to Buy and Sell Stock with Cooldown.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/Jul29_Best Time to Buy and Sell Stock with Cooldown.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -55,8 +54,8 @@
       <file leaf-file-name="Jul29_Best Time to Buy and Sell Stock with Cooldown.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/July/Jul29_Best Time to Buy and Sell Stock with Cooldown.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="33" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
+            <state relative-caret-position="240">
+              <caret line="16" selection-start-line="16" selection-end-line="26" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -350,8 +349,8 @@
       <window_info anchor="bottom" id="Run" order="2" weight="0.32763532" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.3298969" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3062678" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20759289" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3062678" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20759289" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -788,8 +787,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/July/Jul29_Best Time to Buy and Sell Stock with Cooldown.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="33" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
+        <state relative-caret-position="240">
+          <caret line="16" selection-start-line="16" selection-end-line="26" selection-end-column="20" />
         </state>
       </provider>
     </entry>
