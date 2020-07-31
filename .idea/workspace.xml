@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="998bba8e-bd0b-4ffc-ae6f-29237594be4d" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/July/Jul31_Climbing stairs.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/July/Jul30_Word Break ll.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/Jul30_Word Break ll.py" afterDir="false" />
     </list>
@@ -61,11 +62,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Jul30_Word Break ll.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Jul30_Word Break ll.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/July/Jul30_Word Break ll.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="85" column="41" lean-forward="true" selection-start-line="85" selection-start-column="41" selection-end-line="85" selection-end-column="41" />
+            <state relative-caret-position="305">
+              <caret line="94" column="21" lean-forward="true" selection-start-line="94" selection-start-column="21" selection-end-line="94" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Jul31_Climbing stairs.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/July/Jul31_Climbing stairs.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="283">
+              <caret line="27" column="19" lean-forward="true" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -85,7 +95,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/RemoveZeros_Apir4.py" />
         <option value="$PROJECT_DIR$/BestTimetoBuyandSellStock2_Apir5.py" />
         <option value="$PROJECT_DIR$/SingleNumber_Apir1.py" />
         <option value="$PROJECT_DIR$/GroupAnagrams_Apir6.py" />
@@ -136,6 +145,7 @@
         <option value="$PROJECT_DIR$/July/Jul28_Task Scheduler.py" />
         <option value="$PROJECT_DIR$/July/Jul29_Best Time to Buy and Sell Stock with Cooldown.py" />
         <option value="$PROJECT_DIR$/July/Jul30_Word Break ll.py" />
+        <option value="$PROJECT_DIR$/July/Jul31_Climbing stairs.py" />
       </list>
     </option>
   </component>
@@ -359,8 +369,8 @@
       <window_info anchor="bottom" id="Run" order="2" weight="0.32763532" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.3298969" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3062678" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20759289" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3062678" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20759289" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -535,7 +545,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Apir3_Maximum Subarray.py" />
     <entry file="file://$PROJECT_DIR$/Apir8_MiddleoftheLinkedList.py" />
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -803,8 +812,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/July/Jul30_Word Break ll.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="85" column="41" lean-forward="true" selection-start-line="85" selection-start-column="41" selection-end-line="85" selection-end-column="41" />
+        <state relative-caret-position="305">
+          <caret line="94" column="21" lean-forward="true" selection-start-line="94" selection-start-column="21" selection-end-line="94" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/July/Jul31_Climbing stairs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="27" column="19" lean-forward="true" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
         </state>
       </provider>
     </entry>
