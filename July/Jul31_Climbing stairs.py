@@ -34,3 +34,18 @@ def climbStairs(n):
             l[0],l[1] = l[1],l[0]+l[1]
         return l[0]+l[1]
 
+
+def climbStairs(n):
+    if n == 1:
+        return 1
+
+    if n == 2:
+        return 2
+
+    a = 1
+    b = 2
+    for _ in range(n - 2):
+        res = a + b
+        a = b
+        b = res
+    return b
