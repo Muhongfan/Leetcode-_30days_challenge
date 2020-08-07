@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="998bba8e-bd0b-4ffc-ae6f-29237594be4d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/August/Aug4_Power of Four.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/August/Aug5_Add and Search Word - Data structure design.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/August/Aug3_Valid Palindrome.py" beforeDir="false" afterPath="$PROJECT_DIR$/August/Aug3_Valid Palindrome.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/August/Aug4_Power of Four.py" beforeDir="false" afterPath="$PROJECT_DIR$/August/Aug4_Power of Four.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,6 +14,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Leetcode_30_challenge$Aug5_Add_and_Search_Word___Data_structure_design.coverage" NAME="Aug5_Add and Search Word - Data structure design Coverage Results" MODIFIED="1596684503314" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/August" />
     <SUITE FILE_PATH="coverage/Leetcode_30_challenge$Jul27_Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal.coverage" NAME="Jul27_Construct Binary Tree from Inorder and Postorder Traversal Coverage Results" MODIFIED="1595903159560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/July" />
     <SUITE FILE_PATH="coverage/Leetcode_30_challenge$RemoveZeros_Apir4.coverage" NAME="RemoveZeros_Apir4 Coverage Results" MODIFIED="1587772372206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode_30_challenge$July3_Prison_Cells_After_N_Days.coverage" NAME="July3_Prison Cells After N Days Coverage Results" MODIFIED="1593835167994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/July" />
@@ -57,26 +58,8 @@
       <file leaf-file-name="Jul29_Best Time to Buy and Sell Stock with Cooldown.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/July/Jul29_Best Time to Buy and Sell Stock with Cooldown.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="645">
+            <state relative-caret-position="410">
               <caret line="43" column="47" selection-start-line="43" selection-start-column="47" selection-end-line="43" selection-end-column="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Jul30_Word Break ll.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/July/Jul30_Word Break ll.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1185">
-              <caret line="79" column="14" selection-start-line="79" selection-start-column="14" selection-end-line="79" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Aug1_Detect Capital Use.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/August/Aug1_Detect Capital Use.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="30" column="16" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -84,40 +67,17 @@
       <file leaf-file-name="Aug2_Design HashSet.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/August/Aug2_Design HashSet.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="335">
-              <caret line="59" column="23" selection-start-line="59" selection-start-column="23" selection-end-line="59" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Aug3_Valid Palindrome.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/August/Aug3_Valid Palindrome.py">
-          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="350">
-              <caret line="45" column="40" selection-start-line="45" selection-start-column="40" selection-end-line="45" selection-end-column="40" />
+              <caret line="60" column="20" lean-forward="true" selection-start-line="58" selection-start-column="8" selection-end-line="60" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Aug4_Power of Four.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/August/Aug4_Power of Four.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="Jul16_pow(x,n).py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/July/Jul16_pow(x,n).py">
+      <file leaf-file-name="Aug5_Add and Search Word - Data structure design.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/August/Aug5_Add and Search Word - Data structure design.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="267">
-              <caret line="18" column="18" lean-forward="true" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Jul20_Remove Linked List Elements.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/July/Jul20_Remove Linked List Elements.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-165">
-              <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+            <state relative-caret-position="5">
+              <caret line="37" column="40" lean-forward="true" selection-start-line="37" selection-start-column="40" selection-end-line="37" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -137,7 +97,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/MiddleoftheLinkedList_Apir8.py" />
         <option value="$PROJECT_DIR$/BackspaceStringCompare_Apir9.py" />
         <option value="$PROJECT_DIR$/Apir9_BackspaceStringCompare.py" />
         <option value="$PROJECT_DIR$/Apir10_MinStack.py" />
@@ -188,6 +147,7 @@
         <option value="$PROJECT_DIR$/August/Aug2_Design HashSet.py" />
         <option value="$PROJECT_DIR$/August/Aug3_Valid Palindrome.py" />
         <option value="$PROJECT_DIR$/August/Aug4_Power of Four.py" />
+        <option value="$PROJECT_DIR$/August/Aug5_Add and Search Word - Data structure design.py" />
       </list>
     </option>
   </component>
@@ -270,7 +230,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Aug3_Valid Palindrome">
+  <component name="RunManager" selected="Python.Aug5_Add and Search Word - Data structure design">
     <configuration name="Aug3_Valid Palindrome" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode_30_challenge" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -290,7 +250,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Jul26_Add Digits" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Aug5_Add and Search Word - Data structure design" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode_30_challenge" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -298,12 +258,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/July" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/August" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/July/Jul26_Add Digits.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/August/Aug5_Add and Search Word - Data structure design.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -367,19 +327,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.Jul26_Add Digits" />
       <item itemvalue="Python.Jul27_Construct Binary Tree from Inorder and Postorder Traversal" />
       <item itemvalue="Python.Jul28_Task Scheduler" />
       <item itemvalue="Python.Jul30_Word Break ll" />
       <item itemvalue="Python.Aug3_Valid Palindrome" />
+      <item itemvalue="Python.Aug5_Add and Search Word - Data structure design" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Aug5_Add and Search Word - Data structure design" />
         <item itemvalue="Python.Aug3_Valid Palindrome" />
         <item itemvalue="Python.Jul30_Word Break ll" />
         <item itemvalue="Python.Jul28_Task Scheduler" />
         <item itemvalue="Python.Jul27_Construct Binary Tree from Inorder and Postorder Traversal" />
-        <item itemvalue="Python.Jul26_Add Digits" />
       </list>
     </recent_temporary>
   </component>
@@ -405,9 +365,9 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.3298969" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32763532" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3062678" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22051696" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32763532" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3062678" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22051696" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -582,7 +542,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Apir15_ProductofArrayExceptSelf.py" />
     <entry file="file://$PROJECT_DIR$/Apir7_CountingElements.py" />
     <entry file="file://$PROJECT_DIR$/May/May7_CousinsinBinaryTree.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -816,13 +775,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/July/Jul29_Best Time to Buy and Sell Stock with Cooldown.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="645">
-          <caret line="43" column="47" selection-start-line="43" selection-start-column="47" selection-end-line="43" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/July/Jul31_Climbing stairs.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="155">
@@ -834,20 +786,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1185">
           <caret line="79" column="14" selection-start-line="79" selection-start-column="14" selection-end-line="79" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/August/Aug1_Detect Capital Use.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="16" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/August/Aug2_Design HashSet.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="335">
-          <caret line="59" column="23" selection-start-line="59" selection-start-column="23" selection-end-line="59" selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -872,8 +810,40 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/August/Aug1_Detect Capital Use.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="30" column="16" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/August/Aug4_Power of Four.py">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="16" lean-forward="true" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/July/Jul29_Best Time to Buy and Sell Stock with Cooldown.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="410">
+          <caret line="43" column="47" selection-start-line="43" selection-start-column="47" selection-end-line="43" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/August/Aug2_Design HashSet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="60" column="20" lean-forward="true" selection-start-line="58" selection-start-column="8" selection-end-line="60" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/August/Aug5_Add and Search Word - Data structure design.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5">
+          <caret line="37" column="40" lean-forward="true" selection-start-line="37" selection-start-column="40" selection-end-line="37" selection-end-column="40" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
