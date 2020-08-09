@@ -24,3 +24,18 @@ def findDuplicates(nums):
     nums = Counter(nums)
     return [k for k, v in nums.items() if v == 2]
 print(findDuplicates([4,3,2,7,8,2,3,1]))
+
+
+def findDuplicates(self, nums):
+    """
+    :type nums: List[int]
+    :rtype: List[int]
+    """
+    dict = {}
+    ans = []
+    for x in nums:
+        if x in dict:
+            ans.append(x)
+        else:
+            dict[x] = 0
+    return ans
