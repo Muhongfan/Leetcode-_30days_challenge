@@ -73,3 +73,43 @@ class Solution(object):
         self.dfs(root.right, x+1, y-1)
 
 
+from collections import OrderedDict
+
+
+#solu 2
+class Solution(object):
+    def verticalTraversal(self, root):
+        """
+        :type root: TreeNode
+        :rtype: List[List[int]]
+        """
+
+        nodes_list = []
+
+        def dfs(node, row, col):
+
+            if not node:
+                return
+
+            dfs(node.left, row + 1, col - 1)
+
+            nodes_list.append((col, row, node.val))
+
+            dfs(node.right, row + 1, col + 1)
+
+        dfs(root, 0, 0)
+        # sorting a tuple: first sorts by element 0, then by element 1, then by element 2
+        nodes_list.sort()
+
+        ans = OrderedDict()
+
+        for tup in nodes_list:
+
+            if tup[0] not in ans:
+
+                ans[tup[0]] = [tup[2]]
+            else:
+
+                ans[tup[0]].append(tup[2])
+
+        return ans.values()
