@@ -65,4 +65,8 @@ class WordDictionary(object):
         elif word[0] in node.childs:
             return self.find(node.childs.get(word[0]),word[1:])
         return False
-
+n = WordDictionary()
+n.addWord("bad")
+n.addWord("dad")
+n.addWord("mad")
+n.search("pad")

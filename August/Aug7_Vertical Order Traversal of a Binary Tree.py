@@ -68,14 +68,14 @@ class Solution(object):
     def dfs(self, root, x, y):
         if not root:
             return
-        self.m.append((x, -y, root.vl))
+        self.m.append((x, -y, root.val))
         self.dfs(root.left, x-1, y-1)
         self.dfs(root.right, x+1, y-1)
 
 
 from collections import OrderedDict
-
-
+solu= Solution()
+print(solu.verticalTraversal([3,9,20,0,0,15,7]))
 #solu 2
 class Solution(object):
     def verticalTraversal(self, root):
