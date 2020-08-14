@@ -64,3 +64,12 @@ def hasNext(self):
         return True
     else:
         return False
+
+
+"""
+首先将字母按字典排序
+每个组合的字符串的长度为 combinationLength ， 
+如果从原始字符串characters 选了第一个字母作为组合字符串的第一个字母，那么只能从剩下的字符串里面选择 
+combinationLength-1个字符串的组合， 这就是一个递归。
+这个递归的停止条件为，当只需要从剩下的字符串里面选一个字符（combinationLength == 1）的时候，直接返回所有可能的单个字符。
+"""
