@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="998bba8e-bd0b-4ffc-ae6f-29237594be4d" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/August/Aug13_Iteration of combination.py" beforeDir="false" afterPath="$PROJECT_DIR$/August/Aug13_Iteration of combination.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/August/Aug14_Longest Palindone.py" beforeDir="false" afterPath="$PROJECT_DIR$/August/Aug14_Longest Palindone.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -93,11 +94,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Aug13_Iteration of combination.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Aug13_Iteration of combination.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/August/Aug13_Iteration of combination.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="78" column="5" lean-forward="true" selection-start-line="78" selection-start-column="5" selection-end-line="78" selection-end-column="5" />
+            <state relative-caret-position="290">
+              <caret line="97" column="24" lean-forward="true" selection-start-line="97" selection-start-column="24" selection-end-line="97" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Aug14_Longest Palindone.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/August/Aug14_Longest Palindone.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -135,7 +145,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Apir15_ProductofArrayExceptSelf.py" />
         <option value="$PROJECT_DIR$/Apir7_CountingElements.py" />
         <option value="$PROJECT_DIR$/May/May7_C.py" />
         <option value="$PROJECT_DIR$/June/Jun3_Two City Scheduling  Solution.py" />
@@ -186,6 +195,7 @@
         <option value="$PROJECT_DIR$/August/Aug9_Rotting Oranges.py" />
         <option value="$PROJECT_DIR$/August/Aug12_Pascal's Triangle II.py" />
         <option value="$PROJECT_DIR$/August/Aug13_Iteration of combination.py" />
+        <option value="$PROJECT_DIR$/August/Aug14_Longest Palindone.py" />
       </list>
     </option>
   </component>
@@ -397,7 +407,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="696" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -611,7 +620,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Apir6_GroupAnagrams.py" />
     <entry file="file://$PROJECT_DIR$/Apir5_BestTimetoBuyandSellStock2.py" />
     <entry file="file://$PROJECT_DIR$/Apir3_Maximum Subarray.py" />
     <entry file="file://$PROJECT_DIR$/Apir2_HappyNumber.py" />
@@ -933,8 +941,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/August/Aug13_Iteration of combination.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="78" column="5" lean-forward="true" selection-start-line="78" selection-start-column="5" selection-end-line="78" selection-end-column="5" />
+        <state relative-caret-position="290">
+          <caret line="97" column="24" lean-forward="true" selection-start-line="97" selection-start-column="24" selection-end-line="97" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/August/Aug14_Longest Palindone.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
         </state>
       </provider>
     </entry>
