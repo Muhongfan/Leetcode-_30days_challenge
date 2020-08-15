@@ -73,3 +73,39 @@ def hasNext(self):
 combinationLength-1个字符串的组合， 这就是一个递归。
 这个递归的停止条件为，当只需要从剩下的字符串里面选一个字符（combinationLength == 1）的时候，直接返回所有可能的单个字符。
 """
+
+
+
+#demo
+class CombinationIterator(object):
+
+    def __init__(self, characters, combinationLength):
+        """
+        :type characters: str
+        :type combinationLength: int
+        """
+        self.characters = characters
+        self.combinationLength = combinationLength
+        self.counter = 0
+        self.combs = list(combinations(sorted(characters), combinationLength))
+
+    def next(self):
+        """
+        :rtype: str
+        """
+        res = ""
+        comb = self.combs
+        val = comb[self.counter]
+        for i in val:
+            res = res + i[1:]
+        self.counter += 1
+        return ''.join(val)
+
+    def hasNext(self):
+        """
+        :rtype: bool
+        """
+        if self.counter > len(self.combs) - 1:
+            return False
+        else:
+            return True
