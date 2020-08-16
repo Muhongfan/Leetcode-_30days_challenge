@@ -39,28 +39,29 @@ def longestPalindrome(self, s):
         return j + 1
     else:
         return j
+#demo
 
-    def longestPalindrome(self, s):
-        """
-        :type s: str
-        :rtype: int
-        """
-        result=0
-        flag=0
-        c={}
-        for i in s:
-            if i in c:
-                c[i]+=1
-            else:
-                c[i]=1
-        for key, value in c.items():
-            if value%2==0:
-                result+=value
-            else:
-                flag=1
-                if value>1:
-                    result+=(value-1)
-        if flag==0:
-            return result
+def longestPalindrome(self, s):
+    """
+    :type s: str
+    :rtype: int
+    """
+    result=0
+    flag=0
+    c={}
+    for i in s:
+        if i in c:
+            c[i]+=1
         else:
-            return result+1
+            c[i]=1
+    for key, value in c.items():
+        if value%2==0:
+            result+=value
+        else:
+            flag=1
+            if value>1:
+                result+=(value-1)
+    if flag==0:
+        return result
+    else:
+        return result+1
