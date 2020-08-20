@@ -33,7 +33,7 @@ S contains only uppercase, lowercase and spaces. Exactly one space between each 
 1 <= S.length <= 150.
 """
 
-def toGoatLatin(self, S):
+def toGoatLatin(S):
     """
     :type S: str
     :rtype: str
@@ -49,3 +49,18 @@ def toGoatLatin(self, S):
         word += 'a' * (i + 1)
         new_words.append(word)
     return ' '.join(new_words)
+
+#demo
+def toGoatLatin2(S):
+    S+=" "
+    vowels=set(list("aeiouAEIOU"))
+    words=[""]
+    for char in S:
+        if char == " ":
+            if words[-1][0] not in vowels:
+                words[-1]= words[-1][1:]+ words[-1][0]
+            words[-1]+= "ma"+ ("a" *len(words))
+            words.append("")
+        else:
+            words[-1]+= char
+    return " ".join(words)[:-1]
