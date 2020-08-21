@@ -50,34 +50,3 @@ def reorderList(self, head):
             p2.next = temp1
             p1 = temp1
             p2 = temp2
-#demo
-def reorderList(self, head):
-    """
-    :type head: ListNode
-    :rtype: None Do not return anything, modify head in-place instead.
-    """
-    if not head:
-        return
-    slow = head
-    fast = head
-    while fast != None and fast.next != None:
-        slow = slow.next
-        fast = fast.next.next
-    secondHead = slow.next
-    slow.next = None
-    if secondHead:
-        prev = None
-        curr = secondHead
-        while curr:
-            nextNode = curr.next
-            curr.next = prev
-            prev = curr
-            curr = nextNode
-
-        curr1 = head
-        curr2 = prev
-        while curr1 and curr2:
-            newNext = curr1.next
-            curr1.next = curr2
-            curr1 = curr2
-            curr2 = newNext
