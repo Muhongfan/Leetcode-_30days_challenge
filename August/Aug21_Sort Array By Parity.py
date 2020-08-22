@@ -29,3 +29,21 @@ def sortArrayByParity(self, A):
         l += not (A[l] & 1)
         r -= A[r] & 1
     return A
+
+#demo
+def sortArrayByParity(self, A):
+    """
+    :type A: List[int]
+    :rtype: List[int]
+    """
+
+    even = []
+    odd = []
+
+    for num in A:
+        if (num % 2 == 0):
+            even.append(num)
+        else:
+            odd.append(num)
+
+    return even + odd
