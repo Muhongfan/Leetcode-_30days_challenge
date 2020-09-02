@@ -17,7 +17,7 @@ Note:
 1 <= A.length <= 5000
 0 <= A[i] <= 5000
 """
-def sortArrayByParity(self, A):
+def sortArrayByParity(A):
     """
     :type A: List[int]
     :rtype: List[int]
@@ -30,8 +30,9 @@ def sortArrayByParity(self, A):
         r -= A[r] & 1
     return A
 
+print(sortArrayByParity([3,1,2,4]))
 #demo
-def sortArrayByParity(self, A):
+def sortArrayByParity3(A):
     """
     :type A: List[int]
     :rtype: List[int]
