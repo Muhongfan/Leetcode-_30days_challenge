@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="998bba8e-bd0b-4ffc-ae6f-29237594be4d" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/Sep/Sep3_Repeated Substring Pattern.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sep/Sep1_Largest Time for Given Digits.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sep/Sep1_Largest Time for Given Digits.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml___jb_tmp___" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -63,17 +64,26 @@
       <file leaf-file-name="Aug21_Sort Array By Parity.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/August/Aug21_Sort Array By Parity.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="169">
+            <state relative-caret-position="465">
               <caret line="31" selection-start-line="31" selection-end-line="31" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Sep1_Largest Time for Given Digits.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Sep1_Largest Time for Given Digits.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Sep/Sep1_Largest Time for Given Digits.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="209">
-              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+              <caret line="35" selection-start-line="35" selection-end-line="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Sep3_Repeated Substring Pattern.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Sep/Sep3_Repeated Substring Pattern.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="20" column="29" lean-forward="true" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -93,8 +103,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/July/Jul5_Hamming Distance.py" />
-        <option value="$PROJECT_DIR$/July/July3_Prison Cells After N Days.py" />
         <option value="$PROJECT_DIR$/July/Jul6_Plus One.py" />
         <option value="$PROJECT_DIR$/July/Jul 8_3 SUMS.py" />
         <option value="$PROJECT_DIR$/July/Jul9_Maximum Width of Binary Tree.py" />
@@ -144,6 +152,8 @@
         <option value="$PROJECT_DIR$/August/Aug20_Reorder List.py" />
         <option value="$PROJECT_DIR$/August/Aug21_Sort Array By Parity.py" />
         <option value="$PROJECT_DIR$/Sep/Sep1_Largest Time for Given Digits.py" />
+        <option value="$PROJECT_DIR$/Sep/Sep3.py" />
+        <option value="$PROJECT_DIR$/Sep/Sep3_Repeated Substring Pattern.py" />
       </list>
     </option>
   </component>
@@ -167,6 +177,17 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Leetcode_30_challenge" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Leetcode_30_challenge" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope">
         <subPane subId="Project Files">
           <expand>
@@ -178,17 +199,6 @@
               <item name="Root" type="cbb8eebc:String" user="Root" />
               <item name="Leetcode_30_challenge" type="cbb8eebc:String" user="Leetcode_30_challenge" />
               <item name="Sep" type="cbb8eebc:String" user="Sep" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Leetcode_30_challenge" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Leetcode_30_challenge" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -358,8 +368,8 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.3298611" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3263889" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3732639" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2641357" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3732639" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26817447" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -569,13 +579,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/July/Tree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
-          <caret line="51" column="12" selection-start-line="51" selection-start-column="12" selection-end-line="51" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/July/Jul10_Flatten a Multilevel Doubly Linked List.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1410">
@@ -914,7 +917,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/August/Aug21_Sort Array By Parity.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
+        <state relative-caret-position="465">
           <caret line="31" selection-start-line="31" selection-end-line="31" />
         </state>
       </provider>
@@ -922,7 +925,14 @@
     <entry file="file://$PROJECT_DIR$/Sep/Sep1_Largest Time for Given Digits.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
-          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sep/Sep3_Repeated Substring Pattern.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="20" column="29" lean-forward="true" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
         </state>
       </provider>
     </entry>
