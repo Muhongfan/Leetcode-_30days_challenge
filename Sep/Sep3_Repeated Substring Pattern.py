@@ -32,3 +32,13 @@ def repeatedSubstringPattern(s):
                 return True
 
     return False
+
+print(repeatedSubstringPattern('abab'))
+
+
+def repeatedSubstringPattern(self, s):
+    """
+    :type s: str
+    :rtype: bool
+    """
+    return s in (s + s)[1:-1]
