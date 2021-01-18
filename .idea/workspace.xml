@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="998bba8e-bd0b-4ffc-ae6f-29237594be4d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Sep/Sep6_Image Overlap.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sep/Sep6_Image Overlap.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sep/Sep6_Image Overlap.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -105,8 +105,11 @@
       <file leaf-file-name="Sep6_Image Overlap.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Sep/Sep6_Image Overlap.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="241">
-              <caret line="35" column="35" selection-start-line="35" selection-start-column="35" selection-end-line="35" selection-end-column="35" />
+            <state relative-caret-position="164">
+              <caret line="56" column="37" lean-forward="true" selection-start-line="56" selection-start-column="37" selection-end-line="56" selection-end-column="37" />
+              <folding>
+                <element signature="e#799#830#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -383,7 +386,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="696" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -391,8 +393,8 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.3298611" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3263889" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3732639" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27625203" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3732639" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27625203" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -950,8 +952,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Sep/Sep6_Image Overlap.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="35" column="35" selection-start-line="35" selection-start-column="35" selection-end-line="35" selection-end-column="35" />
+        <state relative-caret-position="164">
+          <caret line="56" column="37" lean-forward="true" selection-start-line="56" selection-start-column="37" selection-end-line="56" selection-end-column="37" />
+          <folding>
+            <element signature="e#799#830#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

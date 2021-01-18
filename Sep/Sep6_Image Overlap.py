@@ -23,7 +23,11 @@ Notes:
 0 <= A[i][j], B[i][j] <= 1
 """
 
-from collections import Counter
+from collections import Counter, defaultdict
+
+from xlwings import xrange
+
+
 def largestOverlap(A, B):
     """
     :type A: List[List[int]]
@@ -35,3 +39,23 @@ def largestOverlap(A, B):
     LB = [(xi, yi) for xi in range(N) for yi in range(N) if B[xi][yi]]
     d = Counter([(x1 - x2, y1 - y2) for (x1, y1) in LA for (x2, y2) in LB])
     return max(d.values() or [0])
+
+#SOLU
+    def largestOverlap(self, A, B):
+        """
+        :type A: List[List[int]]
+        :type B: List[List[int]]
+        :rtype: int
+        """
+        listA, listB = [], []
+        for i in xrange(len(A)):
+            for j in xrange(len(A[i])):
+                if A[i][j]:
+                    listA.append((i, j))
+                if B[i][j]:
+                    listB.append((i, j))
+        difference = defaultdict(int)
+        for ai, aj in listA:
+            for bi, bj in listB:
+                difference[ai - bi, aj - bj] += 1
+        return max(difference.values()) if difference else 0
