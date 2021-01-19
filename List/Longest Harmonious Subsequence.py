@@ -29,7 +29,7 @@ Constraints:
 """
 import collections
 
-
+# out of time
 class Solution(object):
     def findLHS(self, nums):
         """
@@ -46,3 +46,12 @@ class Solution(object):
 
 so = Solution()
 print(so.findLHS([1,3,2,2,5,2,3,7]))
+
+
+def findLHS(self, nums):
+    """
+    :type nums: List[int]
+    :rtype: int
+    """
+    count = collections.Counter(nums)
+    return max([count[n]+count[n+1] for n in count if n+1 in count] or [0])
