@@ -28,7 +28,7 @@ Constraints:
 -109 <= nums[i] <= 109
 """
 import collections
-
+# find the longest sub list that the difference between maximum and minimum elements is 1
 # out of time
 class Solution(object):
     def findLHS(self, nums):
@@ -38,8 +38,9 @@ class Solution(object):
         """
         count = collections.Counter(nums)
         answer = 0
-        for n in count.keys():
-            if n + 1 in count.keys():
+        #for n in count.keys():
+        for n in count:
+            if n + 1 in count:
                 answer = max(answer, count[n] + count[n+1])
         return answer
 
@@ -48,7 +49,7 @@ so = Solution()
 print(so.findLHS([1,3,2,2,5,2,3,7]))
 
 
-def findLHS(self, nums):
+def findLHS2(self, nums):
     """
     :type nums: List[int]
     :rtype: int
