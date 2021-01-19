@@ -55,10 +55,26 @@ class Solution(object):
         answer.append(root.val)
         return answer
 
+
+
+#iteration
+#stack order: left-right-root
+#solution: root-right-left -> reverse
+def postorder(self, root):
+    """
+    :type root: Node
+    :rtype: List[int]
+    """
+    answer = []
+    if not root:
+        return answer
+    stack = [root, ]
+    while stack:
+        node = stack.pop() #pop and delete
+        stack.extend(self.postorder(node.children))
+        answer.append(node.val)
+    return answer[::-1]
+
 Solu = Solution()
 print(Solu.postorder([1,0,3,2,4,0,5,6]))
-
-
-
-
 
