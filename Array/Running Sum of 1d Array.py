@@ -69,3 +69,9 @@ def runningSum(self, nums):
         val = val + i
         new.append(val)
     return new
+
+def running(nums):
+    sum = 0
+    for i in range(1, len(nums)):
+        sum = nums[i] + nums[i-1]
+    return sum
