@@ -44,3 +44,28 @@ class Solution(object):
 
 So = Solution()
 print(So.runningSum([1,2,3,4]))
+
+
+def runningSum(self, nums):
+    """
+    :type nums: List[int]
+    :rtype: List[int]
+    """
+    running_sum = [nums[0]] if nums else []
+    for num_idx, num in enumerate(nums[1:], 1):
+        running_sum.append(sum([running_sum[num_idx - 1], num]))
+
+    return running_sum
+
+
+def runningSum(self, nums):
+    """
+    :type nums: List[int]
+    :rtype: List[int]
+    """
+    new = []
+    val = 0
+    for i in nums:
+        val = val + i
+        new.append(val)
+    return new
