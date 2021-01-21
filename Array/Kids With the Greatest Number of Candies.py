@@ -44,8 +44,8 @@ class Solution(object):
         greatest = max(candies)
         answer = []
         for i in candies:
-            new = i + extraCandies
-            if  new >= greatest:
+            i = i + extraCandies
+            if  i >= greatest:
                 answer.append(True)
             else:
                 answer.append(False)
