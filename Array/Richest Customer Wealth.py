@@ -54,3 +54,18 @@ class Solution(object):
 
 So = Solution()
 print(So.maximumWealth([[2,8,7],[7,1,3],[1,9,5]]))
+
+
+def maximumWealth(self, accounts):
+    """
+    :type accounts: List[List[int]]
+    :rtype: int
+    """
+    max_num = 0
+    count = 0
+    for account in accounts:
+        #sum_num = sum(accounts.pop())
+        if sum(account) > max_num:
+            max_num = sum(account)
+
+    return max_num
