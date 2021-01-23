@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="998bba8e-bd0b-4ffc-ae6f-29237594be4d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Array/Kids With the Greatest Number of Candies.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/Shuffle the Array.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/Running Sum of 1d Array.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Running Sum of 1d Array.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,9 +14,10 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Leetcode_30_challenge$RemoveZeros_Apir4.coverage" NAME="RemoveZeros_Apir4 Coverage Results" MODIFIED="1587772372206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Leetcode_30_challenge$Shuffle_the_Array.coverage" NAME="Shuffle the Array Coverage Results" MODIFIED="1611380456157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Array" />
     <SUITE FILE_PATH="coverage/Leetcode_30_challenge$July3_Prison_Cells_After_N_Days.coverage" NAME="July3_Prison Cells After N Days Coverage Results" MODIFIED="1593835167994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/July" />
     <SUITE FILE_PATH="coverage/Leetcode_30_challenge$Jul26_Add_Digits.coverage" NAME="Jul26_Add Digits Coverage Results" MODIFIED="1595816742715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/July" />
-    <SUITE FILE_PATH="coverage/Leetcode_30_challenge$Kids_With_the_Greatest_Number_of_Candies.coverage" NAME="Kids With the Greatest Number of Candies Coverage Results" MODIFIED="1611246420236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Array" />
+    <SUITE FILE_PATH="coverage/Leetcode_30_challenge$Kids_With_the_Greatest_Number_of_Candies.coverage" NAME="Kids With the Greatest Number of Candies Coverage Results" MODIFIED="1611246478659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Array" />
     <SUITE FILE_PATH="coverage/Leetcode_30_challenge$Aug21_Sort_Array_By_Parity.coverage" NAME="Aug21_Sort Array By Parity Coverage Results" MODIFIED="1598069339246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/August" />
     <SUITE FILE_PATH="coverage/Leetcode_30_challenge$Jul24_All_Paths_From_Source_to_Target.coverage" NAME="Jul24_All Paths From Source to Target Coverage Results" MODIFIED="1595644166949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/July" />
     <SUITE FILE_PATH="coverage/Leetcode_30_challenge$Jul18_Course_Schedule_II.coverage" NAME="Jul18_Course Schedule II Coverage Results" MODIFIED="1595126539420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/July" />
@@ -102,15 +102,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Sep3_Repeated Substring Pattern.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Sep/Sep3_Repeated Substring Pattern.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="645">
-              <caret line="43" column="29" selection-start-line="43" selection-start-column="29" selection-end-line="43" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Sep5_All Elements in Two Binary Search Trees.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Sep/Sep5_All Elements in Two Binary Search Trees.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -141,17 +132,26 @@
       <file leaf-file-name="Running Sum of 1d Array.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Array/Running Sum of 1d Array.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="69" column="23" lean-forward="true" selection-start-line="69" selection-start-column="23" selection-end-line="69" selection-end-column="23" />
+            <state relative-caret-position="1035">
+              <caret line="69" column="23" selection-start-line="69" selection-start-column="23" selection-end-line="69" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Kids With the Greatest Number of Candies.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Kids With the Greatest Number of Candies.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Array/Kids With the Greatest Number of Candies.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="43" column="20" lean-forward="true" selection-start-line="43" selection-start-column="20" selection-end-line="43" selection-end-column="20" />
+            <state relative-caret-position="247">
+              <caret line="50" column="31" selection-start-line="50" selection-start-column="31" selection-end-line="50" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Shuffle the Array.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Array/Shuffle the Array.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="197">
+              <caret line="41" column="29" lean-forward="true" selection-start-line="41" selection-start-column="29" selection-end-line="41" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -171,7 +171,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/July/Jul11_Subsets.py" />
         <option value="$PROJECT_DIR$/July/Jul12_Reverse Bits.py" />
         <option value="$PROJECT_DIR$/July/Jul13_Same Tree.py" />
         <option value="$PROJECT_DIR$/July/Jul14_Angle Between Hands of a Clock.py" />
@@ -222,6 +221,7 @@
         <option value="$PROJECT_DIR$/List/Longest Harmonious Subsequence.py" />
         <option value="$PROJECT_DIR$/Array/Running Sum of 1d Array.py" />
         <option value="$PROJECT_DIR$/Array/Kids With the Greatest Number of Candies.py" />
+        <option value="$PROJECT_DIR$/Array/Shuffle the Array.py" />
       </list>
     </option>
   </component>
@@ -246,17 +246,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Leetcode_30_challenge" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Leetcode_30_challenge" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="Scope">
         <subPane subId="Project Files">
           <expand>
@@ -268,6 +257,17 @@
               <item name="Root" type="cbb8eebc:String" user="Root" />
               <item name="Leetcode_30_challenge" type="cbb8eebc:String" user="Leetcode_30_challenge" />
               <item name="Array" type="cbb8eebc:String" user="Array" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Leetcode_30_challenge" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Leetcode_30_challenge" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -301,7 +301,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Kids With the Greatest Number of Candies">
+  <component name="RunManager" selected="Python.Shuffle the Array">
     <configuration name="Kids With the Greatest Number of Candies" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode_30_challenge" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -378,7 +378,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Sep3_Repeated Substring Pattern" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Shuffle the Array" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode_30_challenge" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -386,31 +386,31 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Sep" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Array" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sep/Sep3_Repeated Substring Pattern.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Array/Shuffle the Array.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.Sep3_Repeated Substring Pattern" />
       <item itemvalue="Python.N-ary Tree Postorder Traversal" />
       <item itemvalue="Python.Longest Harmonious Subsequence" />
       <item itemvalue="Python.Running Sum of 1d Array" />
       <item itemvalue="Python.Kids With the Greatest Number of Candies" />
+      <item itemvalue="Python.Shuffle the Array" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Shuffle the Array" />
         <item itemvalue="Python.Kids With the Greatest Number of Candies" />
         <item itemvalue="Python.Running Sum of 1d Array" />
         <item itemvalue="Python.Longest Harmonious Subsequence" />
         <item itemvalue="Python.N-ary Tree Postorder Traversal" />
-        <item itemvalue="Python.Sep3_Repeated Substring Pattern" />
       </list>
     </recent_temporary>
   </component>
@@ -429,7 +429,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
@@ -437,13 +436,13 @@
       <window_info anchor="bottom" id="Run" order="2" weight="0.32621083" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.3298611" />
-      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.30341882" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31260097" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.30341882" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.31744748" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3945869" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.3945869" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -648,6 +647,11 @@
           <line>71</line>
           <option name="timeStamp" value="167" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url />
+          <line>41</line>
+          <option name="timeStamp" value="175" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -656,17 +660,10 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="174" />
+      <option name="time" value="177" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/July/Jul13_Same Tree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/July/Jul12_Reverse Bits.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
@@ -1005,15 +1002,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Array/Running Sum of 1d Array.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="69" column="23" lean-forward="true" selection-start-line="69" selection-start-column="23" selection-end-line="69" selection-end-column="23" />
+        <state relative-caret-position="1035">
+          <caret line="69" column="23" selection-start-line="69" selection-start-column="23" selection-end-line="69" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Array/Kids With the Greatest Number of Candies.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="43" column="20" lean-forward="true" selection-start-line="43" selection-start-column="20" selection-end-line="43" selection-end-column="20" />
+        <state relative-caret-position="247">
+          <caret line="50" column="31" selection-start-line="50" selection-start-column="31" selection-end-line="50" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Array/Shuffle the Array.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="41" column="29" lean-forward="true" selection-start-line="41" selection-start-column="29" selection-end-line="41" selection-end-column="29" />
         </state>
       </provider>
     </entry>
