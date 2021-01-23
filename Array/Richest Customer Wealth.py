@@ -45,8 +45,8 @@ class Solution(object):
         """
         max_num = 0
         count = 0
-        while count < len(accounts):
-            sum_num = sum(accounts.pop())
+        for account in accounts:
+            sum_num = sum(account)
             if sum_num > max_num:
                 max_num = sum_num
 
