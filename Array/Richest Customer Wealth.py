@@ -45,10 +45,10 @@ class Solution(object):
         """
         max_num = 0
         count = 0
-        for account in accounts:
-            #sum_num = sum(accounts.pop())
-            if sum(account) > max_num:
-                max_num = sum(account)
+        while count < len(accounts):
+            sum_num = sum(accounts.pop())
+            if sum_num > max_num:
+                max_num = sum_num
 
         return max_num
 
