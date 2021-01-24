@@ -62,7 +62,7 @@ def maximumWealth(self, accounts):
     :rtype: int
     """
     max_num = 0
-    count = 0
+    #count = 0
     for account in accounts:
         #sum_num = sum(accounts.pop())
         if sum(account) > max_num:
