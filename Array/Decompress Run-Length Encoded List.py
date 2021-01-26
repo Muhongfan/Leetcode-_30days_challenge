@@ -47,5 +47,17 @@ def decompressRLElist(nums):
 print(decompressRLElist([55,11,70,26,62,64]))
 
 
+def decompressRLElist(self, nums):
+    # [ x | dic[x] ]
+    return [nums[i + 1] for i in range(0, len(nums), 2) for j in range(nums[i])]
+
+def decompre(nums):
+    res = []
+    for i in range(0, len(nums), 2):
+        # list.extend( x * [dic[x]] )
+        res.extend(nums[i]* [nums[i + 1]] )
+    return res
+
+
 
 
