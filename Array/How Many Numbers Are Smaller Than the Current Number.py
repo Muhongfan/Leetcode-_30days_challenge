@@ -67,15 +67,30 @@ class Solution(object):
 # 2 <= nums.length <= 500
 # 0 <= nums[i] <= 100
 
-    def smallerNumbersThanCurrent(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: List[int]
-        """
-        count = 0
-        num_list = sorted(nums)
-        counts = collections.Counter(num_list)
-        for num in nums:
-            count = counts[num]
+# def smallerNumbersThanCurrent(nums):
+#     """
+#     :type nums: List[int]
+#     :rtype: List[int]
+#     """
+#     #count = 0
+#     num_list = sorted(nums)
+#     counts = collections.Counter(num_list)
+#     return [counts[num] for num in nums]
+#
+
+
+
+def smallerNumbersThanCurrent(nums):
+    """
+    :type nums: List[int]
+    :rtype: List[int]
+    """
+
+    indices = {}
+    for id, num in enumerate(sorted(nums)):
+        indices.setdefault(num, id)
+    return [indices[x] for x in nums]
+
+print(smallerNumbersThanCurrent([8,1,2,2,3]))
 
 
