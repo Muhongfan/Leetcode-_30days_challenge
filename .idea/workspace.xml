@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="998bba8e-bd0b-4ffc-ae6f-29237594be4d" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/Array/Number of Good Pairs.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Number of Good Pairs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/Shuffle the Array.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Shuffle the Array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/How Many Numbers Are Smaller Than the Current Number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -71,17 +71,35 @@
       <file leaf-file-name="Jul22_Binary Tree Zigzag Level Order Traversal.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/July/Jul22_Binary Tree Zigzag Level Order Traversal.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="412">
+            <state relative-caret-position="480">
               <caret line="32" selection-start-line="32" selection-end-line="32" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Number of Good Pairs.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Number of Good Pairs.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Array/Number of Good Pairs.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="65" column="14" selection-start-line="65" selection-start-column="14" selection-end-line="65" selection-end-column="14" />
+            <state relative-caret-position="230">
+              <caret line="31" column="11" lean-forward="true" selection-start-line="31" selection-end-line="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="How Many Numbers Are Smaller Than the Current Number.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Array/How Many Numbers Are Smaller Than the Current Number.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="397">
+              <caret line="78" column="31" lean-forward="true" selection-start-line="78" selection-start-column="31" selection-end-line="78" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Kids With the Greatest Number of Candies.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Array/Kids With the Greatest Number of Candies.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="50" column="31" selection-start-line="50" selection-start-column="31" selection-end-line="50" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -89,7 +107,7 @@
       <file leaf-file-name="Jul15_Reverse Words in a String.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/July/Jul15_Reverse Words in a String.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="321">
+            <state relative-caret-position="525">
               <caret line="35" column="36" selection-start-line="35" selection-start-column="11" selection-end-line="35" selection-end-column="36" />
             </state>
           </provider>
@@ -110,7 +128,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/July/Jul15_Reverse Words in a String.py" />
         <option value="$PROJECT_DIR$/July/Jul16_pow(x,n).py" />
         <option value="$PROJECT_DIR$/July/Jul17_Top K Frequent Elements.py" />
         <option value="$PROJECT_DIR$/July/Jul18_Course Schedule II.py" />
@@ -161,6 +178,7 @@
         <option value="$PROJECT_DIR$/June/Jun10_Search Insert Position  Solution.py" />
         <option value="$PROJECT_DIR$/Array/Shuffle the Array.py" />
         <option value="$PROJECT_DIR$/Array/Number of Good Pairs.py" />
+        <option value="$PROJECT_DIR$/Array/How Many Numbers Are Smaller Than the Current Number.py" />
       </list>
     </option>
   </component>
@@ -196,11 +214,6 @@
               <item name="Root" type="cbb8eebc:String" user="Root" />
               <item name="Leetcode_30_challenge" type="cbb8eebc:String" user="Leetcode_30_challenge" />
               <item name="Array" type="cbb8eebc:String" user="Array" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="Leetcode_30_challenge" type="cbb8eebc:String" user="Leetcode_30_challenge" />
-              <item name="July" type="cbb8eebc:String" user="July" />
             </path>
             <path>
               <item name="Root" type="cbb8eebc:String" user="Root" />
@@ -386,8 +399,8 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.3298611" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32621083" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.30341882" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.32229403" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.30341882" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32714054" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -624,13 +637,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/July/Jul26_Add Digits.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="9" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/July/Jul2_Binary Tree Level Order Traversal II.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-156">
@@ -904,13 +910,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Array/Kids With the Greatest Number of Candies.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="750">
-          <caret line="50" column="31" selection-start-line="50" selection-start-column="31" selection-end-line="50" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/June/Jun10_Search Insert Position  Solution.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
@@ -920,14 +919,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/July/Jul22_Binary Tree Zigzag Level Order Traversal.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="412">
+        <state relative-caret-position="480">
           <caret line="32" selection-start-line="32" selection-end-line="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/July/Jul15_Reverse Words in a String.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
+        <state relative-caret-position="525">
           <caret line="35" column="36" selection-start-line="35" selection-start-column="11" selection-end-line="35" selection-end-column="36" />
         </state>
       </provider>
@@ -972,10 +971,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Array/Kids With the Greatest Number of Candies.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="50" column="31" selection-start-line="50" selection-start-column="31" selection-end-line="50" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Array/Number of Good Pairs.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="65" column="14" selection-start-line="65" selection-start-column="14" selection-end-line="65" selection-end-column="14" />
+        <state relative-caret-position="230">
+          <caret line="31" column="11" lean-forward="true" selection-start-line="31" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Array/How Many Numbers Are Smaller Than the Current Number.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="78" column="31" lean-forward="true" selection-start-line="78" selection-start-column="31" selection-end-line="78" selection-end-column="31" />
         </state>
       </provider>
     </entry>
