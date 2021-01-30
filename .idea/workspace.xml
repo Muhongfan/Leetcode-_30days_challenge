@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="998bba8e-bd0b-4ffc-ae6f-29237594be4d" name="Default" comment="" />
+    <list default="true" id="998bba8e-bd0b-4ffc-ae6f-29237594be4d" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/Array/XOR Operation in an Array.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/Create Target Array in the Given Order.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Create Target Array in the Given Order.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -79,17 +83,26 @@
       <file leaf-file-name="Decompress Run-Length Encoded List.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Array/Decompress Run-Length Encoded List.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="159">
+            <state relative-caret-position="705">
               <caret line="47" selection-start-line="47" selection-end-line="47" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Create Target Array in the Given Order.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Create Target Array in the Given Order.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Array/Create Target Array in the Given Order.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="382">
-              <caret line="59" column="17" selection-start-line="59" selection-start-column="17" selection-end-line="59" selection-end-column="17" />
+            <state relative-caret-position="360">
+              <caret line="73" column="31" selection-start-line="73" selection-end-line="74" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="XOR Operation in an Array.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Array/XOR Operation in an Array.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -127,7 +140,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/July/Jul18_Course Schedule II.py" />
         <option value="$PROJECT_DIR$/July/Jul19_Add Binary" />
         <option value="$PROJECT_DIR$/July/Jul20_ Remove Linked List Elements.py" />
         <option value="$PROJECT_DIR$/July/Jul21_Word Search.py" />
@@ -178,6 +190,7 @@
         <option value="$PROJECT_DIR$/Array/How Many Numbers Are Smaller Than the Current Number.py" />
         <option value="$PROJECT_DIR$/Array/Decompress Run-Length Encoded List.py" />
         <option value="$PROJECT_DIR$/Array/Create Target Array in the Given Order.py" />
+        <option value="$PROJECT_DIR$/Array/XOR Operation in an Array.py" />
       </list>
     </option>
   </component>
@@ -200,17 +213,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Leetcode_30_challenge" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Leetcode_30_challenge" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="Scope">
         <subPane subId="Project Files">
           <expand>
@@ -227,6 +229,17 @@
               <item name="Root" type="cbb8eebc:String" user="Root" />
               <item name="Leetcode_30_challenge" type="cbb8eebc:String" user="Leetcode_30_challenge" />
               <item name="List" type="cbb8eebc:String" user="List" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Leetcode_30_challenge" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Leetcode_30_challenge" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -388,6 +401,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
@@ -395,8 +409,8 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.3298611" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32621083" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.30341882" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3368336" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.30341882" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.34248787" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -653,13 +667,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/July/Jul30_Word Break ll.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1185">
-          <caret line="79" column="14" selection-start-line="79" selection-start-column="14" selection-end-line="79" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/July/Jul20_Remove Linked List Elements.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-165">
@@ -996,15 +1003,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Array/Decompress Run-Length Encoded List.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
+        <state relative-caret-position="705">
           <caret line="47" selection-start-line="47" selection-end-line="47" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Array/Create Target Array in the Given Order.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="382">
-          <caret line="59" column="17" selection-start-line="59" selection-start-column="17" selection-end-line="59" selection-end-column="17" />
+        <state relative-caret-position="360">
+          <caret line="73" column="31" selection-start-line="73" selection-end-line="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Array/XOR Operation in an Array.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>

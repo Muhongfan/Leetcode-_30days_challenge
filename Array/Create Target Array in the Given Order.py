@@ -47,7 +47,7 @@ nums.length == index.length
 
 """
 
-
+#built in function
 def createTargetArray(nums, index):
     """
     :type nums: List[int]
@@ -59,15 +59,18 @@ def createTargetArray(nums, index):
         answer.insert(index[i], nums[i])  # insert(位置, 值)
     return answer
 
-    def createTargetArray(self, nums, index):
-        """
-        :type nums: List[int]
-        :type index: List[int]
-        :rtype: List[int]
-        """
-        target = []
+#built in function with more efficiency
+def createTargetArray(self, nums, index):
+    target = []
+    for i,value in zip(index, nums):
+        target.insert(i,value)
+    return target
 
-        for i in range(len(nums)):
-            target[:] = target[:index[i]] + [nums[i]] + target[index[i]:]
-        return target
+#Less Complex and without using built in function
+def createTargetArray(nums, index):
+
+    target = []
+    for i in range(len(nums)):
+        target[:] = target[:index[i]] + [nums[i]] + target[index[i]:]
+    return target
 
