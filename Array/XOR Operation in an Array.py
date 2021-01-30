@@ -46,3 +46,16 @@ class Solution(object):
         for i in range(n):
             res ^= (start + 2 * i)
         return res
+
+ def xorOperation(self, n, start):
+        """
+        :type n: int
+        :type start: int
+        :rtype: int
+        """
+        res = start
+        i = 1
+        while i < n:
+            res ^= (start + 2*i)
+            i += 1
+        return res
