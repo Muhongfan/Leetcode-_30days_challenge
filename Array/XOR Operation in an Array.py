@@ -44,10 +44,12 @@ class Solution(object):
         """
         res = 0
         for i in range(n):
+            # much faster than res ^= (start +  i * 2)
             res ^= (start + 2 * i)
         return res
 
- def xorOperation(self, n, start):
+
+ def xorOperation2(n, start):
         """
         :type n: int
         :type start: int
