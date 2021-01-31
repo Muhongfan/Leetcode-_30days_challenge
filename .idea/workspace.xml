@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="998bba8e-bd0b-4ffc-ae6f-29237594be4d" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/Array/Day of the Week.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/XOR Operation in an Array.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array/XOR Operation in an Array.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -69,57 +69,12 @@
     <SUITE FILE_PATH="coverage/Leetcode_30_challenge$Aug8_Path_Sum_III.coverage" NAME="Aug8_Path Sum III Coverage Results" MODIFIED="1596988625028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/August" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="How Many Numbers Are Smaller Than the Current Number.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Array/How Many Numbers Are Smaller Than the Current Number.py">
+    <leaf>
+      <file leaf-file-name="Day of the Week.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Array/Day of the Week.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1260">
-              <caret line="84" column="25" selection-start-line="84" selection-start-column="25" selection-end-line="84" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Decompress Run-Length Encoded List.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Array/Decompress Run-Length Encoded List.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="705">
-              <caret line="47" selection-start-line="47" selection-end-line="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Create Target Array in the Given Order.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Array/Create Target Array in the Given Order.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1095">
-              <caret line="73" column="31" selection-start-line="73" selection-end-line="74" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="XOR Operation in an Array.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Array/XOR Operation in an Array.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="55" column="19" lean-forward="true" selection-start-line="55" selection-start-column="19" selection-end-line="55" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Kids With the Greatest Number of Candies.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Array/Kids With the Greatest Number of Candies.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="750">
-              <caret line="50" column="31" selection-start-line="50" selection-start-column="31" selection-end-line="50" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Jul15_Reverse Words in a String.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/July/Jul15_Reverse Words in a String.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="35" column="36" selection-start-line="35" selection-start-column="11" selection-end-line="35" selection-end-column="36" />
+            <state relative-caret-position="270">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
             </state>
           </provider>
         </entry>
@@ -139,7 +94,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/July/Jul19_Add Binary" />
         <option value="$PROJECT_DIR$/July/Jul20_ Remove Linked List Elements.py" />
         <option value="$PROJECT_DIR$/July/Jul21_Word Search.py" />
         <option value="$PROJECT_DIR$/Jul22_Binary Tree Zigzag Level Order Traversal.py" />
@@ -190,6 +144,7 @@
         <option value="$PROJECT_DIR$/Array/Decompress Run-Length Encoded List.py" />
         <option value="$PROJECT_DIR$/Array/Create Target Array in the Given Order.py" />
         <option value="$PROJECT_DIR$/Array/XOR Operation in an Array.py" />
+        <option value="$PROJECT_DIR$/Array/Day of the Week.py" />
       </list>
     </option>
   </component>
@@ -212,17 +167,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Leetcode_30_challenge" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Leetcode_30_challenge" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="Scope">
         <subPane subId="Project Files">
           <expand>
@@ -239,6 +183,17 @@
               <item name="Root" type="cbb8eebc:String" user="Root" />
               <item name="Leetcode_30_challenge" type="cbb8eebc:String" user="Leetcode_30_challenge" />
               <item name="List" type="cbb8eebc:String" user="List" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Leetcode_30_challenge" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Leetcode_30_challenge" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -405,17 +360,17 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32621083" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.3298611" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.30341882" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.34814218" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32621083" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.30341882" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.35379645" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3945869" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3945869" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -666,13 +621,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/July/Jul20_Remove Linked List Elements.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-165">
-          <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/July/Jul16_pow(x,n).py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="267">
@@ -925,13 +873,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/July/Jul15_Reverse Words in a String.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="35" column="36" selection-start-line="35" selection-start-column="11" selection-end-line="35" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/July/Jul12_Reverse Bits.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-324" />
@@ -972,13 +913,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Array/Kids With the Greatest Number of Candies.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="750">
-          <caret line="50" column="31" selection-start-line="50" selection-start-column="31" selection-end-line="50" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Array/Number of Good Pairs.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="111">
@@ -993,31 +927,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Array/How Many Numbers Are Smaller Than the Current Number.py">
+    <entry file="file://$PROJECT_DIR$/Array/XOR Operation in an Array.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1260">
-          <caret line="84" column="25" selection-start-line="84" selection-start-column="25" selection-end-line="84" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Array/Decompress Run-Length Encoded List.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="705">
-          <caret line="47" selection-start-line="47" selection-end-line="47" />
+        <state relative-caret-position="720">
+          <caret line="48" column="18" lean-forward="true" selection-start-line="48" selection-start-column="18" selection-end-line="48" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Array/Create Target Array in the Given Order.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1095">
+        <state relative-caret-position="360">
           <caret line="73" column="31" selection-start-line="73" selection-end-line="74" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Array/XOR Operation in an Array.py">
+    <entry file="file://$PROJECT_DIR$/Array/Decompress Run-Length Encoded List.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="55" column="19" lean-forward="true" selection-start-line="55" selection-start-column="19" selection-end-line="55" selection-end-column="19" />
+        <state relative-caret-position="112">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Array/How Many Numbers Are Smaller Than the Current Number.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="84" column="25" selection-start-line="84" selection-start-column="25" selection-end-line="84" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Array/Kids With the Greatest Number of Candies.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="412">
+          <caret line="50" column="31" selection-start-line="50" selection-start-column="31" selection-end-line="50" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/July/Jul15_Reverse Words in a String.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="412">
+          <caret line="35" column="36" selection-start-line="35" selection-start-column="11" selection-end-line="35" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Array/Day of the Week.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
