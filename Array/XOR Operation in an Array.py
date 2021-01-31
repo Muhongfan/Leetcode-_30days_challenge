@@ -49,7 +49,7 @@ class Solution(object):
         return res
 
 
- def xorOperation2(n, start):
+def xorOperation2(n, start):
         """
         :type n: int
         :type start: int
