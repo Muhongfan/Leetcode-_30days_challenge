@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="998bba8e-bd0b-4ffc-ae6f-29237594be4d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Array/Count Negative Numbers in a Sorted Matrix.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/Count Negative Numbers in a Sorted Matrix.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Count Negative Numbers in a Sorted Matrix.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -36,6 +35,7 @@
     <SUITE FILE_PATH="coverage/Leetcode_30_challenge$Jul6_Plus_One.coverage" NAME="Jul6_Plus One Coverage Results" MODIFIED="1594433273938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/July" />
     <SUITE FILE_PATH="coverage/Leetcode_30_challenge$Jul22_Binary_Tree_Zigzag_Level_Order_Traversal.coverage" NAME="Jul22_Binary Tree Zigzag Level Order Traversal Coverage Results" MODIFIED="1595466742146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode_30_challenge$GroupAnagrams_Apir6.coverage" NAME="GroupAnagrams_Apir6 Coverage Results" MODIFIED="1587843499886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Leetcode_30_challenge$Count_Negative_Numbers_in_a_Sorted_Matrix.coverage" NAME="Count Negative Numbers in a Sorted Matrix Coverage Results" MODIFIED="1612154571845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Array" />
     <SUITE FILE_PATH="coverage/Leetcode_30_challenge$Apir10_MinStack.coverage" NAME="Apir10_MinStack Coverage Results" MODIFIED="1588288512748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode_30_challenge$Jul21_Word_Search.coverage" NAME="Jul21_Word Search Coverage Results" MODIFIED="1595387800634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/July" />
     <SUITE FILE_PATH="coverage/Leetcode_30_challenge$Aug5_Add_and_Search_Word___Data_structure_design.coverage" NAME="Aug5_Add and Search Word - Data structure design Coverage Results" MODIFIED="1597550548369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/August" />
@@ -82,8 +82,8 @@
       <file leaf-file-name="Count Negative Numbers in a Sorted Matrix.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Array/Count Negative Numbers in a Sorted Matrix.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="412">
-              <caret line="30" column="1" lean-forward="true" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+            <state relative-caret-position="171">
+              <caret line="66" column="8" lean-forward="true" selection-start-line="66" selection-start-column="8" selection-end-line="74" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -236,7 +236,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Decompress Run-Length Encoded List">
+  <component name="RunManager" selected="Python.Count Negative Numbers in a Sorted Matrix">
+    <configuration name="Count Negative Numbers in a Sorted Matrix" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Leetcode_30_challenge" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Array" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Array/Count Negative Numbers in a Sorted Matrix.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="Decompress Run-Length Encoded List" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode_30_challenge" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -313,39 +332,20 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Shuffle the Array" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Leetcode_30_challenge" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Array" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Array/Shuffle the Array.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <list>
-      <item itemvalue="Python.Shuffle the Array" />
       <item itemvalue="Python.Richest Customer Wealth" />
       <item itemvalue="Python.Number of Good Pairs" />
       <item itemvalue="Python.How Many Numbers Are Smaller Than the Current Number" />
       <item itemvalue="Python.Decompress Run-Length Encoded List" />
+      <item itemvalue="Python.Count Negative Numbers in a Sorted Matrix" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Count Negative Numbers in a Sorted Matrix" />
         <item itemvalue="Python.Decompress Run-Length Encoded List" />
         <item itemvalue="Python.How Many Numbers Are Smaller Than the Current Number" />
         <item itemvalue="Python.Number of Good Pairs" />
         <item itemvalue="Python.Richest Customer Wealth" />
-        <item itemvalue="Python.Shuffle the Array" />
       </list>
     </recent_temporary>
   </component>
@@ -369,11 +369,11 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32621083" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32621083" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.3298611" />
-      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.30341882" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.35945073" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.30341882" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.35945073" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -618,6 +618,16 @@
           <line>43</line>
           <option name="timeStamp" value="192" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Array/Count Negative Numbers in a Sorted Matrix.py</url>
+          <line>71</line>
+          <option name="timeStamp" value="196" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Array/Count Negative Numbers in a Sorted Matrix.py</url>
+          <line>69</line>
+          <option name="timeStamp" value="198" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -626,7 +636,7 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="193" />
+      <option name="time" value="199" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -980,8 +990,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Array/Count Negative Numbers in a Sorted Matrix.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="412">
-          <caret line="30" column="1" lean-forward="true" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+        <state relative-caret-position="171">
+          <caret line="66" column="8" lean-forward="true" selection-start-line="66" selection-start-column="8" selection-end-line="74" selection-end-column="18" />
         </state>
       </provider>
     </entry>
