@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="998bba8e-bd0b-4ffc-ae6f-29237594be4d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Array/Maximum Number of Balls in a Box.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/Maximum Number of Balls in a Box.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Maximum Number of Balls in a Box.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -62,7 +61,7 @@
     <SUITE FILE_PATH="coverage/Leetcode_30_challenge$Jul25_Find_Minimum_in_Rotated_Sorted_Array_II.coverage" NAME="Jul25_Find Minimum in Rotated Sorted Array II Coverage Results" MODIFIED="1595734507237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/July" />
     <SUITE FILE_PATH="coverage/Leetcode_30_challenge$Aug15__Non_overlapping_Intervals.coverage" NAME="Aug15_ Non-overlapping Intervals Coverage Results" MODIFIED="1597550739308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/August" />
     <SUITE FILE_PATH="coverage/Leetcode_30_challenge$Jul23_Single_Number_III.coverage" NAME="Jul23_Single Number III Coverage Results" MODIFIED="1595644129822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Leetcode_30_challenge$Maximum_Number_of_Balls_in_a_Box.coverage" NAME="Maximum Number of Balls in a Box Coverage Results" MODIFIED="1612223757427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Array" />
+    <SUITE FILE_PATH="coverage/Leetcode_30_challenge$Maximum_Number_of_Balls_in_a_Box.coverage" NAME="Maximum Number of Balls in a Box Coverage Results" MODIFIED="1612223818748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Array" />
     <SUITE FILE_PATH="coverage/Leetcode_30_challenge$BackspaceStringCompare_Apir9.coverage" NAME="BackspaceStringCompare_Apir9 Coverage Results" MODIFIED="1588282851730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode_30_challenge$Apir14__PerformStringShifts.coverage" NAME="Apir14_ PerformStringShifts Coverage Results" MODIFIED="1593834484446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode_30_challenge$Apir12_ContiguousArray.coverage" NAME="Apir12_ContiguousArray Coverage Results" MODIFIED="1588296465818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -75,8 +74,8 @@
       <file leaf-file-name="Maximum Number of Balls in a Box.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Array/Maximum Number of Balls in a Box.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="366">
-              <caret line="72" column="10" selection-start-line="72" selection-start-column="10" selection-end-line="72" selection-end-column="10" />
+            <state relative-caret-position="277">
+              <caret line="82" column="16" selection-start-line="82" selection-start-column="16" selection-end-line="82" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -186,7 +185,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="width" value="634" />
     <option name="height" value="800" />
   </component>
@@ -389,10 +388,10 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32621083" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32621083" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.3298611" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.30341882" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.30341882" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.35945073" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="4" />
@@ -647,11 +646,6 @@
           <url />
           <line>81</line>
           <option name="timeStamp" value="198" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url />
-          <line>64</line>
-          <option name="timeStamp" value="210" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
@@ -1015,8 +1009,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Array/Maximum Number of Balls in a Box.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="366">
-          <caret line="72" column="10" selection-start-line="72" selection-start-column="10" selection-end-line="72" selection-end-column="10" />
+        <state relative-caret-position="277">
+          <caret line="82" column="16" selection-start-line="82" selection-start-column="16" selection-end-line="82" selection-end-column="16" />
         </state>
       </provider>
     </entry>

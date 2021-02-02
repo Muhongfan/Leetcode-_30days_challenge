@@ -44,7 +44,7 @@ class Solution(object):
         :type highLimit: int
         :rtype: int
         """
-        num = 0
+        #num = 0
         dic = dict()
         for i in range(lowLimit, highLimit+1):
             if i < 10:
@@ -67,4 +67,38 @@ class Solution(object):
 so = Solution()
 #print(so.countBalls(220,548))
 print(so.isnotNull(220))
+print(220%10)
+
+
+def countBalls(self, lowLimit, highLimit):
+    """
+    :type lowLimit: int
+    :type highLimit: int
+    :rtype: int
+    """
+    import collections
+    ans, s = 0, 0
+    d = collections.defaultdict(int)
+    for i in range(lowLimit, highLimit + 1):
+        if i % 10 > 0 and s:
+            s += 1
+        else:
+            s = 0
+            while i > 0:
+                s += i % 10
+                i //= 10
+        d[s] += 1
+        ans = max(ans, d[s])
+    return ans
+
+def countBalls(self, lo, hi):
+    a = [0] * 50
+    for x in xrange(lo, hi + 1):
+        y = x
+        s = 0
+        while y:
+            s += y % 10
+            y /= 10
+        a[s] += 1
+    return max(a)
 
