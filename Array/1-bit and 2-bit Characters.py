@@ -27,7 +27,7 @@ class Solution(object):
         :type bits: List[int]
         :rtype: bool
         """
-        i = 0;
+        i = 0
         while (i < len(bits) - 1):
             if (bits[i] == 0) :
                 i = i +1
@@ -36,6 +36,27 @@ class Solution(object):
 
         return i == len(bits) - 1
 
+
+    """
+    i = 0
+        while i < len(bits) - 1:
+            i += bits[i] + 1
+        return i == len(bits) - 1
+        """
+    """
+    i = 0
+        
+        while True:
+            if i == len(bits) - 1:
+                return True
+            elif i == len(bits) - 2 and bits[i] == 1:
+                return False
+            
+            if bits[i]:
+                i += 2
+            else:
+                i += 1
+                """
 
 
 so = Solution()
