@@ -49,5 +49,33 @@ class Solution(object):
         #int - > list : list(str(x)
         return list(str(int("".join(map(str,A))) + K))
 
+    def addToArrayForm2(self, A, K):
+        """
+        :type A: List[int]
+        :type K: int
+        :rtype: List[int]
+        """
+        # Time: O(logK * logA) Space: O(1)  Digits are O(logK) not O(K)!!
+        if K == 0:
+            return A
+
+        carry, i = 0, len(A) - 1
+        while K != 0 or carry != 0:  # Both the addition number have to be exhausted AND THERE MUST BE NO CARRY LEFT.
+            if i == -1:
+                A.insert(0, 0)
+                i = 0
+            digit = K % 10
+            K //= 10
+            check = A[i] + digit + carry
+            if check >= 10:
+                carry = 1
+                A[i] = check % 10
+            else:
+                carry = 0
+                A[i] = check
+            i -= 1
+        return A
+
 so = Solution()
 print(so.addToArrayForm([1,2,0,0],34))
+

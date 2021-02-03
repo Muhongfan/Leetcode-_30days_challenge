@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="998bba8e-bd0b-4ffc-ae6f-29237594be4d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Array/Add to Array-Form of Integer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/Add to Array-Form of Integer.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Add to Array-Form of Integer.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -95,8 +94,8 @@
       <file leaf-file-name="Add to Array-Form of Integer.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Array/Add to Array-Form of Integer.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="47" column="8" lean-forward="true" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="54" />
+            <state relative-caret-position="352">
+              <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
             </state>
           </provider>
         </entry>
@@ -411,8 +410,8 @@
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.3298611" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32621083" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.30341882" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32621083" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.30341882" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.365105" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="4" />
@@ -1030,8 +1029,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Array/Add to Array-Form of Integer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="47" column="8" lean-forward="true" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="54" />
+        <state relative-caret-position="352">
+          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
         </state>
       </provider>
     </entry>
