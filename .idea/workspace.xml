@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="998bba8e-bd0b-4ffc-ae6f-29237594be4d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Array/1-bit and 2-bit Characters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/Add to Array-Form of Integer.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,6 +33,7 @@
     <SUITE FILE_PATH="coverage/Leetcode_30_challenge$HappyNumber_Apir2.coverage" NAME="HappyNumber_Apir2 Coverage Results" MODIFIED="1586621659846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode_30_challenge$Jul28_Task_Scheduler.coverage" NAME="Jul28_Task Scheduler Coverage Results" MODIFIED="1595963107865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/July" />
     <SUITE FILE_PATH="coverage/Leetcode_30_challenge$N_ary_Tree_Postorder_Traversal.coverage" NAME="N-ary Tree Postorder Traversal Coverage Results" MODIFIED="1610983338651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/List" />
+    <SUITE FILE_PATH="coverage/Leetcode_30_challenge$Add_to_Array_Form_of_Integer.coverage" NAME="Add to Array-Form of Integer Coverage Results" MODIFIED="1612372807818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Array" />
     <SUITE FILE_PATH="coverage/Leetcode_30_challenge$Jul6_Plus_One.coverage" NAME="Jul6_Plus One Coverage Results" MODIFIED="1594433273938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/July" />
     <SUITE FILE_PATH="coverage/Leetcode_30_challenge$Jul22_Binary_Tree_Zigzag_Level_Order_Traversal.coverage" NAME="Jul22_Binary Tree Zigzag Level Order Traversal Coverage Results" MODIFIED="1595466742146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode_30_challenge$GroupAnagrams_Apir6.coverage" NAME="GroupAnagrams_Apir6 Coverage Results" MODIFIED="1587843499886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -82,11 +83,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="1-bit and 2-bit Characters.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="1-bit and 2-bit Characters.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Array/1-bit and 2-bit Characters.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="33" column="26" lean-forward="true" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
+            <state relative-caret-position="232">
+              <caret line="55" column="22" lean-forward="true" selection-start-line="55" selection-start-column="22" selection-end-line="55" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Add to Array-Form of Integer.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Array/Add to Array-Form of Integer.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="47" column="8" lean-forward="true" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="54" />
             </state>
           </provider>
         </entry>
@@ -133,7 +143,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Jul23_Single Number III.py" />
         <option value="$PROJECT_DIR$/July/Jul24_All Paths From Source to Target.py" />
         <option value="$PROJECT_DIR$/July/Jul25_Find Minimum in Rotated Sorted Array II.py" />
         <option value="$PROJECT_DIR$/July/Jul26_Add Digits.py" />
@@ -184,6 +193,7 @@
         <option value="$PROJECT_DIR$/Array/Count Negative Numbers in a Sorted Matrix.py" />
         <option value="$PROJECT_DIR$/Array/Maximum Number of Balls in a Box.py" />
         <option value="$PROJECT_DIR$/Array/1-bit and 2-bit Characters.py" />
+        <option value="$PROJECT_DIR$/Array/Add to Array-Form of Integer.py" />
       </list>
     </option>
   </component>
@@ -266,7 +276,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1-bit and 2-bit Characters">
+  <component name="RunManager" selected="Python.Add to Array-Form of Integer">
     <configuration name="1-bit and 2-bit Characters" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode_30_challenge" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -281,6 +291,25 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Array/1-bit and 2-bit Characters.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Add to Array-Form of Integer" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Leetcode_30_challenge" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Array" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Array/Add to Array-Form of Integer.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -324,25 +353,6 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="How Many Numbers Are Smaller Than the Current Number" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Leetcode_30_challenge" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Array" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Array/How Many Numbers Are Smaller Than the Current Number.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <configuration name="Maximum Number of Balls in a Box" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode_30_challenge" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -363,19 +373,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.How Many Numbers Are Smaller Than the Current Number" />
       <item itemvalue="Python.Decompress Run-Length Encoded List" />
       <item itemvalue="Python.Count Negative Numbers in a Sorted Matrix" />
       <item itemvalue="Python.Maximum Number of Balls in a Box" />
       <item itemvalue="Python.1-bit and 2-bit Characters" />
+      <item itemvalue="Python.Add to Array-Form of Integer" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Add to Array-Form of Integer" />
         <item itemvalue="Python.1-bit and 2-bit Characters" />
         <item itemvalue="Python.Maximum Number of Balls in a Box" />
         <item itemvalue="Python.Count Negative Numbers in a Sorted Matrix" />
         <item itemvalue="Python.Decompress Run-Length Encoded List" />
-        <item itemvalue="Python.How Many Numbers Are Smaller Than the Current Number" />
       </list>
     </recent_temporary>
   </component>
@@ -670,13 +680,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/August/Aug2_Design HashSet.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="890">
-          <caret line="60" column="20" selection-start-line="58" selection-start-column="8" selection-end-line="60" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/August/Aug4_Power of Four.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -1020,8 +1023,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Array/1-bit and 2-bit Characters.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="33" column="26" lean-forward="true" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
+        <state relative-caret-position="232">
+          <caret line="55" column="22" lean-forward="true" selection-start-line="55" selection-start-column="22" selection-end-line="55" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Array/Add to Array-Form of Integer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="47" column="8" lean-forward="true" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="54" />
         </state>
       </provider>
     </entry>
