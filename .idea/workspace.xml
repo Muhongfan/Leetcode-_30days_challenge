@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="998bba8e-bd0b-4ffc-ae6f-29237594be4d" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/Array/Maximum Number of Balls in a Box.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Maximum Number of Balls in a Box.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/1-bit and 2-bit Characters.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -66,16 +67,26 @@
     <SUITE FILE_PATH="coverage/Leetcode_30_challenge$Apir14__PerformStringShifts.coverage" NAME="Apir14_ PerformStringShifts Coverage Results" MODIFIED="1593834484446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode_30_challenge$Apir12_ContiguousArray.coverage" NAME="Apir12_ContiguousArray Coverage Results" MODIFIED="1588296465818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode_30_challenge$Jul11_Subsets.coverage" NAME="Jul11_Subsets Coverage Results" MODIFIED="1594521876277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/July" />
+    <SUITE FILE_PATH="coverage/Leetcode_30_challenge$1_bit_and_2_bit_Characters.coverage" NAME="1-bit and 2-bit Characters Coverage Results" MODIFIED="1612326677633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Array" />
     <SUITE FILE_PATH="coverage/Leetcode_30_challenge$Jul16_pow_x_n_.coverage" NAME="Jul16_pow(x,n) Coverage Results" MODIFIED="1594950053575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/July" />
     <SUITE FILE_PATH="coverage/Leetcode_30_challenge$Aug8_Path_Sum_III.coverage" NAME="Aug8_Path Sum III Coverage Results" MODIFIED="1596988625028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/August" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Maximum Number of Balls in a Box.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Maximum Number of Balls in a Box.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Array/Maximum Number of Balls in a Box.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="277">
-              <caret line="82" column="16" selection-start-line="82" selection-start-column="16" selection-end-line="82" selection-end-column="16" />
+            <state relative-caret-position="247">
+              <caret line="97" column="13" lean-forward="true" selection-start-line="97" selection-start-column="13" selection-end-line="97" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="1-bit and 2-bit Characters.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Array/1-bit and 2-bit Characters.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="33" column="26" lean-forward="true" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -83,8 +94,8 @@
       <file leaf-file-name="How Many Numbers Are Smaller Than the Current Number.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Array/How Many Numbers Are Smaller Than the Current Number.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="262">
-              <caret line="90" column="35" lean-forward="true" selection-start-line="90" selection-start-column="8" selection-end-line="90" selection-end-column="35" />
+            <state relative-caret-position="1350">
+              <caret line="90" column="35" selection-start-line="90" selection-start-column="8" selection-end-line="90" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -92,7 +103,7 @@
       <file leaf-file-name="Create Target Array in the Given Order.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Array/Create Target Array in the Given Order.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
+            <state relative-caret-position="990">
               <caret line="66" column="12" selection-start-line="66" selection-start-column="12" selection-end-line="66" selection-end-column="12" />
             </state>
           </provider>
@@ -101,7 +112,7 @@
       <file leaf-file-name="Count Negative Numbers in a Sorted Matrix.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Array/Count Negative Numbers in a Sorted Matrix.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="337">
+            <state relative-caret-position="1320">
               <caret line="88" column="13" selection-start-line="88" selection-end-line="89" />
             </state>
           </provider>
@@ -122,7 +133,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Jul22_Binary Tree Zigzag Level Order Traversal.py" />
         <option value="$PROJECT_DIR$/Jul23_Single Number III.py" />
         <option value="$PROJECT_DIR$/July/Jul24_All Paths From Source to Target.py" />
         <option value="$PROJECT_DIR$/July/Jul25_Find Minimum in Rotated Sorted Array II.py" />
@@ -173,6 +183,7 @@
         <option value="$PROJECT_DIR$/Array/Day of the Week.py" />
         <option value="$PROJECT_DIR$/Array/Count Negative Numbers in a Sorted Matrix.py" />
         <option value="$PROJECT_DIR$/Array/Maximum Number of Balls in a Box.py" />
+        <option value="$PROJECT_DIR$/Array/1-bit and 2-bit Characters.py" />
       </list>
     </option>
   </component>
@@ -185,7 +196,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="634" />
     <option name="height" value="800" />
   </component>
@@ -255,7 +266,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Maximum Number of Balls in a Box">
+  <component name="RunManager" selected="Python.1-bit and 2-bit Characters">
+    <configuration name="1-bit and 2-bit Characters" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Leetcode_30_challenge" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Array" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Array/1-bit and 2-bit Characters.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="Count Negative Numbers in a Sorted Matrix" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode_30_challenge" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -332,39 +362,20 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Number of Good Pairs" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Leetcode_30_challenge" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Array" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Array/Number of Good Pairs.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <list>
-      <item itemvalue="Python.Number of Good Pairs" />
       <item itemvalue="Python.How Many Numbers Are Smaller Than the Current Number" />
       <item itemvalue="Python.Decompress Run-Length Encoded List" />
       <item itemvalue="Python.Count Negative Numbers in a Sorted Matrix" />
       <item itemvalue="Python.Maximum Number of Balls in a Box" />
+      <item itemvalue="Python.1-bit and 2-bit Characters" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1-bit and 2-bit Characters" />
         <item itemvalue="Python.Maximum Number of Balls in a Box" />
         <item itemvalue="Python.Count Negative Numbers in a Sorted Matrix" />
         <item itemvalue="Python.Decompress Run-Length Encoded List" />
         <item itemvalue="Python.How Many Numbers Are Smaller Than the Current Number" />
-        <item itemvalue="Python.Number of Good Pairs" />
       </list>
     </recent_temporary>
   </component>
@@ -388,17 +399,17 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32621083" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.3298611" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.30341882" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.35945073" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32621083" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.30341882" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.365105" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3945869" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3945869" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -423,227 +434,227 @@
           <option name="timeStamp" value="79" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url />
+          <url>file://$PROJECT_DIR$/July/Jul3_Prison Cells After N Days.py</url>
           <line>58</line>
           <option name="timeStamp" value="80" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url />
+          <url>file://$PROJECT_DIR$/July/Jul4_Ugly Number II.py</url>
           <line>59</line>
           <option name="timeStamp" value="89" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url />
+          <url>file://$PROJECT_DIR$/July/Jul4_Ugly Number II.py</url>
           <line>49</line>
           <option name="timeStamp" value="93" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url />
+          <url>file://$PROJECT_DIR$/July/Jul4_Ugly Number II.py</url>
           <line>56</line>
           <option name="timeStamp" value="94" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url />
+          <url>file://$PROJECT_DIR$/July/Jul4_Ugly Number II.py</url>
           <line>52</line>
           <option name="timeStamp" value="95" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url />
+          <url>file://$PROJECT_DIR$/July/Jul5_Hamming Distance.py</url>
           <line>33</line>
           <option name="timeStamp" value="107" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url />
+          <url>file://$PROJECT_DIR$/July/Jul5_Hamming Distance.py</url>
           <line>34</line>
           <option name="timeStamp" value="108" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url />
+          <url>file://$PROJECT_DIR$/July/Jul6_Plus One.py</url>
           <line>29</line>
           <option name="timeStamp" value="112" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url />
+          <url>file://$PROJECT_DIR$/July/Jul6_Plus One.py</url>
           <line>30</line>
           <option name="timeStamp" value="113" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url />
+          <url>file://$PROJECT_DIR$/July/Jul6_Plus One.py</url>
           <line>31</line>
           <option name="timeStamp" value="114" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url />
+          <url>file://$PROJECT_DIR$/July/Jul6_Plus One.py</url>
           <line>32</line>
           <option name="timeStamp" value="115" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url />
+          <url>file://$PROJECT_DIR$/July/Jul17_Top K Frequent Elements.py</url>
           <line>45</line>
           <option name="timeStamp" value="121" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url />
+          <url>file://$PROJECT_DIR$/July/Jul17_Top K Frequent Elements.py</url>
           <line>44</line>
           <option name="timeStamp" value="122" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url />
+          <url>file://$PROJECT_DIR$/July/Jul23_Single Number III.py</url>
           <line>23</line>
           <option name="timeStamp" value="123" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url />
+          <url>file://$PROJECT_DIR$/July/Jul23_Single Number III.py</url>
           <line>29</line>
           <option name="timeStamp" value="124" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url />
+          <url>file://$PROJECT_DIR$/July/Jul26_Add Digits.py</url>
           <line>36</line>
           <option name="timeStamp" value="125" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url />
+          <url>file://$PROJECT_DIR$/July/Jul26_Add Digits.py</url>
           <line>38</line>
           <option name="timeStamp" value="127" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url />
+          <url>file://$PROJECT_DIR$/July/Jul26_Add Digits.py</url>
           <line>40</line>
           <option name="timeStamp" value="128" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url />
+          <url>file://$PROJECT_DIR$/July/Jul27_Construct Binary Tree from Inorder and Postorder Traversal.py</url>
           <line>36</line>
           <option name="timeStamp" value="129" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url />
+          <url>file://$PROJECT_DIR$/July/Jul27_Construct Binary Tree from Inorder and Postorder Traversal.py</url>
           <line>38</line>
           <option name="timeStamp" value="130" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url />
+          <url>file://$PROJECT_DIR$/July/Jul27_Construct Binary Tree from Inorder and Postorder Traversal.py</url>
           <line>39</line>
           <option name="timeStamp" value="131" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url />
+          <url>file://$PROJECT_DIR$/July/Jul28_Task Scheduler.py</url>
           <line>56</line>
           <option name="timeStamp" value="132" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url />
+          <url>file://$PROJECT_DIR$/July/Jul28_Task Scheduler.py</url>
           <line>50</line>
           <option name="timeStamp" value="133" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url />
+          <url>file://$PROJECT_DIR$/July/Jul28_Task Scheduler.py</url>
           <line>80</line>
           <option name="timeStamp" value="138" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url />
+          <url>file://$PROJECT_DIR$/July/Jul28_Task Scheduler.py</url>
           <line>79</line>
           <option name="timeStamp" value="139" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url />
+          <url>file://$PROJECT_DIR$/July/Jul28_Task Scheduler.py</url>
           <line>75</line>
           <option name="timeStamp" value="142" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url />
+          <url>file://$PROJECT_DIR$/July/Jul28_Task Scheduler.py</url>
           <line>76</line>
           <option name="timeStamp" value="143" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url />
+          <url>file://$PROJECT_DIR$/July/Jul28_Task Scheduler.py</url>
           <line>78</line>
           <option name="timeStamp" value="144" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url />
+          <url>file://$PROJECT_DIR$/August/Aug8_Path Sum III.py</url>
           <line>44</line>
           <option name="timeStamp" value="151" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url />
+          <url>file://$PROJECT_DIR$/August/Aug5_Add and Search Word - Data structure design.py</url>
           <line>42</line>
           <option name="timeStamp" value="152" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url />
+          <url>file://$PROJECT_DIR$/August/Aug5_Add and Search Word - Data structure design.py</url>
           <line>69</line>
           <option name="timeStamp" value="153" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url />
+          <url>file://$PROJECT_DIR$/August/Aug5_Add and Search Word - Data structure design.py</url>
           <line>44</line>
           <option name="timeStamp" value="154" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url />
+          <url>file://$PROJECT_DIR$/August/Aug5_Add and Search Word - Data structure design.py</url>
           <line>45</line>
           <option name="timeStamp" value="155" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url />
+          <url>file://$PROJECT_DIR$/August/Aug5_Add and Search Word - Data structure design.py</url>
           <line>46</line>
           <option name="timeStamp" value="156" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url />
+          <url>file://$PROJECT_DIR$/August/Aug15_ Non-overlapping Intervals.py</url>
           <line>45</line>
           <option name="timeStamp" value="158" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url />
+          <url>file://$PROJECT_DIR$/List/N-ary Tree Postorder Traversal.py</url>
           <line>71</line>
           <option name="timeStamp" value="167" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url />
+          <url>file://$PROJECT_DIR$/Array/Richest Customer Wealth.py</url>
           <line>49</line>
           <option name="timeStamp" value="181" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url />
+          <url>file://$PROJECT_DIR$/Array/Number of Good Pairs.py</url>
           <line>44</line>
           <option name="timeStamp" value="183" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url />
+          <url>file://$PROJECT_DIR$/Array/Number of Good Pairs.py</url>
           <line>43</line>
           <option name="timeStamp" value="184" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url />
+          <url>file://$PROJECT_DIR$/Array/How Many Numbers Are Smaller Than the Current Number.py</url>
           <line>90</line>
           <option name="timeStamp" value="186" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url />
+          <url>file://$PROJECT_DIR$/Array/How Many Numbers Are Smaller Than the Current Number.py</url>
           <line>91</line>
           <option name="timeStamp" value="187" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url />
+          <url>file://$PROJECT_DIR$/Array/How Many Numbers Are Smaller Than the Current Number.py</url>
           <line>77</line>
           <option name="timeStamp" value="188" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url />
+          <url>file://$PROJECT_DIR$/Array/Decompress Run-Length Encoded List.py</url>
           <line>43</line>
           <option name="timeStamp" value="192" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url />
+          <url>file://$PROJECT_DIR$/Array/Count Negative Numbers in a Sorted Matrix.py</url>
           <line>83</line>
           <option name="timeStamp" value="196" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url />
+          <url>file://$PROJECT_DIR$/Array/Count Negative Numbers in a Sorted Matrix.py</url>
           <line>81</line>
           <option name="timeStamp" value="198" />
         </line-breakpoint>
@@ -655,17 +666,10 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="211" />
+      <option name="time" value="212" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/July/Jul6_Plus One.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="645">
-          <caret line="43" selection-start-line="43" selection-end-line="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/August/Aug2_Design HashSet.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="890">
@@ -988,29 +992,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Array/Create Target Array in the Given Order.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
+        <state relative-caret-position="990">
           <caret line="66" column="12" selection-start-line="66" selection-start-column="12" selection-end-line="66" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Array/Count Negative Numbers in a Sorted Matrix.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="337">
+        <state relative-caret-position="1320">
           <caret line="88" column="13" selection-start-line="88" selection-end-line="89" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Array/How Many Numbers Are Smaller Than the Current Number.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="90" column="35" lean-forward="true" selection-start-line="90" selection-start-column="8" selection-end-line="90" selection-end-column="35" />
+        <state relative-caret-position="1350">
+          <caret line="90" column="35" selection-start-line="90" selection-start-column="8" selection-end-line="90" selection-end-column="35" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Array/Maximum Number of Balls in a Box.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="82" column="16" selection-start-line="82" selection-start-column="16" selection-end-line="82" selection-end-column="16" />
+        <state relative-caret-position="247">
+          <caret line="97" column="13" lean-forward="true" selection-start-line="97" selection-start-column="13" selection-end-line="97" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Array/1-bit and 2-bit Characters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="33" column="26" lean-forward="true" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
         </state>
       </provider>
     </entry>
