@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="998bba8e-bd0b-4ffc-ae6f-29237594be4d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Array/Available Captures for Rook.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/Average Salary Excluding the Minimum and Maximum Salary.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -111,11 +111,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Available Captures for Rook.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Available Captures for Rook.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Array/Available Captures for Rook.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="412">
               <caret line="32" column="58" selection-start-line="32" selection-start-column="58" selection-end-line="32" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Average Salary Excluding the Minimum and Maximum Salary.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Array/Average Salary Excluding the Minimum and Maximum Salary.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="367">
+              <caret line="45" column="4" selection-start-line="45" selection-start-column="4" selection-end-line="45" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -162,7 +171,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/July/Jul26_Add Digits.py" />
         <option value="$PROJECT_DIR$/July/Jul27_Construct Binary Tree from Inorder and Postorder Traversal.py" />
         <option value="$PROJECT_DIR$/July/Jul28_Task Scheduler.py" />
         <option value="$PROJECT_DIR$/July/Jul29_Best Time to Buy and Sell Stock with Cooldown.py" />
@@ -213,6 +221,7 @@
         <option value="$PROJECT_DIR$/Array/Add to Array-Form of Integer.py" />
         <option value="$PROJECT_DIR$/Array/Array Partition I.py" />
         <option value="$PROJECT_DIR$/Array/Available Captures for Rook.py" />
+        <option value="$PROJECT_DIR$/Array/Average Salary Excluding the Minimum and Maximum Salary.py" />
       </list>
     </option>
   </component>
@@ -714,13 +723,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/July/Jul5_Hamming Distance.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="74">
-          <caret line="29" column="26" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/July/Jul27_Construct Binary Tree from Inorder and Postorder Traversal.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
@@ -1066,6 +1068,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="412">
           <caret line="32" column="58" selection-start-line="32" selection-start-column="58" selection-end-line="32" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Array/Average Salary Excluding the Minimum and Maximum Salary.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="45" column="4" selection-start-line="45" selection-start-column="4" selection-end-line="45" selection-end-column="4" />
         </state>
       </provider>
     </entry>
