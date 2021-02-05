@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="998bba8e-bd0b-4ffc-ae6f-29237594be4d" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/Array/Add to Array-Form of Integer.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Add to Array-Form of Integer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/Array Partition I.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -49,6 +50,7 @@
     <SUITE FILE_PATH="coverage/Leetcode_30_challenge$Longest_Harmonious_Subsequence.coverage" NAME="Longest Harmonious Subsequence Coverage Results" MODIFIED="1611085513734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/List" />
     <SUITE FILE_PATH="coverage/Leetcode_30_challenge$Decompress_Run_Length_Encoded_List.coverage" NAME="Decompress Run-Length Encoded List Coverage Results" MODIFIED="1611678203800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Array" />
     <SUITE FILE_PATH="coverage/Leetcode_30_challenge$Jul4_Ugly_Number_II.coverage" NAME="Jul4_Ugly Number II Coverage Results" MODIFIED="1593962582635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/July" />
+    <SUITE FILE_PATH="coverage/Leetcode_30_challenge$Array_Partition_I.coverage" NAME="Array Partition I Coverage Results" MODIFIED="1612486051162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Array" />
     <SUITE FILE_PATH="coverage/Leetcode_30_challenge$Running_Sum_of_1d_Array.coverage" NAME="Running Sum of 1d Array Coverage Results" MODIFIED="1611199569860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Array" />
     <SUITE FILE_PATH="coverage/Leetcode_30_challenge$Aug3_Valid_Palindrome.coverage" NAME="Aug3_Valid Palindrome Coverage Results" MODIFIED="1596512073865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/August" />
     <SUITE FILE_PATH="coverage/Leetcode_30_challenge$Jul5_Hamming_Distance.coverage" NAME="Jul5_Hamming Distance Coverage Results" MODIFIED="1593970812323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/July" />
@@ -76,8 +78,8 @@
       <file leaf-file-name="Maximum Number of Balls in a Box.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Array/Maximum Number of Balls in a Box.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="97" column="13" lean-forward="true" selection-start-line="97" selection-start-column="13" selection-end-line="97" selection-end-column="13" />
+            <state relative-caret-position="1455">
+              <caret line="97" column="13" selection-start-line="97" selection-start-column="13" selection-end-line="97" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -85,17 +87,26 @@
       <file leaf-file-name="1-bit and 2-bit Characters.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Array/1-bit and 2-bit Characters.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="232">
-              <caret line="55" column="22" lean-forward="true" selection-start-line="55" selection-start-column="22" selection-end-line="55" selection-end-column="22" />
+            <state relative-caret-position="825">
+              <caret line="55" column="22" selection-start-line="55" selection-start-column="22" selection-end-line="55" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Add to Array-Form of Integer.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Add to Array-Form of Integer.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Array/Add to Array-Form of Integer.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+            <state relative-caret-position="283">
+              <caret line="71" column="19" selection-start-line="71" selection-start-column="19" selection-end-line="71" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Array Partition I.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Array/Array Partition I.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="33" column="8" selection-start-line="33" selection-start-column="8" selection-end-line="40" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -142,7 +153,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/July/Jul24_All Paths From Source to Target.py" />
         <option value="$PROJECT_DIR$/July/Jul25_Find Minimum in Rotated Sorted Array II.py" />
         <option value="$PROJECT_DIR$/July/Jul26_Add Digits.py" />
         <option value="$PROJECT_DIR$/July/Jul27_Construct Binary Tree from Inorder and Postorder Traversal.py" />
@@ -193,6 +203,7 @@
         <option value="$PROJECT_DIR$/Array/Maximum Number of Balls in a Box.py" />
         <option value="$PROJECT_DIR$/Array/1-bit and 2-bit Characters.py" />
         <option value="$PROJECT_DIR$/Array/Add to Array-Form of Integer.py" />
+        <option value="$PROJECT_DIR$/Array/Array Partition I.py" />
       </list>
     </option>
   </component>
@@ -215,17 +226,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Leetcode_30_challenge" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Leetcode_30_challenge" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="Scope">
         <subPane subId="Project Files">
           <expand>
@@ -242,6 +242,17 @@
               <item name="Root" type="cbb8eebc:String" user="Root" />
               <item name="Leetcode_30_challenge" type="cbb8eebc:String" user="Leetcode_30_challenge" />
               <item name="List" type="cbb8eebc:String" user="List" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Leetcode_30_challenge" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Leetcode_30_challenge" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -275,7 +286,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Add to Array-Form of Integer">
+  <component name="RunManager" selected="Python.Array Partition I">
     <configuration name="1-bit and 2-bit Characters" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode_30_challenge" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -314,6 +325,25 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="Array Partition I" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Leetcode_30_challenge" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Array" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Array/Array Partition I.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="Count Negative Numbers in a Sorted Matrix" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode_30_challenge" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -328,25 +358,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Array/Count Negative Numbers in a Sorted Matrix.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="Decompress Run-Length Encoded List" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Leetcode_30_challenge" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Array" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Array/Decompress Run-Length Encoded List.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -372,19 +383,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.Decompress Run-Length Encoded List" />
       <item itemvalue="Python.Count Negative Numbers in a Sorted Matrix" />
       <item itemvalue="Python.Maximum Number of Balls in a Box" />
       <item itemvalue="Python.1-bit and 2-bit Characters" />
       <item itemvalue="Python.Add to Array-Form of Integer" />
+      <item itemvalue="Python.Array Partition I" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Array Partition I" />
         <item itemvalue="Python.Add to Array-Form of Integer" />
         <item itemvalue="Python.1-bit and 2-bit Characters" />
         <item itemvalue="Python.Maximum Number of Balls in a Box" />
         <item itemvalue="Python.Count Negative Numbers in a Sorted Matrix" />
-        <item itemvalue="Python.Decompress Run-Length Encoded List" />
       </list>
     </recent_temporary>
   </component>
@@ -408,17 +419,17 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32621083" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.3298611" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32621083" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.30341882" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.365105" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.30341882" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.37075928" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.3945869" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3945869" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -667,6 +678,21 @@
           <line>81</line>
           <option name="timeStamp" value="198" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Array/Array Partition I.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="212" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Array/Array Partition I.py</url>
+          <line>40</line>
+          <option name="timeStamp" value="214" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Array/Array Partition I.py</url>
+          <line>38</line>
+          <option name="timeStamp" value="215" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -675,17 +701,10 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="212" />
+      <option name="time" value="216" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/August/Aug4_Power of Four.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/July/Jul9_Maximum Width of Binary Tree.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-211">
@@ -1015,22 +1034,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Array/Maximum Number of Balls in a Box.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="97" column="13" lean-forward="true" selection-start-line="97" selection-start-column="13" selection-end-line="97" selection-end-column="13" />
+        <state relative-caret-position="1455">
+          <caret line="97" column="13" selection-start-line="97" selection-start-column="13" selection-end-line="97" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Array/1-bit and 2-bit Characters.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="55" column="22" lean-forward="true" selection-start-line="55" selection-start-column="22" selection-end-line="55" selection-end-column="22" />
+        <state relative-caret-position="825">
+          <caret line="55" column="22" selection-start-line="55" selection-start-column="22" selection-end-line="55" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Array/Add to Array-Form of Integer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+        <state relative-caret-position="283">
+          <caret line="71" column="19" selection-start-line="71" selection-start-column="19" selection-end-line="71" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Array/Array Partition I.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="33" column="8" selection-start-line="33" selection-start-column="8" selection-end-line="40" selection-end-column="21" />
         </state>
       </provider>
     </entry>
