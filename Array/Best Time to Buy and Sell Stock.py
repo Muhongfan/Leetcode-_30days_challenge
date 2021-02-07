@@ -34,20 +34,15 @@ class Solution(object):
         :type prices: List[int]
         :rtype: int
         """
-        length = round(len(prices) / 2)
-        buy_d = min(prices[:length+1:])
-        sell_d = max(prices[length::])
-        left = max(prices[:length:])-min(prices[:length:])
-        right = max(prices[length+1::])-min(prices[length+1::])
-        if sell_d - buy_d > right or sell_d - buy_d > left:
-            return sell_d - buy_d
-        else:
-            if right > left:
-                return right
-            else:
-                return left
-
-
+        if not prices:
+            return 0
+        dp = [0 for __ in range(len(prices))]
+        minPrice = prices[0]
+        for i in range(1, len(prices)):
+            dp[i] = max(dp[i - 1], prices[i] - minPrice)
+            if (minPrice > prices[i]):
+                minPrice = prices[i]
+        return dp[-1]
 
 
 
