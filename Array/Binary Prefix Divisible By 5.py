@@ -62,3 +62,31 @@ def prefixesDivBy5(A):
         answer.append(int("".join(map(str, A_list)), 2) % 5 ==0 )
     return answer
 print(prefixesDivBy5([0,1,1,1,1,1]))
+
+
+"""
+求余的性质。我们每次只用保存前缀对5的余数，在求下一个位置的时候把上一次的前缀×2 + 当前的数字再模5.
+
+求余的性质：
+
+((a +b)mod p × c) mod p = ((a × c) mod p + (b × c) mod p) mod p
+(a×b) mod c=((a mod c) * (b mod c)) mod c
+(a+b) mod c=((a mod c)+ (b mod c)) mod c
+(a-b) mod c=((a mod c)- (b mod c)) mod c
+1
+2
+3
+4
+所以，a扩大x倍之后模一个数字，等于((a % 5) * (x % 5)) % 5.
+"""
+def prefixesDivBy5(A):
+    """
+    :type A: List[int]
+    :rtype: List[bool]
+    """
+    res = []
+    prefix = 0
+    for a in A:
+        prefix = (prefix * 2 + a) % 5
+        res.append(prefix == 0)
+    return res
