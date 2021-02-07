@@ -44,6 +44,29 @@ class Solution(object):
                 minPrice = prices[i]
         return dp[-1]
 
+    def maxProfit(self, prices):
+        """
+        :type prices: List[int]
+        :rtype: int
+        """
+        # if not prices : return 0
+        # min_price = prices[0]
+        # max_profit = 0
+        # for x in prices :
+        #    if x < min_price :
+        #        min_price = x
+        #    elif x - min_price > max_profit :
+        #        max_profit = x - min_price
+        # return max_profit
+        max_profit = 0
+        max_val = 0
+
+        for x in reversed(prices):
+            max_val = max(max_val, x)
+            if max_val - x > max_profit:
+                max_profit = max_val - x
+        return max_profit
+
 
 
 so=Solution()
