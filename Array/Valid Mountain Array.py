@@ -64,4 +64,29 @@ def validMountainArray(A):
     while i < N - 1 and A[i] > A[i + 1]:
         i += 1
     return i == N - 1
+
+def validMountainArray(arr):
+        """
+        :type arr: List[int]
+        :rtype: bool
+        """
+        if len(arr) < 3:
+            return False
+        p = arr[1]
+        if arr[0] >= p:
+            return False
+        down = False
+        for a in arr[2:]:
+            if a == p:
+                return False
+            if down and a < p:
+                p = a
+                continue
+            if down and a > p:
+                return False
+            if a < p:
+                down = True
+
+            p = a
+        return down
 print(validMountainArray([2,1]))
