@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="998bba8e-bd0b-4ffc-ae6f-29237594be4d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Array/X of a Kind in a Deck of Cards.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/Valid Mountain Array.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -51,6 +51,7 @@
     <SUITE FILE_PATH="coverage/Leetcode_30_challenge$How_Many_Numbers_Are_Smaller_Than_the_Current_Number.coverage" NAME="How Many Numbers Are Smaller Than the Current Number Coverage Results" MODIFIED="1611629915764" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Array" />
     <SUITE FILE_PATH="coverage/Leetcode_30_challenge$Longest_Harmonious_Subsequence.coverage" NAME="Longest Harmonious Subsequence Coverage Results" MODIFIED="1611085513734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/List" />
     <SUITE FILE_PATH="coverage/Leetcode_30_challenge$Decompress_Run_Length_Encoded_List.coverage" NAME="Decompress Run-Length Encoded List Coverage Results" MODIFIED="1611678203800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Array" />
+    <SUITE FILE_PATH="coverage/Leetcode_30_challenge$Valid_Mountain_Array.coverage" NAME="Valid Mountain Array Coverage Results" MODIFIED="1612931151947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Array" />
     <SUITE FILE_PATH="coverage/Leetcode_30_challenge$Jul4_Ugly_Number_II.coverage" NAME="Jul4_Ugly Number II Coverage Results" MODIFIED="1593962582635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/July" />
     <SUITE FILE_PATH="coverage/Leetcode_30_challenge$Array_Partition_I.coverage" NAME="Array Partition I Coverage Results" MODIFIED="1612486051162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Array" />
     <SUITE FILE_PATH="coverage/Leetcode_30_challenge$Running_Sum_of_1d_Array.coverage" NAME="Running Sum of 1d Array Coverage Results" MODIFIED="1611199569860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Array" />
@@ -99,17 +100,26 @@
       <file leaf-file-name="Kids With the Greatest Number of Candies.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Array/Kids With the Greatest Number of Candies.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
+            <state relative-caret-position="750">
               <caret line="50" column="31" selection-start-line="50" selection-start-column="31" selection-end-line="50" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="X of a Kind in a Deck of Cards.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="X of a Kind in a Deck of Cards.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Array/X of a Kind in a Deck of Cards.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="72" column="25" selection-start-line="72" selection-start-column="25" selection-end-line="72" selection-end-column="25" />
+            <state relative-caret-position="307">
+              <caret line="74" column="26" selection-start-line="74" selection-start-column="26" selection-end-line="74" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Valid Mountain Array.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Array/Valid Mountain Array.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="309">
+              <caret line="64" column="14" lean-forward="true" selection-start-line="64" selection-start-column="14" selection-end-line="64" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -165,7 +175,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/July/Jul30_Word Break ll.py" />
         <option value="$PROJECT_DIR$/July/Jul31_Climbing stairs.py" />
         <option value="$PROJECT_DIR$/August.py" />
         <option value="$PROJECT_DIR$/August/Aug2_Design HashSet.py" />
@@ -216,6 +225,7 @@
         <option value="$PROJECT_DIR$/Array/Best Time to Buy and Sell Stock.py" />
         <option value="$PROJECT_DIR$/Array/Binary Prefix Divisible By 5.py" />
         <option value="$PROJECT_DIR$/Array/X of a Kind in a Deck of Cards.py" />
+        <option value="$PROJECT_DIR$/Array/Valid Mountain Array.py" />
       </list>
     </option>
   </component>
@@ -298,26 +308,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.X of a Kind in a Deck of Cards">
-    <configuration name="Add to Array-Form of Integer" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Leetcode_30_challenge" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Array" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Array/Add to Array-Form of Integer.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.Valid Mountain Array">
     <configuration name="Array Partition I" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode_30_challenge" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -375,6 +366,25 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="Valid Mountain Array" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Leetcode_30_challenge" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Array" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Array/Valid Mountain Array.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="X of a Kind in a Deck of Cards" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode_30_challenge" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -395,19 +405,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.Add to Array-Form of Integer" />
       <item itemvalue="Python.Array Partition I" />
       <item itemvalue="Python.Best Time to Buy and Sell Stock" />
       <item itemvalue="Python.Binary Prefix Divisible By 5" />
       <item itemvalue="Python.X of a Kind in a Deck of Cards" />
+      <item itemvalue="Python.Valid Mountain Array" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Valid Mountain Array" />
         <item itemvalue="Python.X of a Kind in a Deck of Cards" />
         <item itemvalue="Python.Binary Prefix Divisible By 5" />
         <item itemvalue="Python.Best Time to Buy and Sell Stock" />
         <item itemvalue="Python.Array Partition I" />
-        <item itemvalue="Python.Add to Array-Form of Integer" />
       </list>
     </recent_temporary>
   </component>
@@ -435,7 +445,7 @@
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.3298611" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32621083" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.30341882" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3885299" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.39499193" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -715,6 +725,16 @@
           <line>47</line>
           <option name="timeStamp" value="225" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Array/Valid Mountain Array.py</url>
+          <line>42</line>
+          <option name="timeStamp" value="230" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Array/Valid Mountain Array.py</url>
+          <line>45</line>
+          <option name="timeStamp" value="231" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -723,17 +743,10 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="229" />
+      <option name="time" value="232" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/July/Jul25_Find Minimum in Rotated Sorted Array II.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="42" column="14" selection-start-line="42" selection-start-column="14" selection-end-line="42" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/July/Jul19_Add Binary">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="208">
@@ -1070,15 +1083,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Array/Kids With the Greatest Number of Candies.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
+        <state relative-caret-position="750">
           <caret line="50" column="31" selection-start-line="50" selection-start-column="31" selection-end-line="50" selection-end-column="31" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Array/X of a Kind in a Deck of Cards.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="72" column="25" selection-start-line="72" selection-start-column="25" selection-end-line="72" selection-end-column="25" />
+        <state relative-caret-position="307">
+          <caret line="74" column="26" selection-start-line="74" selection-start-column="26" selection-end-line="74" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Array/Valid Mountain Array.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="64" column="14" lean-forward="true" selection-start-line="64" selection-start-column="14" selection-end-line="64" selection-end-column="14" />
         </state>
       </provider>
     </entry>
