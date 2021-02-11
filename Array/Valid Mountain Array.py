@@ -31,32 +31,44 @@ Constraints:
 """
 
 
-def validMountainArray(arr):
-    """
-    :type arr: List[int]
-    :rtype: bool
-    """
-    m = max(arr)
-    k = arr.index(m)
-    if m == arr[0]:
-        return False
-    for i in arr[1:k:]:
-        if i < i - 1:
-            return False
-        else:
-            for j in arr[k::]:
-                if j < j - 1:
-                    return False
-    return True
+# def validMountainArray(arr):
+#     """
+#     :type arr: List[int]
+#     :rtype: bool
+#     """
+#
+#     k = arr.index(max(arr))
+#
+#     length = len(arr)
+#     flag = False
+#     if k ==len(arr)-1 or k == 0:
+#         return flag
+#     if length < 3:
+#         return flag
+#     if length ==3:
+#         if arr[1] > arr[0] and arr[1]>arr[2]:
+#             flag = True
+#             return flag
+#         else:
+#             return flag
+#     if length > 3:
+#         for i in arr[1:k:]:
+#             if i < i - 1:
+#                 return flag
+#             else:
+#                 for j in arr[k::]:
+#                     if j < j - 1 or j == j - 1:
+#                         return flag
+#         return True
 
-def validMountainArray(A):
+def validMountainArray2(A):
     """
     :type A: List[int]
     :rtype: bool
         """
     N = len(A)
     if N < 3:
-    return False
+        return False
     i = 0
     while i < N - 1 and A[i + 1] > A[i]:
         i += 1
@@ -65,7 +77,7 @@ def validMountainArray(A):
         i += 1
     return i == N - 1
 
-def validMountainArray(arr):
+def validMountainArray3(arr):
         """
         :type arr: List[int]
         :rtype: bool
@@ -89,4 +101,6 @@ def validMountainArray(arr):
 
             p = a
         return down
-print(validMountainArray([2,1]))
+
+print(validMountainArray2([9,8,7,6,5,4,3,2,1,0]))
+
