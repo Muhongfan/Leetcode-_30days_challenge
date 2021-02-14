@@ -30,7 +30,7 @@ class Solution(object):
         """
         s = sorted(arr)
         diff = s[0] - s[1]
-        for i in range(2, len(s)):
+        for i in range(0, len(s),2):
             if diff != s[i - 1] - s[i]:
                 return False
         return True
