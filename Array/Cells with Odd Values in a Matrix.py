@@ -49,3 +49,18 @@ class Solution:
                 if(a[i][j]%2==1):
                     cnt+=1
         return cnt
+
+    def oddCells(self, n, m, indices):
+
+        r = []
+        c = []
+        for [i, j] in indices:
+            if i in r:
+                r.remove(i)
+            else:
+                r.append(i)
+            if j in c:
+                c.remove(j)
+            else:
+                c.append(j)
+        return (len(r) * m + len(c) * n - 2 * len(r) * len(c))
