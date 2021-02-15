@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="998bba8e-bd0b-4ffc-ae6f-29237594be4d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Array/Can Place Flowers.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/Can Make Arithmetic Progression From Sequence.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Can Make Arithmetic Progression From Sequence.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -83,8 +81,17 @@
       <file leaf-file-name="Maximum Number of Balls in a Box.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Array/Maximum Number of Balls in a Box.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1455">
+            <state relative-caret-position="247">
               <caret line="97" column="13" selection-start-line="97" selection-start-column="13" selection-end-line="97" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Can Place Flowers.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Array/Can Place Flowers.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="127">
+              <caret line="34" column="17" lean-forward="true" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -137,15 +144,10 @@
       <file leaf-file-name="Can Make Arithmetic Progression From Sequence.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Array/Can Make Arithmetic Progression From Sequence.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="326">
+            <state relative-caret-position="495">
               <caret line="33" column="25" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Can Place Flowers.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Array/Can Place Flowers.py">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file leaf-file-name="Best Time to Buy and Sell Stock.py" pinned="false" current-in-tab="false">
@@ -244,7 +246,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="width" value="1280" />
     <option name="height" value="800" />
   </component>
@@ -442,7 +444,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
@@ -450,8 +451,8 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.3298611" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32621083" />
-      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.30341882" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.41437802" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.30341882" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.42084005" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -1036,7 +1037,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Array/Maximum Number of Balls in a Box.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1455">
+        <state relative-caret-position="247">
           <caret line="97" column="13" selection-start-line="97" selection-start-column="13" selection-end-line="97" selection-end-column="13" />
         </state>
       </provider>
@@ -1106,13 +1107,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Array/Can Make Arithmetic Progression From Sequence.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="326">
+        <state relative-caret-position="495">
           <caret line="33" column="25" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Array/Can Place Flowers.py">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="34" column="17" lean-forward="true" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
