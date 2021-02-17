@@ -43,21 +43,21 @@ The integers in pieces are distinct (i.e., If we flatten pieces in a 1D array, a
 
 
 class Solution(object):
-    def canFormArray(self, arr, pieces):
-        """
-        :type arr: List[int]
-        :type pieces: List[List[int]]
-        :rtype: bool
-        """
-        arrIndex = 0
-        while arrIndex < len(arr):
-            for piece in pieces:
-                if arr[arrIndex] == piece[0] and arr[arrIndex: arrIndex + len(piece)] == piece:
-                    arrIndex += len(piece)
-                    break
-            else:
-                return False
-        return True
+    # def canFormArray(self, arr, pieces):
+    #     """
+    #     :type arr: List[int]
+    #     :type pieces: List[List[int]]
+    #     :rtype: bool
+    #     """
+    #     arrIndex = 0
+    #     while arrIndex < len(arr):
+    #         for piece in pieces:
+    #             if arr[arrIndex] == piece[0] and arr[arrIndex: arrIndex + len(piece)] == piece:
+    #                 arrIndex += len(piece)
+    #                 break
+    #         else:
+    #             return False
+    #     return True
 
     def canFormArray(self, arr, pieces):
         """
@@ -67,13 +67,16 @@ class Solution(object):
         """
         n = len(arr)
         dict1 = {p[0]: p for p in pieces}
+        print(dict1)
 
         i = 0
 
         while i < n:
+            #find whether the the first of the sub dict1 is in arr
             if arr[i] not in dict1:
                 return False
 
+            #list
             temp = dict1[arr[i]]
 
             for x in temp:
@@ -83,4 +86,4 @@ class Solution(object):
 
         return True
 so = Solution()
-print(so.canFormArray([91,4,64,78], [[78],[4,64],[91]]))
+print(so.canFormArray([49,16,18],[[16,18],[49]]))
