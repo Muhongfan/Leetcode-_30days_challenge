@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="998bba8e-bd0b-4ffc-ae6f-29237594be4d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Array/Check If All 1's Are at Least Length K Places Away.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="998bba8e-bd0b-4ffc-ae6f-29237594be4d" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -120,8 +116,8 @@
       <file leaf-file-name="Check If All 1's Are at Least Length K Places Away.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Array/Check If All 1's Are at Least Length K Places Away.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
+            <state relative-caret-position="397">
+              <caret line="65" selection-start-line="65" selection-end-line="65" />
             </state>
           </provider>
         </entry>
@@ -452,7 +448,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
@@ -460,8 +455,8 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.3298611" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32621083" />
-      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.30341882" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.44830373" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.30341882" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.44830373" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -1133,8 +1128,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Array/Check If All 1's Are at Least Length K Places Away.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
+        <state relative-caret-position="397">
+          <caret line="65" selection-start-line="65" selection-end-line="65" />
         </state>
       </provider>
     </entry>

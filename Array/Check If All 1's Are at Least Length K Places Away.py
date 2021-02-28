@@ -65,6 +65,19 @@ def kLengthApart(self, nums, k):
         prev = i
     return True
 
-
+def kLengthApart(self, nums, k):
+    if 1 not in nums:
+        return True
+    first1 = nums.index(1)
+    zeroCount = 0
+    for index, num in enumerate(nums):
+        if index > first1:
+            if num == 0:
+                zeroCount += 1
+            elif num == 1:
+                if zeroCount < k:
+                    return False
+                zeroCount = 0
+    return True
 
 
