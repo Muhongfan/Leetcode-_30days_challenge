@@ -77,16 +77,16 @@ class Solution(object):
         # ((y2 - y1) * (x1 - x) != (y1 - y) * (x2 - x1))
         return ((y2 - y1) * (x1 - x3) != (y1 - y3) * (x2 - x1))
 
-    def checkStraightLine(self, coordinates):
-        """
-        :type coordinates: List[List[int]]
-        :rtype: bool
-        """
-
-        def get_slope(i):
-            if coordinates[i + 1][0] - coordinates[i][0] == 0:
-                return 'inf'
-            return (coordinates[i + 1][1] - coordinates[i][1]) / (coordinates[i + 1][0] - coordinates[i][0])
-
-        slope = get_slope(0)
-        return all(get_slope(i) == slope for i in range(1, len(coordinates) - 1))
+    # def checkStraightLine(self, coordinates):
+    #     """
+    #     :type coordinates: List[List[int]]
+    #     :rtype: bool
+    #     """
+    #
+    #     def get_slope(i):
+    #         if coordinates[i + 1][0] - coordinates[i][0] == 0:
+    #             return 'inf'
+    #         return (coordinates[i + 1][1] - coordinates[i][1]) / (coordinates[i + 1][0] - coordinates[i][0])
+    #
+    #     slope = get_slope(0)
+    #     return all(get_slope(i) == slope for i in range(1, len(coordinates) - 1))
