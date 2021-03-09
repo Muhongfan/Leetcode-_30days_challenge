@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="998bba8e-bd0b-4ffc-ae6f-29237594be4d" name="Default" comment="" />
+    <list default="true" id="998bba8e-bd0b-4ffc-ae6f-29237594be4d" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -116,7 +118,7 @@
       <file leaf-file-name="Check If All 1's Are at Least Length K Places Away.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Array/Check If All 1's Are at Least Length K Places Away.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="307">
+            <state relative-caret-position="1095">
               <caret line="73" column="26" selection-start-line="73" selection-start-column="26" selection-end-line="73" selection-end-column="26" />
             </state>
           </provider>
@@ -125,7 +127,7 @@
       <file leaf-file-name="Check If It Is a Straight Line.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Array/Check If It Is a Straight Line.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="412">
+            <state relative-caret-position="202">
               <caret line="78" selection-start-line="78" selection-end-line="78" />
             </state>
           </provider>
@@ -250,7 +252,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds">
     <option name="width" value="1280" />
     <option name="height" value="800" />
   </component>
@@ -260,6 +262,17 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Leetcode_30_challenge" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Leetcode_30_challenge" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope">
         <subPane subId="Project Files">
           <expand>
@@ -276,17 +289,6 @@
               <item name="Root" type="cbb8eebc:String" user="Root" />
               <item name="Leetcode_30_challenge" type="cbb8eebc:String" user="Leetcode_30_challenge" />
               <item name="List" type="cbb8eebc:String" user="List" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Leetcode_30_challenge" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Leetcode_30_challenge" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -452,17 +454,17 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32621083" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.3298611" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.30341882" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.4555735" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32621083" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.31323528" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.4628433" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3945869" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3945869" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -1121,14 +1123,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Array/Check If All 1's Are at Least Length K Places Away.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
+        <state relative-caret-position="1095">
           <caret line="73" column="26" selection-start-line="73" selection-start-column="26" selection-end-line="73" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Array/Check If It Is a Straight Line.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="412">
+        <state relative-caret-position="202">
           <caret line="78" selection-start-line="78" selection-end-line="78" />
         </state>
       </provider>
