@@ -50,5 +50,29 @@ def checkIfExist(arr):
     return False
 
 
+class Solution(object):
+    def checkIfExist(self, arr):
+        """
+        :type arr: List[int]
+        :rtype: bool
+        """
+        s = set(arr)
+        for i in s:
+            if 2*i in s and i != 0:
+                return True
+        if arr.count(0) >= 2:
+            return True
+        return False
+        # d = {}
+        # for i in range(len(arr)):
+        #     if arr[i] not in d:
+        #         if arr[i]%2 == 0:
+        #             d[arr[i]/2] = 1
+        #         d[arr[i]*2] = 1
+        #     else:
+        #             return True
+        # return False
+
+
 
 print(checkIfExist([-2,0,10,-19,4,6,-8]))
