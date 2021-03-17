@@ -39,12 +39,14 @@ def checkIfExist(arr):
     :rtype: bool
     """
 
-    for i in arr:
-        if i != 0:
-            answer = i * 2
-            for j in arr:
-                if answer == j:
-                    return True
+    arr = sorted(arr, key=lambda x: abs(x))
+    n = len(arr)
+    j = n - 1
+    i = 0
+    for i in range(n):
+        if (arr[i] * 2 in arr[i + 1:]):
+            return True
+
     return False
 
 
