@@ -2,11 +2,129 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="998bba8e-bd0b-4ffc-ae6f-29237594be4d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Array/Contains Duplicate II.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/List/25. Reverse Nodes in k-Group.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Leetcode_30_challenge.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Leetcode_30_challenge.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apir/Apir10_MinStack.py" beforeDir="false" afterPath="$PROJECT_DIR$/Apir/Apir10_MinStack.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apir/Apir11_DiameterofBinaryTree-F.py" beforeDir="false" afterPath="$PROJECT_DIR$/Apir/Apir11_DiameterofBinaryTree-F.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apir/Apir12_ContiguousArray-F.py" beforeDir="false" afterPath="$PROJECT_DIR$/Apir/Apir12_ContiguousArray-F.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apir/Apir13_ContiguousArray.py" beforeDir="false" afterPath="$PROJECT_DIR$/Apir/Apir13_ContiguousArray.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apir/Apir14_ PerformStringShifts.py" beforeDir="false" afterPath="$PROJECT_DIR$/Apir/Apir14_ PerformStringShifts.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apir/Apir15_ProductofArrayExceptSelf.py" beforeDir="false" afterPath="$PROJECT_DIR$/Apir/Apir15_ProductofArrayExceptSelf.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apir/Apir1_SingleNumber.py" beforeDir="false" afterPath="$PROJECT_DIR$/Apir/Apir1_SingleNumber.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apir/Apir2_HappyNumber.py" beforeDir="false" afterPath="$PROJECT_DIR$/Apir/Apir2_HappyNumber.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apir/Apir3_Maximum Subarray.py" beforeDir="false" afterPath="$PROJECT_DIR$/Apir/Apir3_Maximum Subarray.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apir/Apir4_RemoveZeros.py" beforeDir="false" afterPath="$PROJECT_DIR$/Apir/Apir4_RemoveZeros.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apir/Apir5_BestTimetoBuyandSellStock2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Apir/Apir5_BestTimetoBuyandSellStock2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apir/Apir6_GroupAnagrams.py" beforeDir="false" afterPath="$PROJECT_DIR$/Apir/Apir6_GroupAnagrams.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apir/Apir7_CountingElements.py" beforeDir="false" afterPath="$PROJECT_DIR$/Apir/Apir7_CountingElements.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apir/Apir8_MiddleoftheLinkedList.py" beforeDir="false" afterPath="$PROJECT_DIR$/Apir/Apir8_MiddleoftheLinkedList.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apir/Apir9_BackspaceStringCompare.py" beforeDir="false" afterPath="$PROJECT_DIR$/Apir/Apir9_BackspaceStringCompare.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/1-bit and 2-bit Characters.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array/1-bit and 2-bit Characters.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/Add Strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Add Strings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/Add to Array-Form of Integer.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Add to Array-Form of Integer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/Array Partition I.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Array Partition I.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/Available Captures for Rook.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Available Captures for Rook.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/Average Salary Excluding the Minimum and Maximum Salary.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Average Salary Excluding the Minimum and Maximum Salary.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/Best Time to Buy and Sell Stock.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Best Time to Buy and Sell Stock.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/Binary Prefix Divisible By 5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Binary Prefix Divisible By 5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/Can Make Arithmetic Progression From Sequence.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Can Make Arithmetic Progression From Sequence.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/Can Place Flowers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Can Place Flowers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/Cells with Odd Values in a Matrix.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Cells with Odd Values in a Matrix.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/Check Array Formation Through Concatenation.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Check Array Formation Through Concatenation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/Check If All 1's Are at Least Length K Places Away.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Check If All 1's Are at Least Length K Places Away.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/Check If It Is a Straight Line.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Check If It Is a Straight Line.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/Check If N and Its Double Exist.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Check If N and Its Double Exist.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/Contains Duplicate II.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Contains Duplicate II.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/Contains Duplicate.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Contains Duplicate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/Count Negative Numbers in a Sorted Matrix.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Count Negative Numbers in a Sorted Matrix.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/Create Target Array in the Given Order.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Create Target Array in the Given Order.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/Day of the Week.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Day of the Week.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/Decompress Run-Length Encoded List.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Decompress Run-Length Encoded List.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/How Many Numbers Are Smaller Than the Current Number.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array/How Many Numbers Are Smaller Than the Current Number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/Kids With the Greatest Number of Candies.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Kids With the Greatest Number of Candies.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/Maximum Number of Balls in a Box.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Maximum Number of Balls in a Box.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/Number of Good Pairs.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Number of Good Pairs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/Richest Customer Wealth.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Richest Customer Wealth.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/Running Sum of 1d Array.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Running Sum of 1d Array.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/Search in Rotated Sorted Array.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Search in Rotated Sorted Array.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/Shuffle the Array.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Shuffle the Array.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/Valid Mountain Array.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Valid Mountain Array.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/X of a Kind in a Deck of Cards.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array/X of a Kind in a Deck of Cards.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/XOR Operation in an Array.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array/XOR Operation in an Array.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/August/Aug12_Pascal's Triangle II.py" beforeDir="false" afterPath="$PROJECT_DIR$/August/Aug12_Pascal's Triangle II.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/August/Aug13_Iteration of combination.py" beforeDir="false" afterPath="$PROJECT_DIR$/August/Aug13_Iteration of combination.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/August/Aug14_Longest Palindone.py" beforeDir="false" afterPath="$PROJECT_DIR$/August/Aug14_Longest Palindone.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/August/Aug15_ Non-overlapping Intervals.py" beforeDir="false" afterPath="$PROJECT_DIR$/August/Aug15_ Non-overlapping Intervals.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/August/Aug17_Distribute Candies to People.py" beforeDir="false" afterPath="$PROJECT_DIR$/August/Aug17_Distribute Candies to People.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/August/Aug18_Numbers With Same Consecutive Differences.py" beforeDir="false" afterPath="$PROJECT_DIR$/August/Aug18_Numbers With Same Consecutive Differences.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/August/Aug19_Goat Latin.py" beforeDir="false" afterPath="$PROJECT_DIR$/August/Aug19_Goat Latin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/August/Aug1_Detect Capital Use.py" beforeDir="false" afterPath="$PROJECT_DIR$/August/Aug1_Detect Capital Use.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/August/Aug20_Reorder List.py" beforeDir="false" afterPath="$PROJECT_DIR$/August/Aug20_Reorder List.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/August/Aug21_Sort Array By Parity.py" beforeDir="false" afterPath="$PROJECT_DIR$/August/Aug21_Sort Array By Parity.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/August/Aug2_Design HashSet.py" beforeDir="false" afterPath="$PROJECT_DIR$/August/Aug2_Design HashSet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/August/Aug3_Valid Palindrome.py" beforeDir="false" afterPath="$PROJECT_DIR$/August/Aug3_Valid Palindrome.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/August/Aug4_Power of Four.py" beforeDir="false" afterPath="$PROJECT_DIR$/August/Aug4_Power of Four.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/August/Aug5_Add and Search Word - Data structure design.py" beforeDir="false" afterPath="$PROJECT_DIR$/August/Aug5_Add and Search Word - Data structure design.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/August/Aug6_Find All Duplicates in an Array.py" beforeDir="false" afterPath="$PROJECT_DIR$/August/Aug6_Find All Duplicates in an Array.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/August/Aug7_Vertical Order Traversal of a Binary Tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/August/Aug7_Vertical Order Traversal of a Binary Tree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/August/Aug8_Path Sum III.py" beforeDir="false" afterPath="$PROJECT_DIR$/August/Aug8_Path Sum III.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/August/Aug9_Rotting Oranges.py" beforeDir="false" afterPath="$PROJECT_DIR$/August/Aug9_Rotting Oranges.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/August/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/August/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/July/.idea/July.iml" beforeDir="false" afterPath="$PROJECT_DIR$/July/.idea/July.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/July/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/July/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/July/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/July/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/July/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/July/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/July/Jul10_Flatten a Multilevel Doubly Linked List.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/Jul10_Flatten a Multilevel Doubly Linked List.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/July/Jul11_Subsets.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/Jul11_Subsets.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/July/Jul12_Reverse Bits.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/Jul12_Reverse Bits.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/July/Jul13_Same Tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/Jul13_Same Tree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/July/Jul14_Angle Between Hands of a Clock.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/Jul14_Angle Between Hands of a Clock.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/July/Jul15_Reverse Words in a String.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/Jul15_Reverse Words in a String.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/July/Jul16_pow(x,n).py" beforeDir="false" afterPath="$PROJECT_DIR$/July/Jul16_pow(x,n).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/July/Jul17_Top K Frequent Elements.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/Jul17_Top K Frequent Elements.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/July/Jul18_Course Schedule II.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/Jul18_Course Schedule II.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/July/Jul19_Add Binary" beforeDir="false" afterPath="$PROJECT_DIR$/July/Jul19_Add Binary" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/July/Jul1_Arranging Coins.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/Jul1_Arranging Coins.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/July/Jul20_Remove Linked List Elements.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/Jul20_Remove Linked List Elements.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/July/Jul21_Word Search.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/Jul21_Word Search.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/July/Jul22_Binary Tree Zigzag Level Order Traversal.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/Jul22_Binary Tree Zigzag Level Order Traversal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/July/Jul23_Single Number III.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/Jul23_Single Number III.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/July/Jul24_All Paths From Source to Target.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/Jul24_All Paths From Source to Target.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/July/Jul25_Find Minimum in Rotated Sorted Array II.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/Jul25_Find Minimum in Rotated Sorted Array II.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/July/Jul26_Add Digits.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/Jul26_Add Digits.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/July/Jul27_Construct Binary Tree from Inorder and Postorder Traversal.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/Jul27_Construct Binary Tree from Inorder and Postorder Traversal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/July/Jul28_Task Scheduler.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/Jul28_Task Scheduler.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/July/Jul29_Best Time to Buy and Sell Stock with Cooldown.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/Jul29_Best Time to Buy and Sell Stock with Cooldown.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/July/Jul2_Binary Tree Level Order Traversal II.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/Jul2_Binary Tree Level Order Traversal II.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/July/Jul30_Word Break ll.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/Jul30_Word Break ll.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/July/Jul31_Climbing stairs.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/Jul31_Climbing stairs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/July/Jul3_Prison Cells After N Days.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/Jul3_Prison Cells After N Days.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/July/Jul4_Ugly Number II.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/Jul4_Ugly Number II.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/July/Jul5_Hamming Distance.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/Jul5_Hamming Distance.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/July/Jul6_Plus One.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/Jul6_Plus One.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/July/Jul8_3 SUMS.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/Jul8_3 SUMS.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/July/Jul9_Maximum Width of Binary Tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/Jul9_Maximum Width of Binary Tree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/July/Tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/Tree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/June/Jun10_Search Insert Position  Solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/Jun10_Search Insert Position  Solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/June/Jun3_Two City Scheduling  Solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/Jun3_Two City Scheduling  Solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List/Longest Harmonious Subsequence.py" beforeDir="false" afterPath="$PROJECT_DIR$/List/Longest Harmonious Subsequence.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List/N-ary Tree Postorder Traversal.py" beforeDir="false" afterPath="$PROJECT_DIR$/List/N-ary Tree Postorder Traversal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/May/May10_Find the Town Judge  Solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/May/May10_Find the Town Judge  Solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/May/May3_Ransom Note.py" beforeDir="false" afterPath="$PROJECT_DIR$/May/May3_Ransom Note.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/May/May7_CousinsinBinaryTree.py" beforeDir="false" afterPath="$PROJECT_DIR$/May/May7_CousinsinBinaryTree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/N-ary Tree Postorder Traversal.py" beforeDir="false" afterPath="$PROJECT_DIR$/N-ary Tree Postorder Traversal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sep/Sep1_Largest Time for Given Digits.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sep/Sep1_Largest Time for Given Digits.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sep/Sep2_  Contains Duplicate III.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sep/Sep2_  Contains Duplicate III.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sep/Sep2_  Contains Duplicate III.py___jb_tmp___" beforeDir="false" afterPath="$PROJECT_DIR$/Sep/Sep2_  Contains Duplicate III.py___jb_tmp___" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sep/Sep3_Repeated Substring Pattern.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sep/Sep3_Repeated Substring Pattern.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sep/Sep5_All Elements in Two Binary Search Trees.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sep/Sep5_All Elements in Two Binary Search Trees.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sep/Sep6_Image Overlap.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sep/Sep6_Image Overlap.py" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,100 +196,6 @@
     <SUITE FILE_PATH="coverage/Leetcode_30_challenge$1_bit_and_2_bit_Characters.coverage" NAME="1-bit and 2-bit Characters Coverage Results" MODIFIED="1612326677633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Array" />
     <SUITE FILE_PATH="coverage/Leetcode_30_challenge$Jul16_pow_x_n_.coverage" NAME="Jul16_pow(x,n) Coverage Results" MODIFIED="1594950053575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/July" />
     <SUITE FILE_PATH="coverage/Leetcode_30_challenge$Aug8_Path_Sum_III.coverage" NAME="Aug8_Path Sum III Coverage Results" MODIFIED="1596988625028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/August" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Check If N and Its Double Exist.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Array/Check If N and Its Double Exist.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1095">
-              <caret line="73" column="22" selection-start-line="73" selection-start-column="22" selection-end-line="73" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Search in Rotated Sorted Array.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Array/Search in Rotated Sorted Array.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="840">
-              <caret line="56" selection-start-line="56" selection-end-line="56" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Contains Duplicate.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Array/Contains Duplicate.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="34" column="22" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Contains Duplicate II.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Array/Contains Duplicate II.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="60" selection-start-line="60" selection-end-line="60" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Check Array Formation Through Concatenation.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Array/Check Array Formation Through Concatenation.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="825">
-              <caret line="55" selection-start-line="55" selection-end-line="55" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Array/test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="9" selection-start-column="9" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Check If All 1's Are at Least Length K Places Away.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Array/Check If All 1's Are at Least Length K Places Away.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1095">
-              <caret line="73" column="26" selection-start-line="73" selection-start-column="26" selection-end-line="73" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Check If It Is a Straight Line.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Array/Check If It Is a Straight Line.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1170">
-              <caret line="78" selection-start-line="78" selection-end-line="78" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Add Strings.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Array/Add Strings.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Can Make Arithmetic Progression From Sequence.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Array/Can Make Arithmetic Progression From Sequence.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="33" column="25" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -258,12 +282,39 @@
     <option name="width" value="1280" />
     <option name="height" value="800" />
   </component>
+  <component name="ProjectId" id="21hiQhx1Qph4XAeH2ZogzP5i3QN" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="Scope" currentSubView="Project Files" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <expand>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="Leetcode_30_challenge" type="cbb8eebc:String" user="Leetcode_30_challenge" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="Leetcode_30_challenge" type="cbb8eebc:String" user="Leetcode_30_challenge" />
+              <item name="July" type="cbb8eebc:String" user="July" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="Leetcode_30_challenge" type="cbb8eebc:String" user="Leetcode_30_challenge" />
+              <item name="June" type="cbb8eebc:String" user="June" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="Leetcode_30_challenge" type="cbb8eebc:String" user="Leetcode_30_challenge" />
+              <item name="List" type="cbb8eebc:String" user="List" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -275,28 +326,11 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope">
-        <subPane subId="Project Files">
-          <expand>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="Leetcode_30_challenge" type="cbb8eebc:String" user="Leetcode_30_challenge" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="Leetcode_30_challenge" type="cbb8eebc:String" user="Leetcode_30_challenge" />
-              <item name="Array" type="cbb8eebc:String" user="Array" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="Leetcode_30_challenge" type="cbb8eebc:String" user="Leetcode_30_challenge" />
-              <item name="List" type="cbb8eebc:String" user="List" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
     </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -311,18 +345,6 @@
       <recent name="$PROJECT_DIR$/July" />
       <recent name="$PROJECT_DIR$/Apir" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager" selected="Python.Check If N and Its Double Exist">
     <configuration name="Binary Prefix Divisible By 5" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -343,6 +365,9 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <configuration name="Check Array Formation Through Concatenation" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode_30_challenge" />
@@ -362,6 +387,9 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <configuration name="Check If N and Its Double Exist" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode_30_challenge" />
@@ -381,6 +409,9 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <configuration name="Valid Mountain Array" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode_30_challenge" />
@@ -400,6 +431,9 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <configuration name="X of a Kind in a Deck of Cards" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode_30_challenge" />
@@ -419,6 +453,9 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <list>
       <item itemvalue="Python.Binary Prefix Divisible By 5" />
@@ -437,6 +474,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -447,6 +485,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585877919626</updated>
+      <workItem from="1638399710845" duration="659000" />
     </task>
     <servers />
   </component>
@@ -456,18 +495,22 @@
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Anonymous Apex" order="13" visible="true" weight="0.32941177" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32352942" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.3298611" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32352942" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.31323528" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.35864297" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.31323528" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.42649436" />
+      <window_info anchor="bottom" id="SOQL Query" order="13" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Log Viewer" order="13" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39411765" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="13" weight="0.32941177" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -475,11 +518,21 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="13" weight="0.32941177" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -780,14 +833,13 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="256" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/August/Aug20_Reorder List.py">
+    <entry file="file://$PROJECT_DIR$/List/Longest Harmonious Subsequence.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-259">
-          <caret line="48" column="24" selection-start-line="48" selection-start-column="24" selection-end-line="48" selection-end-column="24" />
+        <state relative-caret-position="525">
+          <caret line="35" column="20" lean-forward="true" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -868,13 +920,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/June/Jun10_Search Insert Position  Solution.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="3" lean-forward="true" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/July/Jul12_Reverse Bits.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-324" />
@@ -884,13 +929,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="338">
           <caret line="70" column="19" selection-start-line="70" selection-start-column="19" selection-end-line="70" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/List/Longest Harmonious Subsequence.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="38" column="41" lean-forward="true" selection-start-line="38" selection-start-column="41" selection-end-line="38" selection-end-column="41" />
         </state>
       </provider>
     </entry>
@@ -1127,15 +1165,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Array/Contains Duplicate.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
+        <state relative-caret-position="510">
           <caret line="34" column="22" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Array/Contains Duplicate II.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="60" selection-start-line="60" selection-end-line="60" />
+        <state relative-caret-position="255">
+          <caret line="60" column="29" lean-forward="true" selection-start-line="60" selection-start-column="29" selection-end-line="60" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/June/Jun10_Search Insert Position  Solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="10" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/List/Longest Harmonious Subsequence.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="35" column="20" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
         </state>
       </provider>
     </entry>
