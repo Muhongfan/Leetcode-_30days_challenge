@@ -9,6 +9,9 @@ Output: [2,1,4,3,5]
 Input: head = [1,2,3,4,5], k = 3
 Output: [3,2,1,4,5]
 """
+
+#时间复杂度: O(n)
+#空间复杂度: O(1)
 class ListNode(object):
     def __init__(self, val=0, next=None):
         self.val = val
