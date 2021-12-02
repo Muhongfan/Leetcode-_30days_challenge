@@ -26,7 +26,7 @@ class Solution:
             slow = slow.next
             if slow == fast:
                 x = fast
-                bread
+                break
         slow = head
         while slow != x:
             slow = slow.next
