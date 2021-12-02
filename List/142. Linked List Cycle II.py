@@ -17,7 +17,7 @@ class ListNode(object):
         self.next = None
 
 class Solution:
-    def detectCycle(self, head):
+    def detectCycle(self, head:ListNode) -> ListNode:
         fast = slow = head
         x = None
 
