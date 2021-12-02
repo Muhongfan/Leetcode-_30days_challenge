@@ -5,128 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="998bba8e-bd0b-4ffc-ae6f-29237594be4d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/List/25. Reverse Nodes in k-Group.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Leetcode_30_challenge.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Leetcode_30_challenge.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/List/142. Linked List Cycle II.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Apir/Apir10_MinStack.py" beforeDir="false" afterPath="$PROJECT_DIR$/Apir/Apir10_MinStack.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Apir/Apir11_DiameterofBinaryTree-F.py" beforeDir="false" afterPath="$PROJECT_DIR$/Apir/Apir11_DiameterofBinaryTree-F.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Apir/Apir12_ContiguousArray-F.py" beforeDir="false" afterPath="$PROJECT_DIR$/Apir/Apir12_ContiguousArray-F.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Apir/Apir13_ContiguousArray.py" beforeDir="false" afterPath="$PROJECT_DIR$/Apir/Apir13_ContiguousArray.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Apir/Apir14_ PerformStringShifts.py" beforeDir="false" afterPath="$PROJECT_DIR$/Apir/Apir14_ PerformStringShifts.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Apir/Apir15_ProductofArrayExceptSelf.py" beforeDir="false" afterPath="$PROJECT_DIR$/Apir/Apir15_ProductofArrayExceptSelf.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Apir/Apir1_SingleNumber.py" beforeDir="false" afterPath="$PROJECT_DIR$/Apir/Apir1_SingleNumber.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Apir/Apir2_HappyNumber.py" beforeDir="false" afterPath="$PROJECT_DIR$/Apir/Apir2_HappyNumber.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Apir/Apir3_Maximum Subarray.py" beforeDir="false" afterPath="$PROJECT_DIR$/Apir/Apir3_Maximum Subarray.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Apir/Apir4_RemoveZeros.py" beforeDir="false" afterPath="$PROJECT_DIR$/Apir/Apir4_RemoveZeros.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Apir/Apir5_BestTimetoBuyandSellStock2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Apir/Apir5_BestTimetoBuyandSellStock2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Apir/Apir6_GroupAnagrams.py" beforeDir="false" afterPath="$PROJECT_DIR$/Apir/Apir6_GroupAnagrams.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Apir/Apir7_CountingElements.py" beforeDir="false" afterPath="$PROJECT_DIR$/Apir/Apir7_CountingElements.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Apir/Apir8_MiddleoftheLinkedList.py" beforeDir="false" afterPath="$PROJECT_DIR$/Apir/Apir8_MiddleoftheLinkedList.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Apir/Apir9_BackspaceStringCompare.py" beforeDir="false" afterPath="$PROJECT_DIR$/Apir/Apir9_BackspaceStringCompare.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/1-bit and 2-bit Characters.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array/1-bit and 2-bit Characters.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/Add Strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Add Strings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/Add to Array-Form of Integer.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Add to Array-Form of Integer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/Array Partition I.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Array Partition I.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/Available Captures for Rook.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Available Captures for Rook.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/Average Salary Excluding the Minimum and Maximum Salary.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Average Salary Excluding the Minimum and Maximum Salary.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/Best Time to Buy and Sell Stock.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Best Time to Buy and Sell Stock.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/Binary Prefix Divisible By 5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Binary Prefix Divisible By 5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/Can Make Arithmetic Progression From Sequence.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Can Make Arithmetic Progression From Sequence.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/Can Place Flowers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Can Place Flowers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/Cells with Odd Values in a Matrix.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Cells with Odd Values in a Matrix.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/Check Array Formation Through Concatenation.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Check Array Formation Through Concatenation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/Check If All 1's Are at Least Length K Places Away.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Check If All 1's Are at Least Length K Places Away.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/Check If It Is a Straight Line.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Check If It Is a Straight Line.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/Check If N and Its Double Exist.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Check If N and Its Double Exist.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/Contains Duplicate II.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Contains Duplicate II.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/Contains Duplicate.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Contains Duplicate.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/Count Negative Numbers in a Sorted Matrix.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Count Negative Numbers in a Sorted Matrix.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/Create Target Array in the Given Order.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Create Target Array in the Given Order.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/Day of the Week.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Day of the Week.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/Decompress Run-Length Encoded List.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Decompress Run-Length Encoded List.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/How Many Numbers Are Smaller Than the Current Number.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array/How Many Numbers Are Smaller Than the Current Number.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/Kids With the Greatest Number of Candies.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Kids With the Greatest Number of Candies.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/Maximum Number of Balls in a Box.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Maximum Number of Balls in a Box.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/Number of Good Pairs.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Number of Good Pairs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/Richest Customer Wealth.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Richest Customer Wealth.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/Running Sum of 1d Array.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Running Sum of 1d Array.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/Search in Rotated Sorted Array.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Search in Rotated Sorted Array.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/Shuffle the Array.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Shuffle the Array.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/Valid Mountain Array.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Valid Mountain Array.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/X of a Kind in a Deck of Cards.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array/X of a Kind in a Deck of Cards.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/XOR Operation in an Array.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array/XOR Operation in an Array.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/August/Aug12_Pascal's Triangle II.py" beforeDir="false" afterPath="$PROJECT_DIR$/August/Aug12_Pascal's Triangle II.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/August/Aug13_Iteration of combination.py" beforeDir="false" afterPath="$PROJECT_DIR$/August/Aug13_Iteration of combination.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/August/Aug14_Longest Palindone.py" beforeDir="false" afterPath="$PROJECT_DIR$/August/Aug14_Longest Palindone.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/August/Aug15_ Non-overlapping Intervals.py" beforeDir="false" afterPath="$PROJECT_DIR$/August/Aug15_ Non-overlapping Intervals.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/August/Aug17_Distribute Candies to People.py" beforeDir="false" afterPath="$PROJECT_DIR$/August/Aug17_Distribute Candies to People.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/August/Aug18_Numbers With Same Consecutive Differences.py" beforeDir="false" afterPath="$PROJECT_DIR$/August/Aug18_Numbers With Same Consecutive Differences.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/August/Aug19_Goat Latin.py" beforeDir="false" afterPath="$PROJECT_DIR$/August/Aug19_Goat Latin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/August/Aug1_Detect Capital Use.py" beforeDir="false" afterPath="$PROJECT_DIR$/August/Aug1_Detect Capital Use.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/August/Aug20_Reorder List.py" beforeDir="false" afterPath="$PROJECT_DIR$/August/Aug20_Reorder List.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/August/Aug21_Sort Array By Parity.py" beforeDir="false" afterPath="$PROJECT_DIR$/August/Aug21_Sort Array By Parity.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/August/Aug2_Design HashSet.py" beforeDir="false" afterPath="$PROJECT_DIR$/August/Aug2_Design HashSet.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/August/Aug3_Valid Palindrome.py" beforeDir="false" afterPath="$PROJECT_DIR$/August/Aug3_Valid Palindrome.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/August/Aug4_Power of Four.py" beforeDir="false" afterPath="$PROJECT_DIR$/August/Aug4_Power of Four.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/August/Aug5_Add and Search Word - Data structure design.py" beforeDir="false" afterPath="$PROJECT_DIR$/August/Aug5_Add and Search Word - Data structure design.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/August/Aug6_Find All Duplicates in an Array.py" beforeDir="false" afterPath="$PROJECT_DIR$/August/Aug6_Find All Duplicates in an Array.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/August/Aug7_Vertical Order Traversal of a Binary Tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/August/Aug7_Vertical Order Traversal of a Binary Tree.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/August/Aug8_Path Sum III.py" beforeDir="false" afterPath="$PROJECT_DIR$/August/Aug8_Path Sum III.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/August/Aug9_Rotting Oranges.py" beforeDir="false" afterPath="$PROJECT_DIR$/August/Aug9_Rotting Oranges.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/August/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/August/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/July/.idea/July.iml" beforeDir="false" afterPath="$PROJECT_DIR$/July/.idea/July.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/July/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/July/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/July/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/July/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/July/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/July/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/July/Jul10_Flatten a Multilevel Doubly Linked List.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/Jul10_Flatten a Multilevel Doubly Linked List.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/July/Jul11_Subsets.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/Jul11_Subsets.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/July/Jul12_Reverse Bits.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/Jul12_Reverse Bits.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/July/Jul13_Same Tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/Jul13_Same Tree.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/July/Jul14_Angle Between Hands of a Clock.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/Jul14_Angle Between Hands of a Clock.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/July/Jul15_Reverse Words in a String.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/Jul15_Reverse Words in a String.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/July/Jul16_pow(x,n).py" beforeDir="false" afterPath="$PROJECT_DIR$/July/Jul16_pow(x,n).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/July/Jul17_Top K Frequent Elements.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/Jul17_Top K Frequent Elements.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/July/Jul18_Course Schedule II.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/Jul18_Course Schedule II.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/July/Jul19_Add Binary" beforeDir="false" afterPath="$PROJECT_DIR$/July/Jul19_Add Binary" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/July/Jul1_Arranging Coins.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/Jul1_Arranging Coins.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/July/Jul20_Remove Linked List Elements.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/Jul20_Remove Linked List Elements.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/July/Jul21_Word Search.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/Jul21_Word Search.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/July/Jul22_Binary Tree Zigzag Level Order Traversal.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/Jul22_Binary Tree Zigzag Level Order Traversal.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/July/Jul23_Single Number III.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/Jul23_Single Number III.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/July/Jul24_All Paths From Source to Target.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/Jul24_All Paths From Source to Target.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/July/Jul25_Find Minimum in Rotated Sorted Array II.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/Jul25_Find Minimum in Rotated Sorted Array II.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/July/Jul26_Add Digits.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/Jul26_Add Digits.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/July/Jul27_Construct Binary Tree from Inorder and Postorder Traversal.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/Jul27_Construct Binary Tree from Inorder and Postorder Traversal.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/July/Jul28_Task Scheduler.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/Jul28_Task Scheduler.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/July/Jul29_Best Time to Buy and Sell Stock with Cooldown.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/Jul29_Best Time to Buy and Sell Stock with Cooldown.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/July/Jul2_Binary Tree Level Order Traversal II.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/Jul2_Binary Tree Level Order Traversal II.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/July/Jul30_Word Break ll.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/Jul30_Word Break ll.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/July/Jul31_Climbing stairs.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/Jul31_Climbing stairs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/July/Jul3_Prison Cells After N Days.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/Jul3_Prison Cells After N Days.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/July/Jul4_Ugly Number II.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/Jul4_Ugly Number II.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/July/Jul5_Hamming Distance.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/Jul5_Hamming Distance.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/July/Jul6_Plus One.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/Jul6_Plus One.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/July/Jul8_3 SUMS.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/Jul8_3 SUMS.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/July/Jul9_Maximum Width of Binary Tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/Jul9_Maximum Width of Binary Tree.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/July/Tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/Tree.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/June/Jun10_Search Insert Position  Solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/Jun10_Search Insert Position  Solution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/June/Jun3_Two City Scheduling  Solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/June/Jun3_Two City Scheduling  Solution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/List/Longest Harmonious Subsequence.py" beforeDir="false" afterPath="$PROJECT_DIR$/List/Longest Harmonious Subsequence.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/List/N-ary Tree Postorder Traversal.py" beforeDir="false" afterPath="$PROJECT_DIR$/List/N-ary Tree Postorder Traversal.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/May/May10_Find the Town Judge  Solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/May/May10_Find the Town Judge  Solution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/May/May3_Ransom Note.py" beforeDir="false" afterPath="$PROJECT_DIR$/May/May3_Ransom Note.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/May/May7_CousinsinBinaryTree.py" beforeDir="false" afterPath="$PROJECT_DIR$/May/May7_CousinsinBinaryTree.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/N-ary Tree Postorder Traversal.py" beforeDir="false" afterPath="$PROJECT_DIR$/N-ary Tree Postorder Traversal.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sep/Sep1_Largest Time for Given Digits.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sep/Sep1_Largest Time for Given Digits.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sep/Sep2_  Contains Duplicate III.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sep/Sep2_  Contains Duplicate III.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sep/Sep2_  Contains Duplicate III.py___jb_tmp___" beforeDir="false" afterPath="$PROJECT_DIR$/Sep/Sep2_  Contains Duplicate III.py___jb_tmp___" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sep/Sep3_Repeated Substring Pattern.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sep/Sep3_Repeated Substring Pattern.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sep/Sep5_All Elements in Two Binary Search Trees.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sep/Sep5_All Elements in Two Binary Search Trees.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sep/Sep6_Image Overlap.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sep/Sep6_Image Overlap.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -492,7 +372,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585877919626</updated>
-      <workItem from="1638399710845" duration="1073000" />
+      <workItem from="1638399710845" duration="1600000" />
     </task>
     <servers />
   </component>
