@@ -6,6 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="998bba8e-bd0b-4ffc-ae6f-29237594be4d" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List/._142. Linked List Cycle II.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/List/._Longest Harmonious Subsequence.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/List/25. Reverse Nodes in k-Group.py" beforeDir="false" afterPath="$PROJECT_DIR$/List/25. Reverse Nodes in k-Group.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -227,13 +230,14 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/August" />
       <recent name="$PROJECT_DIR$/July" />
       <recent name="$PROJECT_DIR$/Apir" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Check If N and Its Double Exist">
-    <configuration name="Binary Prefix Divisible By 5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.test">
+    <configuration name="92. Reverse Linked List II" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Leetcode_30_challenge" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -241,12 +245,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Array" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/List" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Array/Binary Prefix Divisible By 5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/List/92. Reverse Linked List II.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -321,7 +325,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="X of a Kind in a Deck of Cards" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Leetcode_30_challenge" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -329,12 +333,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Array" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Array/X of a Kind in a Deck of Cards.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -344,19 +348,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Binary Prefix Divisible By 5" />
-      <item itemvalue="Python.X of a Kind in a Deck of Cards" />
       <item itemvalue="Python.Valid Mountain Array" />
       <item itemvalue="Python.Check Array Formation Through Concatenation" />
       <item itemvalue="Python.Check If N and Its Double Exist" />
+      <item itemvalue="Python.92. Reverse Linked List II" />
+      <item itemvalue="Python.test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.92. Reverse Linked List II" />
         <item itemvalue="Python.Check If N and Its Double Exist" />
         <item itemvalue="Python.Check Array Formation Through Concatenation" />
         <item itemvalue="Python.Valid Mountain Array" />
-        <item itemvalue="Python.X of a Kind in a Deck of Cards" />
-        <item itemvalue="Python.Binary Prefix Divisible By 5" />
       </list>
     </recent_temporary>
   </component>
@@ -371,7 +375,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585877919626</updated>
-      <workItem from="1638399710845" duration="7496000" />
+      <workItem from="1638399710845" duration="12680000" />
     </task>
     <servers />
   </component>
@@ -711,6 +715,31 @@
           <line>84</line>
           <option name="timeStamp" value="250" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/List/92. Reverse Linked List II.py</url>
+          <line>42</line>
+          <option name="timeStamp" value="251" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/List/92. Reverse Linked List II.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="252" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/List/92. Reverse Linked List II.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="253" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/List/92. Reverse Linked List II.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="254" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/List/92. Reverse Linked List II.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="255" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -720,6 +749,11 @@
         </breakpoint>
       </default-breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Leetcode_30_challenge$92__Reverse_Linked_List_II.coverage" NAME="92. Reverse Linked List II Coverage Results" MODIFIED="1638596116530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/List" />
+    <SUITE FILE_PATH="coverage/Leetcode_30_challenge$test.coverage" NAME="test Coverage Results" MODIFIED="1638658697312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Leetcode_30_challenge$Check_If_N_and_Its_Double_Exist.coverage" NAME="Check If N and Its Double Exist Coverage Results" MODIFIED="1638595329850" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Array" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/List/Longest Harmonious Subsequence.py">

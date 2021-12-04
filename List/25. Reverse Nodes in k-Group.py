@@ -27,10 +27,10 @@ class Solution:
             cur.next = pre
             pre = cur
             cur = next
-        return head, trail
+        return head, tail
     def reverseKgroup(self, head, k):
         # visual node
-        ans = Listnode()
+        ans = ListNode()
         ans.next = head
         pre = ans
         # when the link not end
@@ -42,6 +42,9 @@ class Solution:
                 # if to the end, print the whole link list
                 if not tail: # if tail == None:
                     return ans.next
+            # reverse the sub
+            next = tail.next
+            head, tail = self.reverse(head, tail, tail.next)
             # add the sub to the original link
             pre.next = head
             tail.next = next
