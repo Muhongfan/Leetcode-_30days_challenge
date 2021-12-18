@@ -30,3 +30,8 @@ class Solution:
         root.right = self.buildTree((inorder[i+1:], postorder[i+i:-1]))
 
         return root
+
+"""
+时间复杂度：由于每次递归 inorder 和 postorder 的总数都会减 1，因此递归 N 次，故时间复杂度为 $O(N)$，其中 N 为节点个数。
+空间复杂度：递归借助额外的栈空间完成， 由于栈的深度为 N，因此总的空间复杂度为 $O(N)$，其中 N 为节点个数。
+"""
