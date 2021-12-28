@@ -1,0 +1,39 @@
+\documentclass{article}
+% Allow the usage of utf8 characters
+\usepackage[utf8]{inputenc}
+% Uncomment the following line to allow the usage of graphics (.png, .jpg)
+%\usepackage{graphicx}
+
+% Start the document
+\begin{document}
+
+% Create a new 1st level heading
+\section{21. Merge Two Sorted Lists}
+
+# Definition for singly-linked list.
+# class ListNode:
+#     def __init__(self, val=0, next=None):
+#         self.val = val
+#         self.next = next
+class Solution:
+    def mergeTwoLists(self, list1: Optional[ListNode], list2: Optional[ListNode]) -> Optional[ListNode]:
+        head = ListNode(0)
+        pre = head
+        
+        while list1 and list2:
+            if list1.val <= list2.val:
+                pre.next = list1
+                list1 = list1.next
+            else:
+                pre.next = list2
+                list2 = list2.next
+            pre = pre.next
+        pre.next = list1 if list1 is not None else list2
+    
+        return head.next
+
+% Uncomment the following two lines if you want to have a bibliography
+%\bibliographystyle{apalike}
+%\bibliography{document}
+
+\end{document}
