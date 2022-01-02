@@ -10,7 +10,24 @@ class TreeNode:
         self.right = right
 
 class Solution:
-    def inorderTraversal(self, root: Optional[TreeNode]) -> List[int]:
+    def inorderTraversal(self, root) :
         if (root == None):
             return []
         return self.inorderTraversal(root.left) + [root.val] + self.inorderTraversal(root.right)
+
+    def inorderTraversal2(self, root) :
+        traversal = []
+        def traverse(tree, depth):
+
+            if tree:
+                depth +=1
+                traverse(tree.left, depth)
+                traversal.append(tree.val)
+                traverse(tree.right, depth)
+            else:
+                depth -= 1
+
+            traverse(root, 0)
+            return traversal
+
+
