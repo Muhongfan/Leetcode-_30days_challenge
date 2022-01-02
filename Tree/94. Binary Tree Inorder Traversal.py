@@ -30,4 +30,12 @@ class Solution:
             traverse(root, 0)
             return traversal
 
+    def inorderTraversal3(self, root: Optional[TreeNode]) -> List[int]:
+        output = []
+        if root:
+            output = output + self.inorderTraversal(root.left)
+            output.append(root.val)
+            output = output + self.inorderTraversal(root.right)
+        return output
+
 
