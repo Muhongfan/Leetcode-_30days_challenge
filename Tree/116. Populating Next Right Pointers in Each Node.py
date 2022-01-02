@@ -29,3 +29,14 @@ class Solution:
 
 So = Solution()
 print(So.connect([1,2,3,4,5,6,7]))
+"""
+                        queue: 1
+            1(popleft)  queue: 2 3
+          2(popleft)->  queue: 3 4 5
+            3(popleft)  queue: 4 5 6 7
+          4(popleft)->  queue: 5 6 7
+          5(popleft)->  queue: 6 7
+          6(popleft)->  queue: 7
+          7(popleft)->  queue:
+
+"""
