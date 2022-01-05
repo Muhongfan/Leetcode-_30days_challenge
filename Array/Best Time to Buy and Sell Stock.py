@@ -29,7 +29,15 @@ Constraints:
 
 
 class Solution(object):
-    def maxProfit(self, prices):
+    def maxProfit1(self, prices: List[int]) -> int:
+        minimum = prices[0]
+        diff = 0
+        for i in prices:
+            diff = max(diff, i - minimum)
+            minimum = min(i, minimum)
+        return diff
+
+    def maxProfit2(self, prices):
         """
         :type prices: List[int]
         :rtype: int
@@ -44,7 +52,7 @@ class Solution(object):
                 minPrice = prices[i]
         return dp[-1]
 
-    def maxProfit(self, prices):
+    def maxProfit3(self, prices):
         """
         :type prices: List[int]
         :rtype: int
