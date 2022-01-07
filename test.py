@@ -7,3 +7,5 @@ small = iter(i for i in range(3))
 print(next(small))
 print(next(small))
 print(next(small))
+
+print(5//2)

@@ -34,3 +34,19 @@ class Solution(object):
             else:
                 cur = cur.next
         return head
+
+    def deleteDuplicates2(self, head: Optional[ListNode]) -> Optional[ListNode]:
+        if not head or not head.next:
+            return head
+        # creating two pointers to store the first node as prev and the next node as curr
+        curr = head.next
+        prev = head
+
+        while(curr):
+            if curr.val == prev.val:
+            # increment the pointer to point to the next node if the values are same
+                prev.next = curr.next
+            else:
+                prev = curr
+            curr = curr.next
+        return head

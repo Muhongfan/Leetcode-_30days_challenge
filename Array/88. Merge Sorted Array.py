@@ -28,6 +28,47 @@ The result of the merge is [1].
 Note that because m = 0, there are no elements in nums1. The 0 is only there to ensure the merge result can fit in nums1.
 
 """
+
+
+def merge1(nums1, m, nums2, n):
+    """
+    :type nums1: List[int]
+    :type m: int
+    :type nums2: List[int]
+    :type n: int
+    :rtype: None Do not return anything, modify nums1 in-place instead.
+    """
+    ans = []
+    pos1 = pos2 = 0
+    if m > n:
+        while n:
+            if nums1[pos1] >= nums2[pos2]:
+                ans.append(nums2[pos2])
+                pos2 += 1
+            else:
+                ans.append(nums1[pos1])
+                pos1 += 1
+            n-=1
+        ans.append(nums2[pos2:])
+    else:
+        while m:
+            if nums1[pos1] >= nums2[pos2]:
+                ans.append(nums2[pos2])
+                pos2 += 1
+
+            else:
+                ans.append(nums1[pos1])
+                pos1 += 1
+            m -= 1
+        for i in nums1[pos1:m]:
+            ans.append(i)
+
+
+    return ans
+print(merge1([1,2,3,0,0,0],
+3,
+[2,5,6],
+3))
 def merge(nums1, m, nums2, n):
     """
     Do not return anything, modify nums1 in-place instead.
@@ -66,3 +107,25 @@ def merge2(nums1, m, nums2, n):
         else:
             nums1[p] = nums2[p2]
             p2 -= 1
+
+    def merge(self, nums1, m, nums2, n):
+        """
+        :type nums1: List[int]
+        :type m: int
+        :type nums2: List[int]
+        :type n: int
+        :rtype: None Do not return anything, modify nums1 in-place instead.
+        """
+        ans = []
+        pos1 = pos2 = 0
+        if m > n:
+
+            while n:
+                if nums1[pos1] >= nums2[pos2]:
+                    ans.append(nums2[pos2])
+                    pos2 += 1
+                else:
+                    ans.append(nums1[pos1])
+                    pos1 += 1
+            ans.append(nums2[pos2:])
+        return ans

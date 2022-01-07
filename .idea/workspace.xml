@@ -5,10 +5,121 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="998bba8e-bd0b-4ffc-ae6f-29237594be4d" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/._.git" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/._.idea" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/._Apir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/._Array" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/._August" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/._Dynamic" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/._July" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/._June" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/._List" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/._May" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/._N-ary Tree Postorder Traversal.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/._Sep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/._test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/._Leetcode_30_challenge.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/._inspectionProfiles" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/._misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/._modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/._vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/._workspace.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/List/._142. Linked List Cycle II.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/List/._Longest Harmonious Subsequence.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/List/25. Reverse Nodes in k-Group.py" beforeDir="false" afterPath="$PROJECT_DIR$/List/25. Reverse Nodes in k-Group.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/278. First Bad Version.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/278. First Bad Version.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/35. Search Insert Position.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/35. Search Insert Position.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/704. Binary Search.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/704. Binary Search.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apir/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apir/._Apir10_MinStack.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apir/._Apir11_DiameterofBinaryTree-F.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apir/._Apir12_ContiguousArray-F.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apir/._Apir13_ContiguousArray.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apir/._Apir14_ PerformStringShifts.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apir/._Apir15_ProductofArrayExceptSelf.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apir/._Apir1_SingleNumber.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apir/._Apir2_HappyNumber.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apir/._Apir3_Maximum Subarray.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apir/._Apir4_RemoveZeros.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apir/._Apir5_BestTimetoBuyandSellStock2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apir/._Apir6_GroupAnagrams.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apir/._Apir7_CountingElements.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apir/._Apir8_MiddleoftheLinkedList.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apir/._Apir9_BackspaceStringCompare.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/88. Merge Sorted Array.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array/88. Merge Sorted Array.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/August/._Aug12_Pascal's Triangle II.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/August/._Aug13_Iteration of combination.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/August/._Aug14_Longest Palindone.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/August/._Aug15_ Non-overlapping Intervals.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/August/._Aug17_Distribute Candies to People.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/August/._Aug18_Numbers With Same Consecutive Differences.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/August/._Aug19_Goat Latin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/August/._Aug1_Detect Capital Use.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/August/._Aug20_Reorder List.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/August/._Aug21_Sort Array By Parity.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/August/._Aug2_Design HashSet.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/August/._Aug3_Valid Palindrome.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/August/._Aug4_Power of Four.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/August/._Aug5_Add and Search Word - Data structure design.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/August/._Aug6_Find All Duplicates in an Array.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/August/._Aug7_Vertical Order Traversal of a Binary Tree.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/August/._Aug8_Path Sum III.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/August/._Aug9_Rotting Oranges.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/August/._test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/July/._.idea" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/July/._Jul10_Flatten a Multilevel Doubly Linked List.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/July/._Jul11_Subsets.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/July/._Jul12_Reverse Bits.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/July/._Jul13_Same Tree.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/July/._Jul14_Angle Between Hands of a Clock.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/July/._Jul15_Reverse Words in a String.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/July/._Jul16_pow(x,n).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/July/._Jul17_Top K Frequent Elements.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/July/._Jul18_Course Schedule II.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/July/._Jul19_Add Binary" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/July/._Jul1_Arranging Coins.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/July/._Jul20_Remove Linked List Elements.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/July/._Jul21_Word Search.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/July/._Jul22_Binary Tree Zigzag Level Order Traversal.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/July/._Jul23_Single Number III.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/July/._Jul24_All Paths From Source to Target.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/July/._Jul25_Find Minimum in Rotated Sorted Array II.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/July/._Jul26_Add Digits.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/July/._Jul27_Construct Binary Tree from Inorder and Postorder Traversal.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/July/._Jul28_Task Scheduler.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/July/._Jul29_Best Time to Buy and Sell Stock with Cooldown.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/July/._Jul2_Binary Tree Level Order Traversal II.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/July/._Jul30_Word Break ll.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/July/._Jul31_Climbing stairs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/July/._Jul3_Prison Cells After N Days.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/July/._Jul4_Ugly Number II.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/July/._Jul5_Hamming Distance.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/July/._Jul6_Plus One.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/July/._Jul8_3 SUMS.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/July/._Jul9_Maximum Width of Binary Tree.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/July/._Tree.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/July/.idea/._July.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/July/.idea/._inspectionProfiles" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/July/.idea/._misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/July/.idea/._modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/July/.idea/._workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/June/._Jun10_Search Insert Position  Solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/June/._Jun3_Two City Scheduling  Solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/List/19. Remove Nth Node From End of List.py" beforeDir="false" afterPath="$PROJECT_DIR$/List/19. Remove Nth Node From End of List.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List/203.py" beforeDir="false" afterPath="$PROJECT_DIR$/List/203.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List/206. Reverse Linked List.py" beforeDir="false" afterPath="$PROJECT_DIR$/List/206. Reverse Linked List.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List/566. Reshape the Matrix.py" beforeDir="false" afterPath="$PROJECT_DIR$/List/566. Reshape the Matrix.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List/83. Remove Duplicates from Sorted List.py" beforeDir="false" afterPath="$PROJECT_DIR$/List/83. Remove Duplicates from Sorted List.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List/876. Middle of the Linked List.py" beforeDir="false" afterPath="$PROJECT_DIR$/List/876. Middle of the Linked List.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/May/._May10_Find the Town Judge  Solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/May/._May3_Ransom Note.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/May/._May7_CousinsinBinaryTree.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sep/._Sep1_Largest Time for Given Digits.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sep/._Sep2_  Contains Duplicate III.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sep/._Sep2_  Contains Duplicate III.py___jb_tmp___" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sep/._Sep3_Repeated Substring Pattern.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sep/._Sep5_All Elements in Two Binary Search Trees.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sep/._Sep6_Image Overlap.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -230,14 +341,15 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Array" />
+      <recent name="$PROJECT_DIR$/Tree" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/August" />
       <recent name="$PROJECT_DIR$/July" />
-      <recent name="$PROJECT_DIR$/Apir" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.test">
-    <configuration name="92. Reverse Linked List II" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.88. Merge Sorted Array">
+    <configuration name="116. Populating Next Right Pointers in Each Node" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Leetcode_30_challenge" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -245,12 +357,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/List" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tree" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/List/92. Reverse Linked List II.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tree/116. Populating Next Right Pointers in Each Node.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -259,7 +371,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Check Array Formation Through Concatenation" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="283. Move Zeroes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Leetcode_30_challenge" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -272,7 +384,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Array/Check Array Formation Through Concatenation.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Array/283. Move Zeroes.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -281,7 +393,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Check If N and Its Double Exist" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="66. Plus One" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Leetcode_30_challenge" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -294,7 +406,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Array/Check If N and Its Double Exist.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Array/66. Plus One.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -303,7 +415,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Valid Mountain Array" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="88. Merge Sorted Array" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Leetcode_30_challenge" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -316,7 +428,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Array/Valid Mountain Array.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Array/88. Merge Sorted Array.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -348,19 +460,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Valid Mountain Array" />
-      <item itemvalue="Python.Check Array Formation Through Concatenation" />
-      <item itemvalue="Python.Check If N and Its Double Exist" />
-      <item itemvalue="Python.92. Reverse Linked List II" />
       <item itemvalue="Python.test" />
+      <item itemvalue="Python.88. Merge Sorted Array" />
+      <item itemvalue="Python.283. Move Zeroes" />
+      <item itemvalue="Python.116. Populating Next Right Pointers in Each Node" />
+      <item itemvalue="Python.66. Plus One" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.88. Merge Sorted Array" />
+        <item itemvalue="Python.66. Plus One" />
+        <item itemvalue="Python.116. Populating Next Right Pointers in Each Node" />
+        <item itemvalue="Python.283. Move Zeroes" />
         <item itemvalue="Python.test" />
-        <item itemvalue="Python.92. Reverse Linked List II" />
-        <item itemvalue="Python.Check If N and Its Double Exist" />
-        <item itemvalue="Python.Check Array Formation Through Concatenation" />
-        <item itemvalue="Python.Valid Mountain Array" />
       </list>
     </recent_temporary>
   </component>
@@ -375,7 +487,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585877919626</updated>
-      <workItem from="1638399710845" duration="12680000" />
+      <workItem from="1638399710845" duration="14578000" />
+      <workItem from="1638668508627" duration="215000" />
+      <workItem from="1639023355243" duration="122000" />
+      <workItem from="1639284790927" duration="1016000" />
+      <workItem from="1639795284775" duration="3173000" />
+      <workItem from="1639881665326" duration="2703000" />
+      <workItem from="1640033685432" duration="10396000" />
+      <workItem from="1641080136693" duration="7985000" />
+      <workItem from="1641408819781" duration="241000" />
+      <workItem from="1641418943832" duration="1375000" />
     </task>
     <servers />
   </component>
@@ -423,9 +544,7 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -717,28 +836,48 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/List/92. Reverse Linked List II.py</url>
-          <line>42</line>
+          <line>29</line>
           <option name="timeStamp" value="251" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/List/92. Reverse Linked List II.py</url>
-          <line>11</line>
+          <url>file://$PROJECT_DIR$/Array/283. Move Zeroes.py</url>
+          <line>28</line>
           <option name="timeStamp" value="252" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/List/92. Reverse Linked List II.py</url>
-          <line>19</line>
+          <url>file://$PROJECT_DIR$/Array/283. Move Zeroes.py</url>
+          <line>23</line>
           <option name="timeStamp" value="253" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/List/92. Reverse Linked List II.py</url>
-          <line>24</line>
+          <url>file://$PROJECT_DIR$/Tree/116. Populating Next Right Pointers in Each Node.py</url>
+          <line>30</line>
           <option name="timeStamp" value="254" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/List/92. Reverse Linked List II.py</url>
-          <line>25</line>
-          <option name="timeStamp" value="255" />
+          <url>file://$PROJECT_DIR$/Array/66. Plus One.py</url>
+          <line>38</line>
+          <option name="timeStamp" value="258" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Array/66. Plus One.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="259" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Array/66. Plus One.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="260" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Array/88. Merge Sorted Array.py</url>
+          <line>47</line>
+          <option name="timeStamp" value="261" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Array/88. Merge Sorted Array.py</url>
+          <line>55</line>
+          <option name="timeStamp" value="262" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
@@ -751,8 +890,12 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Leetcode_30_challenge$283__Move_Zeroes.coverage" NAME="283. Move Zeroes Coverage Results" MODIFIED="1641086443483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Array" />
     <SUITE FILE_PATH="coverage/Leetcode_30_challenge$92__Reverse_Linked_List_II.coverage" NAME="92. Reverse Linked List II Coverage Results" MODIFIED="1638596116530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/List" />
-    <SUITE FILE_PATH="coverage/Leetcode_30_challenge$test.coverage" NAME="test Coverage Results" MODIFIED="1638658697312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Leetcode_30_challenge$88__Merge_Sorted_Array.coverage" NAME="88. Merge Sorted Array Coverage Results" MODIFIED="1641438575478" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Array" />
+    <SUITE FILE_PATH="coverage/Leetcode_30_challenge$test.coverage" NAME="test Coverage Results" MODIFIED="1639841850440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Leetcode_30_challenge$116__Populating_Next_Right_Pointers_in_Each_Node.coverage" NAME="116. Populating Next Right Pointers in Each Node Coverage Results" MODIFIED="1641086593099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tree" />
+    <SUITE FILE_PATH="coverage/Leetcode_30_challenge$66__Plus_One.coverage" NAME="66. Plus One Coverage Results" MODIFIED="1641432013732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Array" />
     <SUITE FILE_PATH="coverage/Leetcode_30_challenge$Check_If_N_and_Its_Double_Exist.coverage" NAME="Check If N and Its Double Exist Coverage Results" MODIFIED="1638595329850" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Array" />
   </component>
   <component name="editorHistoryManager">
