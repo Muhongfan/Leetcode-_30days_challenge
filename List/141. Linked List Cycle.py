@@ -54,5 +54,17 @@ class Solution:
             slow = slow.next
             flag = flag.next
         return slow
-
+    # hash table to check the link bcz they just appear once
+    def hasCycle3(self, head):
+        """
+        :type head: ListNode
+        :rtype: bool
+        """
+        nodes = set()
+        while head is not None:
+            if head in nodes:
+                return True
+            nodes.add(head)
+            head = head.next
+        return False
 
