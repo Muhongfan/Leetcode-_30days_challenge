@@ -19,7 +19,9 @@ Input: nums = [1,3,5,6], target = 7
 Output: 4
 
 """
-
+"""
+插入，返回边界flag
+"""
 
 class Solution:
     def searchInsert(self, nums: List[int], target: int) -> int:

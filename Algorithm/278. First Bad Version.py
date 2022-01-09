@@ -26,6 +26,9 @@ Output: 1
 # @return an integer
 # def isBadVersion(version):
 
+"""
+寻找第一个不同的元素，返回边界flag
+"""
 class Solution:
     def firstBadVersion(self, n):
         """
