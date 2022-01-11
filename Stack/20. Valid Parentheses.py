@@ -40,3 +40,8 @@ class Solution:
                 return False
         return stack == []
 
+    def isValid2(self, s):
+        while "()" in s or "{}" in s or '[]' in s:
+            s = s.replace("()", "").replace('{}', "").replace('[]', "")
+        return s == ''
+
