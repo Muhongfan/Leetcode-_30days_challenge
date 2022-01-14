@@ -33,7 +33,7 @@ class Solution(object):
     def isValidBST(self, root):
 		stack = [(root, float('-inf'), float('inf'))]
 		while stack:
-			node, left, right = stack.pop(0)
+			node, left, right = stack.pop()
 			if not left < node.val < right:
 				return False
 			if node.left:
