@@ -26,7 +26,7 @@ Output: [4,2,7,1,3,5]
 class Solution:
     def insertIntoBST(self, root: TreeNode, val: int) -> TreeNode:
         if not root:
-            return TreeNode(val)
+            return False
 
         if val > root.val:
             # insert into the right subtree
