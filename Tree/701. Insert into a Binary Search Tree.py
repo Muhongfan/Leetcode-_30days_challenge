@@ -35,3 +35,20 @@ class Solution:
             # insert into the left subtree
             root.left = self.insertIntoBST(root.left, val)
         return root
+
+    def insertIntoBST2(self, root: Optional[TreeNode], val: int) -> Optional[TreeNode]:
+        node = root
+        while node:
+            if val > node.val:
+                if node.right:
+                    node = node.right
+                else:
+                    node.right = TreeNode(val)
+                    return root
+            else:
+                if node.left:
+                    node = node.left
+                else:
+                    node.left = TreeNode(val)
+                    return root
+        return TreeNode(val)
