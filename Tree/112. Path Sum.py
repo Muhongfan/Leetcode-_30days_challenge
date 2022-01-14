@@ -53,3 +53,25 @@ class Solution(object):
                 stack.append(node.left, cursum - node.right.val)
 
         return False
+
+    def hasPathSum2(self, root: Optional[TreeNode], targetSum: int) -> bool:
+        if not root:
+            return False
+        stack = [(root, root.val)]
+
+        while stack:
+            curr, currsum = stack.pop()
+
+            # if leaf and target value
+            if not curr.right and not curr.left and currsum == targetSum:
+                return True
+
+            # else append right child
+            if curr.right:
+                stack.append((curr.right, currsum + curr.right.val))
+
+            # append left child (which will be checked in next loop)
+            if curr.left:
+                stack.append((curr.left, currsum + curr.left.val))
+
+        return False
