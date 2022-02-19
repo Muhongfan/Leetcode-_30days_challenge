@@ -20,8 +20,7 @@ Output: true
 Explanation: The triplet (3, 4, 5) is valid because nums[3] == 0 < nums[4] == 4 < nums[5] == 6.
 
 """
-
-
+#435
 class Solution:
     def increasingTriplet(self, nums: List[int]) -> bool:
         first = float("inf")
