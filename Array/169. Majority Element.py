@@ -23,21 +23,18 @@ n == nums.length
 
 """
 
-
+from collections import Counter
 class Solution(object):
     def majorityElement(self, nums):
         """
         :type nums: List[int]
         :rtype: int
         """
+        most_common, most_freq = Counter(nums).most_common(1)[0]
+        return most_common
 
-        return Counter(nums).most_common(1)[0][0]
 
-    def majorityElement(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: int
-        """
-        counts = collections.Counter(nums)
-
-        return max(counts.keys(), key=counts.get)
+# exceeding time
+class Solution:
+    def majorityElement(self, nums: List[int]) -> int:
+        return max(nums, key=nums.count)
