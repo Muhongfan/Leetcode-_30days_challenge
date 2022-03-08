@@ -24,6 +24,8 @@ n == nums.length
 """
 
 from collections import Counter
+# Counter().most_common()
+#[(item1, freq1), (item2, freq2)...]
 class Solution(object):
     def majorityElement(self, nums):
         """
@@ -33,8 +35,7 @@ class Solution(object):
         most_common, most_freq = Counter(nums).most_common(1)[0]
         return most_common
 
-
-# exceeding time
+# exceeding time: only item without freq
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:
         return max(nums, key=nums.count)
