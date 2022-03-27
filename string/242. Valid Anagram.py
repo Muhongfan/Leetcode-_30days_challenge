@@ -31,5 +31,4 @@ class Solution(object):
             :type t: str
             :rtype: bool
             """
-
-        return Counter(s) == Counter(t)
+            return Counter(s) == Counter(t)

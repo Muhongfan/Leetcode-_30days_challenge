@@ -25,6 +25,7 @@ Output: [1]
 #     def __init__(self, val=0, next=None):
 #         self.val = val
 #         self.next = next
+
 class Solution(object):
     def removeNthFromEnd(self, head, n):
         """
@@ -47,4 +48,44 @@ class Solution(object):
             slow.next = None
         else:
             slow.next = slow.next.next
+        return head
+
+    #无边界判断
+    # one pointer jump to n step and updated the pointer and the other one as the same step
+    def removeNthFromEnd2(self, head, n):
+
+        """
+        :type head: ListNode
+        :type n: int
+        :rtype: ListNode
+        """
+        fast = head
+        slow = head
+
+        i = 0
+        while fast.next is not None and i != n:
+            fast = fast.next
+            i += 1
+
+        while fast and fast.next is not None:
+            fast = fast.next
+            slow = slow.next
+        slow.next = slow.next.next
+        return head
+
+    def removeNthFromEnd(self, head: Optional[ListNode], n: int) -> Optional[ListNode]:
+        prev, curr = head, head
+
+        i = 1
+        while curr.next is not None:
+            curr = curr.next
+            if i > n:
+                prev = prev.next
+
+            i += 1
+
+        if i == n:
+            return head.next
+
+        prev.next = prev.next.next
         return head

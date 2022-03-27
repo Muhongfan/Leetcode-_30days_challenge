@@ -5,121 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="998bba8e-bd0b-4ffc-ae6f-29237594be4d" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/._.DS_Store" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/._.git" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/._.idea" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/._Apir" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/._Array" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/._August" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/._Dynamic" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/._July" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/._June" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/._List" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/._May" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/._N-ary Tree Postorder Traversal.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/._Sep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/._test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/._Leetcode_30_challenge.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/._inspectionProfiles" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/._misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/._modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/._vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/._workspace.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/278. First Bad Version.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/278. First Bad Version.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/35. Search Insert Position.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/35. Search Insert Position.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/704. Binary Search.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/704. Binary Search.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Apir/._.DS_Store" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Apir/._Apir10_MinStack.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Apir/._Apir11_DiameterofBinaryTree-F.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Apir/._Apir12_ContiguousArray-F.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Apir/._Apir13_ContiguousArray.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Apir/._Apir14_ PerformStringShifts.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Apir/._Apir15_ProductofArrayExceptSelf.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Apir/._Apir1_SingleNumber.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Apir/._Apir2_HappyNumber.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Apir/._Apir3_Maximum Subarray.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Apir/._Apir4_RemoveZeros.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Apir/._Apir5_BestTimetoBuyandSellStock2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Apir/._Apir6_GroupAnagrams.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Apir/._Apir7_CountingElements.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Apir/._Apir8_MiddleoftheLinkedList.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Apir/._Apir9_BackspaceStringCompare.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/88. Merge Sorted Array.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array/88. Merge Sorted Array.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/August/._Aug12_Pascal's Triangle II.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/August/._Aug13_Iteration of combination.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/August/._Aug14_Longest Palindone.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/August/._Aug15_ Non-overlapping Intervals.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/August/._Aug17_Distribute Candies to People.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/August/._Aug18_Numbers With Same Consecutive Differences.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/August/._Aug19_Goat Latin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/August/._Aug1_Detect Capital Use.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/August/._Aug20_Reorder List.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/August/._Aug21_Sort Array By Parity.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/August/._Aug2_Design HashSet.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/August/._Aug3_Valid Palindrome.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/August/._Aug4_Power of Four.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/August/._Aug5_Add and Search Word - Data structure design.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/August/._Aug6_Find All Duplicates in an Array.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/August/._Aug7_Vertical Order Traversal of a Binary Tree.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/August/._Aug8_Path Sum III.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/August/._Aug9_Rotting Oranges.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/August/._test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/July/._.idea" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/July/._Jul10_Flatten a Multilevel Doubly Linked List.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/July/._Jul11_Subsets.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/July/._Jul12_Reverse Bits.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/July/._Jul13_Same Tree.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/July/._Jul14_Angle Between Hands of a Clock.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/July/._Jul15_Reverse Words in a String.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/July/._Jul16_pow(x,n).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/July/._Jul17_Top K Frequent Elements.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/July/._Jul18_Course Schedule II.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/July/._Jul19_Add Binary" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/July/._Jul1_Arranging Coins.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/July/._Jul20_Remove Linked List Elements.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/July/._Jul21_Word Search.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/July/._Jul22_Binary Tree Zigzag Level Order Traversal.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/July/._Jul23_Single Number III.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/July/._Jul24_All Paths From Source to Target.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/July/._Jul25_Find Minimum in Rotated Sorted Array II.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/July/._Jul26_Add Digits.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/July/._Jul27_Construct Binary Tree from Inorder and Postorder Traversal.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/July/._Jul28_Task Scheduler.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/July/._Jul29_Best Time to Buy and Sell Stock with Cooldown.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/July/._Jul2_Binary Tree Level Order Traversal II.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/July/._Jul30_Word Break ll.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/July/._Jul31_Climbing stairs.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/July/._Jul3_Prison Cells After N Days.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/July/._Jul4_Ugly Number II.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/July/._Jul5_Hamming Distance.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/July/._Jul6_Plus One.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/July/._Jul8_3 SUMS.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/July/._Jul9_Maximum Width of Binary Tree.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/July/._Tree.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/July/.idea/._July.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/July/.idea/._inspectionProfiles" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/July/.idea/._misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/July/.idea/._modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/July/.idea/._workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/June/._Jun10_Search Insert Position  Solution.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/June/._Jun3_Two City Scheduling  Solution.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/List/19. Remove Nth Node From End of List.py" beforeDir="false" afterPath="$PROJECT_DIR$/List/19. Remove Nth Node From End of List.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/List/203.py" beforeDir="false" afterPath="$PROJECT_DIR$/List/203.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/List/206. Reverse Linked List.py" beforeDir="false" afterPath="$PROJECT_DIR$/List/206. Reverse Linked List.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/List/566. Reshape the Matrix.py" beforeDir="false" afterPath="$PROJECT_DIR$/List/566. Reshape the Matrix.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/List/83. Remove Duplicates from Sorted List.py" beforeDir="false" afterPath="$PROJECT_DIR$/List/83. Remove Duplicates from Sorted List.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/List/876. Middle of the Linked List.py" beforeDir="false" afterPath="$PROJECT_DIR$/List/876. Middle of the Linked List.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/May/._May10_Find the Town Judge  Solution.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/May/._May3_Ransom Note.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/May/._May7_CousinsinBinaryTree.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sep/._Sep1_Largest Time for Given Digits.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sep/._Sep2_  Contains Duplicate III.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sep/._Sep2_  Contains Duplicate III.py___jb_tmp___" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sep/._Sep3_Repeated Substring Pattern.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sep/._Sep5_All Elements in Two Binary Search Trees.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sep/._Sep6_Image Overlap.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stack/232. Implement Queue using Stacks.py" beforeDir="false" afterPath="$PROJECT_DIR$/Stack/232. Implement Queue using Stacks.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/string/242. Valid Anagram.py" beforeDir="false" afterPath="$PROJECT_DIR$/string/242. Valid Anagram.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -329,6 +217,8 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -341,11 +231,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Algorithm" />
+      <recent name="$PROJECT_DIR$/Stack" />
+      <recent name="$PROJECT_DIR$/string" />
       <recent name="$PROJECT_DIR$/Array" />
       <recent name="$PROJECT_DIR$/Tree" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/August" />
-      <recent name="$PROJECT_DIR$/July" />
     </key>
   </component>
   <component name="RunManager" selected="Python.88. Merge Sorted Array">
@@ -496,7 +386,22 @@
       <workItem from="1640033685432" duration="10396000" />
       <workItem from="1641080136693" duration="7985000" />
       <workItem from="1641408819781" duration="241000" />
-      <workItem from="1641418943832" duration="1375000" />
+      <workItem from="1641418943832" duration="12882000" />
+      <workItem from="1642467735709" duration="1089000" />
+      <workItem from="1642641712188" duration="166000" />
+      <workItem from="1642649957199" duration="2861000" />
+      <workItem from="1642820676333" duration="8000" />
+      <workItem from="1642912117425" duration="478000" />
+      <workItem from="1643432332540" duration="955000" />
+      <workItem from="1643824496914" duration="203000" />
+      <workItem from="1643950247317" duration="557000" />
+      <workItem from="1644727855749" duration="706000" />
+      <workItem from="1644899083616" duration="4533000" />
+      <workItem from="1645110359076" duration="14000" />
+      <workItem from="1645137132848" duration="1300000" />
+      <workItem from="1645239468017" duration="684000" />
+      <workItem from="1646685986731" duration="2938000" />
+      <workItem from="1647473227637" duration="6000" />
     </task>
     <servers />
   </component>
