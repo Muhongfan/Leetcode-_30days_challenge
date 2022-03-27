@@ -22,6 +22,16 @@ class Solution(object):
         :type nums: List[int]
         :rtype: None Do not return anything, modify nums in-place instead.
         """
+        for i in range(len(nums)):
+            for j in range(i+1, len(nums)):
+                if nums[i] > nums[j]:
+                    nums[j], nums[i] = nums[i], nums[j]
+        return nums
+    def sortColors2(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: None Do not return anything, modify nums in-place instead.
+        """
         l = cur = 0
         r = len(nums)-1
         while cur<r:
@@ -35,7 +45,7 @@ class Solution(object):
             else:
                 cur +=1
 
-    def sortColors(self, nums):
+    def sortColors3(self, nums):
         """
         :type nums: List[int]
         :rtype: None Do not return anything, modify nums in-place instead.
