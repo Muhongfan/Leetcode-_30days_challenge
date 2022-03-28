@@ -17,6 +17,7 @@ Input: nums = [2,0,1]
 Output: [0,1,2]
 """
 class Solution(object):
+    #BUBBLE
     def sortColors(self, nums):
         """
         :type nums: List[int]
