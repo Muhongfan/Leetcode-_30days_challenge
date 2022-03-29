@@ -24,3 +24,14 @@ class Solution(object):
 
         dfs(sr, sc)
         return image
+
+    def floodFill(self, image: List[List[int]], sr: int, sc: int, newColor: int) -> List[List[int]]:
+        if image[sr][sc] != newColor:
+            targetPixel = [(sr, sc - 1), (sr, sc + 1), (sr - 1, sc), (sr + 1, sc)]
+            old = image[sr][sc]
+            image[sr][sc] = newColor
+            for i, j in targetPixel:
+                if i in range(len(image)) and j in range(len(image[i])) and image[i][j] == old:
+                    self.floodFill(image, i, j, newColor)
+
+        return image
