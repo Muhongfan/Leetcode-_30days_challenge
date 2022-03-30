@@ -26,3 +26,31 @@ n == grid[i].length
 1 <= m, n <= 50
 grid[i][j] is either 0 or 1.
 """
+
+
+class Solution:
+    def maxAreaOfIsland(self, grid: List[List[int]]) -> int:
+        row = len(grid)
+        col = len(grid[0])
+        visited = set()
+        area = 0
+
+        def dfs(visited_set, r, c):
+            if (r, c) not in visited_set and 0 <= r < row and 0 <= c < col and grid[r][c] == 1:
+                visited.add((r, c))
+                visited_set.add((r, c))
+                dfs(visited_set, r + 1, c)
+                dfs(visited_set, r - 1, c)
+                dfs(visited_set, r, c + 1)
+                dfs(visited_set, r, c - 1)
+            else:
+                return
+
+        for r in range(row):
+            for c in range(col):
+                if grid[r][c] == 1 and (r, c) not in visited:
+                    traverse_visit = set()
+                    dfs(traverse_visit, r, c)
+                    area = max(area, len(traverse_visit))
+
+        return area
