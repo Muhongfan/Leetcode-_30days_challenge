@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="998bba8e-bd0b-4ffc-ae6f-29237594be4d" name="Default" comment="" />
+    <list default="true" id="998bba8e-bd0b-4ffc-ae6f-29237594be4d" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/Algorithm/116. Populating Next Right Pointers in Each Node.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/617. Merge Two Binary Trees.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -399,6 +403,7 @@
       <workItem from="1646685986731" duration="2938000" />
       <workItem from="1647473227637" duration="6000" />
       <workItem from="1648349413917" duration="1632000" />
+      <workItem from="1648612704211" duration="646000" />
     </task>
     <servers />
   </component>
