@@ -25,3 +25,29 @@ class Solution:
         new_tail.next = None
 
         return new_head
+
+    def rotateRight(self, head: Optional[ListNode], k: int) -> Optional[ListNode]:
+        if k == 0:
+            return head
+        if head ==None:
+            return None
+        count = 0
+        p1 = head
+        while p1:
+            count += 1
+            p1 = p1.next
+        p1 = head
+        p2 = head
+        k = k%count
+        while k:
+            k = k-1
+            p2 = p2.next
+        while p2.next:
+            p1 = p1.next
+            p2 = p2.next
+        p2.next = head
+        head = p1.next
+        p1.next = None
+        return head
+
+
