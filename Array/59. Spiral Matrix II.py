@@ -39,4 +39,18 @@ class Solution:
 
         filling(1, 0, n - 1, 0, n - 1)
         return answer
+    def generateMatrix(self, n: int) -> List[List[int]]:
+        r, c = 0, 0
+        dr, dc = 0, 1
+        ans = [[0] * n for _ in range(n)]
+
+        for i in range(1, n*n +1):
+            ans[r][c] = i
+            temR, temC = r + dr, c + dc
+            if temR>n or temC > n or temR<0 or temC<0 or ans[temR][temC] != 0:
+                dr, dc = dc, -dr
+            r = r+dr
+            c = c+dc
+        return ans
+
 
