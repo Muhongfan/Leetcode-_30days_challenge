@@ -21,19 +21,8 @@ Explanation: You don't need to remove any of the intervals since they're already
 
 """
 class Solution:
+
     def eraseOverlapIntervals(self, intervals: List[List[int]]) -> int:
-        intervals.sort(key = lambda x: x[0])
-        count = 0
-        end = intervals[0][1]
-        for i in range(1, len(intervals)):
-            next_start = intervals[i][0]
-            next_end = intervals[i][1]
-            if next_start<end:
-                end = next_end
-            else:
-                count +=1
-        return count
-    def eraseOverlapIntervals2(self, intervals: List[List[int]]) -> int:
         intervals.sort(key=lambda y: y[1])
         erase_total = 0
         largest_so_far = float('-inf')
