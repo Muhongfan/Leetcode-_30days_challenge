@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="998bba8e-bd0b-4ffc-ae6f-29237594be4d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Algorithm/Recursion/24. Swap Nodes in Pairs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/Recursion/206. Reverse Linked List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/Recursion/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/List/61.Rotate List.py" beforeDir="false" afterPath="$PROJECT_DIR$/List/61.Rotate List.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/Recursion/24. Swap Nodes in Pairs.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/Recursion/24. Swap Nodes in Pairs.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -405,7 +406,7 @@
       <workItem from="1648349413917" duration="1632000" />
       <workItem from="1648612704211" duration="3277000" />
       <workItem from="1648957202926" duration="589000" />
-      <workItem from="1649217400600" duration="5353000" />
+      <workItem from="1649217400600" duration="5928000" />
     </task>
     <servers />
   </component>

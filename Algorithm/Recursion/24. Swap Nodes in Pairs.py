@@ -30,4 +30,4 @@ class Solution(object):
         p2 = head.next
         p1.next = self.swapPairs(p2.next)
         p2.next = p1
-        return slow
+        return p2
