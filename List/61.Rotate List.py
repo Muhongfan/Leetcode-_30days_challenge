@@ -26,7 +26,7 @@ class Solution:
 
         return new_head
 
-    def rotateRight(self, head: Optional[ListNode], k: int) -> Optional[ListNode]:
+    def rotateRight2(self, head: Optional[ListNode], k: int) -> Optional[ListNode]:
         if k == 0:
             return head
         if head ==None:
