@@ -31,3 +31,33 @@ class Solution(object):
         p1.next = self.swapPairs(p2.next)
         p2.next = p1
         return p2
+
+    def swapPairs2(self, head):
+        """
+        :type head: ListNode
+        :rtype: ListNode
+        """
+        if not head or not head.next:
+            return head
+        dummy = ListNode(-1)
+        dummy.next = head
+        prev = dummy
+
+        while head and head.next:
+            cur = head
+            cur_next = cur.next
+
+            prev.next = cur_next
+            cur.next = cur_next.next
+            cur_next.next = cur
+
+            prev = cur
+            head = cur.next
+        return dummy.next
+
+
+
+
+
+
+
