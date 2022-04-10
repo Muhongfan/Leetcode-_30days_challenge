@@ -22,7 +22,8 @@ Output: [1,1]
 
 """
 recursion
-decide the base cases
+decide the base cases first
+
 """
 class Solution:
     def getRow(self, rowIndex: int) -> List[int]:
@@ -35,9 +36,9 @@ class Solution:
             for i in range(2, rowIndex + 1):
                 # row = [1 for _ in range(i + 1)]
                 ans.append([1] * (i + 1))
-                print(ans)
                 for j in range(1, i):
                     ans[i][j] = ans[i - 1][j - 1] + ans[i - 1][j]
+                    #row[j] = ans[i - 1][j - 1] + ans[i - 1][j]
                 # ans.append(row)
 
         return ans[-1]
