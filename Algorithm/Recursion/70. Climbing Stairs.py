@@ -35,10 +35,9 @@ class Solution(object):
         def rec(N):
             if N <= 2:
                 return N
-            else:
-                if N not in cache:
-                    cache[N] = rec(N - 1) + rec(N - 2)
 
-                return cache[N]
+            if N not in cache:
+                cache[N] = rec(N - 1) + rec(N - 2)
+            return cache[N]
 
         return rec(n)

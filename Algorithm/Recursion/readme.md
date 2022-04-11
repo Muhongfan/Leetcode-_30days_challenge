@@ -11,3 +11,10 @@ Memoization is an optimization technique used primarily to speed up computer pro
 
 
 Back to our Fibonacci function F(n). We could use a hash table to keep track of the result of each F(n) with n as the key. The hash table serves as a cache that saves us from duplicate calculations. The memoization technique is a good example that demonstrates how one can reduce compute time in exchange for some additional space.
+
+Given a recursion algorithm, its time complexity {\mathcal{O}(T)}O(T) is typically the product of the number of recursion invocations (denoted as {R}R) and the time complexity of calculation (denoted as {\mathcal{O}(s)}O(s)) that incurs along with each recursion call:
+
+{\mathcal{O}(T) = R * \mathcal{O}(s)}O(T)=R∗O(s)
+
+Tail recursion is a recursion where the recursive call is the final instruction in the recursion function. And there should be only one recursive call in the function.
+
