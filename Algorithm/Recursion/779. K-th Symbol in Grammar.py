@@ -48,6 +48,7 @@ class Solution:
 
     # 绝了的法子
     # 奇偶校验
+    # https://blog.csdn.net/u012028275/article/details/112596947
 
 
 
